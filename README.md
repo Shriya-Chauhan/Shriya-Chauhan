@@ -1,6 +1,6 @@
 ### Hi there👋 <img align="right" src="https://komarev.com/ghpvc/?username=heyimshivam&color=brightgreen" />
 
-### I'm Shriya. I Love to design an code!
+### I'm Shriya. I Love to design and code!
 
 - 🔭 I’m currently exploring open-source.
 

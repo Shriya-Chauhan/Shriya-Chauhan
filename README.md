@@ -44,10 +44,10 @@
 <br />
 <br />
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriya-Chauhan&theme=graywhite&show_icons=true)
+![Shriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriya-Chauhan&theme=graywhite&show_icons=true)
 
 
 [mail]: mailto:helloshriya.dev@gmail.com
 [twitter]: https://twitter.com/toeveryheart
 [instagram]: https://www.instagram.com/girlwithwaves/
-[linkedin]: [https://www.linkedin.com/in/heyimshivam/](https://www.linkedin.com/in/shriya-chauhan-%F0%9F%A6%8B-20a19b200/)
+[linkedin]: [(https://www.linkedin.com/in/shriya-chauhan-%F0%9F%A6%8B-20a19b200/)](https://www.linkedin.com/in/shriya-chauhan-%F0%9F%A6%8B-20a19b200/)

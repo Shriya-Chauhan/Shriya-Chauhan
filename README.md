@@ -2,11 +2,12 @@
 
 ### I'm Shriya. I Love to design and code!
 
-- 🔭 I’m currently exploring open-source.
+- 🔭 I’m currently exploring open-source with AsyncAPI.
 
-- 🌱 I’m currently learning React js.
+- 🛠️ Tech Stack: React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, FastAPI, Python
 
-- 👯  I’m looking to collaborate on frontend and backend.
+- 💡 Passionate about building intuitive UIs and scalable frontend systems
+- 🌱 Learning: Python, System Design, and Open Source Collaboration
 
 - ⚡ Fun fact: ` There are around 700 separate programming languages `
 

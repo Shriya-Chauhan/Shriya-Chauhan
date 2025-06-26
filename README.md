@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently exploring open-source with AsyncAPI.
 
-- 🛠️ Tech Stack: React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, FastAPI, Python
+- 🛠️ Tech Stack (Learning): React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, FastAPI, Python
 
 - 💡 Passionate about building intuitive UIs and scalable frontend systems
 - 🌱 Learning: Python, System Design, and Open Source Collaboration

@@ -56,4 +56,4 @@
 [mail]: mailto:helloshriya.dev@gmail.com  
 [twitter]: https://twitter.com/toeveryheart  
 [instagram]: https://www.instagram.com/girlwithwaves/  
-[linkedin]: https://www.linkedin.com/in/shriya-chauhan-%F0%9F%A6%8B-20a19b200/
+[linkedin]: linkedin.com/in/shriya-chauhan23

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b63557-KFHQygIUKIxi.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b126-CG9rp6dE0DKo.png" width="180" /></p>
 
-> You can't get hurt without also hurting others.
+> No matter how painful it might be... I'll do everything in my might! So please, you too, act according to what you believe in!
 
-**— Mato Kuroi**  
-*Black Rock Shooter*
+**— Syaoran Li**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

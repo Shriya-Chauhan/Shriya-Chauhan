@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5510.jpg" width="180" /></p>
 
-> My place really was here. I was too foolish and stubborn to notice. But, what I truly hoped for then was here. Why do I always realize it... when I've already lost it.
+> If you smile once when you’re feeling down, you begin to feel better and become more cheerful.
 
-**— Guts**  
-*Berserk*
+**— Rito Yuuki**  
+*To Love Ru*
 
 <!--END_ANIME_QUOTE-->
 

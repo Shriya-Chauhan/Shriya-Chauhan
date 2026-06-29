@@ -51,14 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center">
-  <img src="https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png" width="180" />
-</p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png" width="180" /></p>
 
-> The moon does not mourn over the dead. What it does is shine light on the truth.
+> I know I look like an idiot, but… I’ve decided to bet my whole life up to this point.
 
-**— Shinichi Kudou**  
-*Case Closed*
+**— Kafka Hibino**  
+*Kaiju No. 8*
 
 <!--END_ANIME_QUOTE-->
 

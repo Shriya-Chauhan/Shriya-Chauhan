@@ -50,10 +50,10 @@
 ### 🌸 Anime Quote
 
 <!--START_ANIME_QUOTE-->
-> Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?
+> What must triumph here is the knight's path of chivalry that we champion. Is that not so, Heroic Spirit Arturia?
 
-**— Yuuji Kazami**  
-*The Fruit of Grisaia*
+**— Lancer**  
+*Fate/Zero*
 <!--END_ANIME_QUOTE-->
 
 ---

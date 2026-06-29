@@ -1,0 +1,38 @@
+name: Update Anime Quote
+
+on:
+  schedule:
+    - cron: "0 */1 * * *" # Every 1 hours
+
+  workflow_dispatch:  #manual trigger- This creates the Run workflow button on GitHub. Without it, you'd have to wait for the scheduled time.
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4 #download repo on vm
+
+      - name: Setup Node
+        uses: actions/setup-node@v4 #install node on vm
+        with:
+          node-version: 20
+
+      - name: Run Script
+        run: node scripts/updateQuote.js
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add README.md
+
+          git diff --cached --quiet || (
+            git commit -m "Update anime quote"
+            git push
+          )

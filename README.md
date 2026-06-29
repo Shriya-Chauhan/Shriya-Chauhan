@@ -47,6 +47,14 @@
 
 ---
 
+### 🌸 Anime Quote
+
+<!--START_ANIME_QUOTE-->
+Loading...
+<!--END_ANIME_QUOTE-->
+
+---
+
 ### 📊 GitHub Stats
 
 ![Shriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriya-Chauhan&theme=graywhite&show_icons=true)

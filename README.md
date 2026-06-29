@@ -50,14 +50,16 @@
 ### 🌸 Anime Quote
 
 <!--START_ANIME_QUOTE-->
-<<<<<<< HEAD
-> What must triumph here is the knight's path of chivalry that we champion. Is that not so, Heroic Spirit Arturia?
 
-**— Lancer**  
-*Fate/Zero*
-=======
-Loading...
->>>>>>> a318935 (feat: Added random anime quote)
+<p align="center">
+  <img src="https://s4.anilist.co/file/anilistcdn/character/large/b245-buy3Cfn6IFSB.jpg" width="180" />
+</p>
+
+> No, not yet, now that you've made me this serious. Regret as much as you damn well want!!
+
+**— Toushirou Hitsugaya**  
+*Bleach*
+
 <!--END_ANIME_QUOTE-->
 
 ---

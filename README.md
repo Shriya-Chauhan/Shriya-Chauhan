@@ -52,13 +52,13 @@
 <!--START_ANIME_QUOTE-->
 
 <p align="center">
-  <img src="https://via.placeholder.com/180" width="180" />
+  <img src="https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png" width="180" />
 </p>
 
-> I'm not afraid of the times I can't see him. When I feel pain in my chest, my song grows... The scenery feels closer. The next time I see you... I will, once again, fall in love.
+> The moon does not mourn over the dead. What it does is shine light on the truth.
 
-**— Nike Lemercier**  
-*The World is Still Beautiful*
+**— Shinichi Kudou**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

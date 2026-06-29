@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5510.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b63557-KFHQygIUKIxi.png" width="180" /></p>
 
-> If you smile once when you’re feeling down, you begin to feel better and become more cheerful.
+> You can't get hurt without also hurting others.
 
-**— Rito Yuuki**  
-*To Love Ru*
+**— Mato Kuroi**  
+*Black Rock Shooter*
 
 <!--END_ANIME_QUOTE-->
 

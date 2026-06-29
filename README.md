@@ -50,7 +50,10 @@
 ### 🌸 Anime Quote
 
 <!--START_ANIME_QUOTE-->
-Loading...
+> Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?
+
+**— Yuuji Kazami**  
+*The Fruit of Grisaia*
 <!--END_ANIME_QUOTE-->
 
 ---

@@ -8,10 +8,45 @@ async function updateQuote() {
   const character = json.data.character.name;
   const anime = json.data.anime.name;
 
-  const replacement = `> ${quote}
+  const query = `
+query ($search: String) {
+  Character(search: $search) {
+    image {
+      large
+    }
+  }
+}
+`;
+
+const anilistResponse = await fetch("https://graphql.anilist.co", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    query,
+    variables: {
+      search: character,
+    },
+  }),
+});
+
+const anilistJson = await anilistResponse.json();
+
+const image =
+  anilistJson.data?.Character?.image?.large ??
+  "https://via.placeholder.com/180";
+
+  const replacement = `
+<p align="center">
+  <img src="${image}" width="180" />
+</p>
+
+> ${quote}
 
 **— ${character}**  
-*${anime}*`;
+*${anime}*
+`;
 
   let readme = await readFile("README.md", "utf8");
 

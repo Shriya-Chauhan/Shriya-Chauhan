@@ -50,10 +50,14 @@
 ### 🌸 Anime Quote
 
 <!--START_ANIME_QUOTE-->
+<<<<<<< HEAD
 > What must triumph here is the knight's path of chivalry that we champion. Is that not so, Heroic Spirit Arturia?
 
 **— Lancer**  
 *Fate/Zero*
+=======
+Loading...
+>>>>>>> a318935 (feat: Added random anime quote)
 <!--END_ANIME_QUOTE-->
 
 ---

@@ -20,7 +20,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4 #install node on vm
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Run Script
         run: node scripts/updateQuote.js

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b126-CG9rp6dE0DKo.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b49437-Lw8Yv9rw2RCo.jpg" width="180" /></p>
 
-> No matter how painful it might be... I'll do everything in my might! So please, you too, act according to what you believe in!
+> Your high school life will be over before you know it. There are things you can only do now. You should do as many of them as you can.
 
-**— Syaoran Li**  
-*Tsubasa RESERVoir CHRoNiCLE*
+**— Youichi Tanaka**  
+*Blue Spring Ride*
 
 <!--END_ANIME_QUOTE-->
 

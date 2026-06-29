@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
-> I know I look like an idiot, but… I’ve decided to bet my whole life up to this point.
+> My place really was here. I was too foolish and stubborn to notice. But, what I truly hoped for then was here. Why do I always realize it... when I've already lost it.
 
-**— Kafka Hibino**  
-*Kaiju No. 8*
+**— Guts**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

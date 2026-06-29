@@ -52,13 +52,13 @@
 <!--START_ANIME_QUOTE-->
 
 <p align="center">
-  <img src="https://s4.anilist.co/file/anilistcdn/character/large/b245-buy3Cfn6IFSB.jpg" width="180" />
+  <img src="https://via.placeholder.com/180" width="180" />
 </p>
 
-> No, not yet, now that you've made me this serious. Regret as much as you damn well want!!
+> I'm not afraid of the times I can't see him. When I feel pain in my chest, my song grows... The scenery feels closer. The next time I see you... I will, once again, fall in love.
 
-**— Toushirou Hitsugaya**  
-*Bleach*
+**— Nike Lemercier**  
+*The World is Still Beautiful*
 
 <!--END_ANIME_QUOTE-->
 

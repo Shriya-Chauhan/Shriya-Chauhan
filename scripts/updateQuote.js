@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 async function updateQuote() {
+  // Fetch a random quote
   const response = await fetch("https://api.animechan.io/v1/quotes/random");
   const json = await response.json();
 
@@ -8,39 +9,51 @@ async function updateQuote() {
   const character = json.data.character.name;
   const anime = json.data.anime.name;
 
+  // Query AniList using the anime name
   const query = `
-query ($search: String) {
-  Character(search: $search) {
-    image {
-      large
+    query ($anime: String) {
+      Media(search: $anime, type: ANIME) {
+        characters {
+          nodes {
+            name {
+              full
+            }
+            image {
+              large
+            }
+          }
+        }
+      }
     }
-  }
-}
-`;
+  `;
 
-const anilistResponse = await fetch("https://graphql.anilist.co", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-  },
-  body: JSON.stringify({
-    query,
-    variables: {
-      search: character,
+  const anilistResponse = await fetch("https://graphql.anilist.co", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
     },
-  }),
-});
+    body: JSON.stringify({
+      query,
+      variables: {
+        anime,
+      },
+    }),
+  });
 
-const anilistJson = await anilistResponse.json();
+  const anilistJson = await anilistResponse.json();
 
-const image =
-  anilistJson.data?.Character?.image?.large ??
-  "https://via.placeholder.com/180";
+  const media = anilistJson.data?.Media;
 
+  const matchedCharacter = media?.characters?.nodes.find((c) =>
+    c.name.full.toLowerCase().includes(character.toLowerCase()) ||
+    character.toLowerCase().includes(c.name.full.toLowerCase())
+  );
+
+  const image = matchedCharacter?.image?.large;
+
+  // Generate README section
   const replacement = `
-<p align="center">
-  <img src="${image}" width="180" />
-</p>
+${image ? `<p align="center"><img src="${image}" width="180" /></p>` : ""}
 
 > ${quote}
 

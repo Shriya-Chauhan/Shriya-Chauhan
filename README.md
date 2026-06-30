@@ -53,10 +53,10 @@
 
 
 
-> So, you don’t like to get hit, huh? Well, you’re about to have a very bad day.
+> Don’t wimp out! Save him! Save him! Save him! Im not powerless anymore! Move!!
 
-**— Monkey D. Luffy**  
-*One Piece*
+**— Tanjiro Kamado**  
+*Demon Slayer: Kimetsu no Yaiba*
 
 <!--END_ANIME_QUOTE-->
 

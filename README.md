@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b390-30DZg8NvIrVk.png" width="180" /></p>
 
-> You’re only resorting to physical abuse because you can’t prove that I’m wrong.
+> I don't give a rat's ass about going to hell. I guess it's because I feel like I'm already there.
 
-**— Armin Arlert**  
-*Attack on Titan*
+**— Mugen**  
+*Samurai Champloo*
 
 <!--END_ANIME_QUOTE-->
 

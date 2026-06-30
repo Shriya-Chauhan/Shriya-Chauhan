@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png" width="180" /></p>
 
-> This is the first time in my life that I've been provoked to hit a woman.
+> You’re only resorting to physical abuse because you can’t prove that I’m wrong.
 
-**— Light Yagami**  
-*Death Note*
+**— Armin Arlert**  
+*Attack on Titan*
 
 <!--END_ANIME_QUOTE-->
 

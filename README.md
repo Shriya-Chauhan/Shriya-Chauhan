@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b147-miunGYp6fkzb.png" width="180" /></p>
 
+> You can die anytime, but living takes true courage.
 
-> Don’t wimp out! Save him! Save him! Save him! Im not powerless anymore! Move!!
-
-**— Tanjiro Kamado**  
-*Demon Slayer: Kimetsu no Yaiba*
+**— Kenshin Himura**  
+*Rurouni Kenshin*
 
 <!--END_ANIME_QUOTE-->
 

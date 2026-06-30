@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6171.jpg" width="180" /></p>
 
-> Hmm... never noticed those before *after accidently groping Momiji's chest*.
 
-**— Mamoru Kusanagi**  
-*Blue Seed*
+> And can you offer me proof of your existence? How can you, when neither modern science nor philosophy can explain what life is?
+
+**— Puppet Master**  
+*Ghost in the Shell*
 
 <!--END_ANIME_QUOTE-->
 

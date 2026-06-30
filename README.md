@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b49437-Lw8Yv9rw2RCo.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6171.jpg" width="180" /></p>
 
-> Your high school life will be over before you know it. There are things you can only do now. You should do as many of them as you can.
+> Hmm... never noticed those before *after accidently groping Momiji's chest*.
 
-**— Youichi Tanaka**  
-*Blue Spring Ride*
+**— Mamoru Kusanagi**  
+*Blue Seed*
 
 <!--END_ANIME_QUOTE-->
 

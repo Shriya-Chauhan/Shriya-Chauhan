@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/12315.jpg" width="180" /></p>
 
+> There are three kinds of secrets. Something that you hide at the bottom of your heart because you don't want it to be mentioned. Something that you can't say even if you want to and something that you hope someone asks about even though you're hiding it.
 
-> And can you offer me proof of your existence? How can you, when neither modern science nor philosophy can explain what life is?
-
-**— Puppet Master**  
-*Ghost in the Shell*
+**— Kazuhiko Yukimi**  
+*Nabari no Ou*
 
 <!--END_ANIME_QUOTE-->
 

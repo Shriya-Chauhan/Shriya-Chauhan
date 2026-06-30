@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/61759.jpg" width="180" /></p>
 
-> Now you know what fear does to you. In the face of death you thought.
 
-**— Kasper Hekmatyar**  
-*Jormungand*
+> So, you don’t like to get hit, huh? Well, you’re about to have a very bad day.
+
+**— Monkey D. Luffy**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

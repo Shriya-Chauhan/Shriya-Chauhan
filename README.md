@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b390-30DZg8NvIrVk.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/61759.jpg" width="180" /></p>
 
-> I don't give a rat's ass about going to hell. I guess it's because I feel like I'm already there.
+> Now you know what fear does to you. In the face of death you thought.
 
-**— Mugen**  
-*Samurai Champloo*
+**— Kasper Hekmatyar**  
+*Jormungand*
 
 <!--END_ANIME_QUOTE-->
 

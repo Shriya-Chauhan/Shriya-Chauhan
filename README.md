@@ -53,10 +53,10 @@
 
 
 
-> I... Despise the way you fight. Without ever lifting your own hand... To steal bonds of camraderie and torture opponents is the height of cowardice. It is a lack of shame deserving of death. I am here. Strike me down. I shall kill you and cast you aside... Before you finish swinging your blade.
+> The future isn’t written yet. There’s still time for things to change!
 
-**— Kuchiki Byakuya**  
-*Bleach*
+**— Yūsei Fudō**  
+*Yu-Gi-Oh!*
 
 <!--END_ANIME_QUOTE-->
 

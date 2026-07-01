@@ -53,9 +53,9 @@
 
 
 
-> I don't know if you noticed, but you just called him "Captain."
+> I'm going to keep getting closer and closer to you. And not just day after day, oh no. It's going to happen much faster than that! See I'm already closer to you than I was a moment ago. And I'll keep getting closer and closer to you, until I swallow you up and then, you'll disappear. Things are not turning out well for you at all, are they? (laughs) See you around.
 
-**— Matsumoto Rangiku**  
+**— Hollow Ichigo**  
 *Bleach*
 
 <!--END_ANIME_QUOTE-->

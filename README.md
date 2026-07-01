@@ -53,9 +53,9 @@
 
 
 
-> I'm going to keep getting closer and closer to you. And not just day after day, oh no. It's going to happen much faster than that! See I'm already closer to you than I was a moment ago. And I'll keep getting closer and closer to you, until I swallow you up and then, you'll disappear. Things are not turning out well for you at all, are they? (laughs) See you around.
+> I... Despise the way you fight. Without ever lifting your own hand... To steal bonds of camraderie and torture opponents is the height of cowardice. It is a lack of shame deserving of death. I am here. Strike me down. I shall kill you and cast you aside... Before you finish swinging your blade.
 
-**— Hollow Ichigo**  
+**— Kuchiki Byakuya**  
 *Bleach*
 
 <!--END_ANIME_QUOTE-->

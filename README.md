@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2866-s8og7KAyexA4.png" width="180" /></p>
 
-> People like us aren't qualified to be involved in a dramatic incident such as a suicide. No matter how depressed you are or how much pain you're in, you have to return to your routine, daily life. Even if you don't come back, you'll just end up dying in vain. A dramatic death isn't befitting of us.
 
-**— Kaoru Yamazaki**  
-*Welcome to the N.H.K.*
+> I'm going to evaporate every molecule this scumbag is made out of!
+
+**— Kaze no Stigma**  
+*Kaze no Stigma*
 
 <!--END_ANIME_QUOTE-->
 

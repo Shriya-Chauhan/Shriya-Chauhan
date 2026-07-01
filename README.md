@@ -53,10 +53,10 @@
 
 
 
-> I'm going to evaporate every molecule this scumbag is made out of!
+> I don't know if you noticed, but you just called him "Captain."
 
-**— Kaze no Stigma**  
-*Kaze no Stigma*
+**— Matsumoto Rangiku**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

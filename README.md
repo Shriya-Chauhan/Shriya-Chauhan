@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b19931-PpWhEh5yrn05.jpg" width="180" /></p>
 
-> You do them one favor and they think you're their best friend. This is why I could care less if their entire species was swallowed up.
+> Most people are irresponsible, changing their opinions easily based on unconfirmed information or convenient rumors.
 
-**— Hiei**  
-*Yu Yu Hakusho*
+**— Saki Morimi**  
+*Eden of The East*
 
 <!--END_ANIME_QUOTE-->
 

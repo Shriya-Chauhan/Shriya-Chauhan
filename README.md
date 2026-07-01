@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b19931-PpWhEh5yrn05.jpg" width="180" /></p>
 
-> Most people are irresponsible, changing their opinions easily based on unconfirmed information or convenient rumors.
 
-**— Saki Morimi**  
-*Eden of The East*
+> Life is suffering, pain, and misery.
+
+**— Nana**  
+*Golden Time*
 
 <!--END_ANIME_QUOTE-->
 

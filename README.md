@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b735-C85KgkJl660I.jpg" width="180" /></p>
 
+> What a silly little girl I was, thinking you would change. I should have known how you would turn out. You had it written in ugly black letters all across your soul.
 
-> The future isn’t written yet. There’s still time for things to change!
-
-**— Yūsei Fudō**  
-*Yu-Gi-Oh!*
+**— Genkai**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b65607-C11GM7UDEXQ3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/2100.jpg" width="180" /></p>
 
-> I always thought of humans as intelligent dominoes, since they tend to follow each other.
+> Now all that is left is the destruction of earth, but I think it would be a waste to destroy it. The food of this planet is very delicious.
 
-**— Watashi**  
-*Humanity Has Declined*
+**— Beerus**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

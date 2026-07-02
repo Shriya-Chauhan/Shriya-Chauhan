@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png" width="180" /></p>
 
+> Sometimes you see things, by closing your eyes.
 
-> Running away isn’t the same thing as losing. You only truly lose by dying. So as long you’re alive, you win.
-
-**— Senator Figaro**  
-*Valvrave the Liberator*
+**— Arthur Boyle**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

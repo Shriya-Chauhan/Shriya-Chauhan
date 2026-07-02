@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png" width="180" /></p>
 
-> It feels like time is passing so quickly. Damn you, Einstein! Your science is crowding in on our kiss! He was right. The passage of time depends entirely on where you’re standing. Relativity Theory… it’s so romantic. But it’s just so tragic too.
 
-**— Kurisu Makise**  
-*Steins Gate*
+> Copper, 40g; Zinc, 25g; Nickel, 15g; Hiding Embarrassment, 5g and Spite, 97kg.
+
+**— Senjougahara Hitagi**  
+*Bakemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

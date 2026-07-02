@@ -53,10 +53,10 @@
 
 
 
-> The weak don't get to decide anything, not even how they die.
+> The weak always cling to words, and those with power die for those without it.
 
-**— Trafalgar Law**  
-*One Piece*
+**— Claymore**  
+*Claymore*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b65607-C11GM7UDEXQ3.png" width="180" /></p>
 
+> I always thought of humans as intelligent dominoes, since they tend to follow each other.
 
-> Copper, 40g; Zinc, 25g; Nickel, 15g; Hiding Embarrassment, 5g and Spite, 97kg.
-
-**— Senjougahara Hitagi**  
-*Bakemonogatari*
+**— Watashi**  
+*Humanity Has Declined*
 
 <!--END_ANIME_QUOTE-->
 

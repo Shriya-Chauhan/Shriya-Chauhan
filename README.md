@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/2100.jpg" width="180" /></p>
 
-> Now all that is left is the destruction of earth, but I think it would be a waste to destroy it. The food of this planet is very delicious.
 
-**— Beerus**  
-*Dragon Ball Z*
+> Running away isn’t the same thing as losing. You only truly lose by dying. So as long you’re alive, you win.
+
+**— Senator Figaro**  
+*Valvrave the Liberator*
 
 <!--END_ANIME_QUOTE-->
 

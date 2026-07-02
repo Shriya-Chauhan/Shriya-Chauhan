@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b735-C85KgkJl660I.jpg" width="180" /></p>
 
-> What a silly little girl I was, thinking you would change. I should have known how you would turn out. You had it written in ugly black letters all across your soul.
 
-**— Genkai**  
-*Yu Yu Hakusho*
+> The weak don't get to decide anything, not even how they die.
+
+**— Trafalgar Law**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

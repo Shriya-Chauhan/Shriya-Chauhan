@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png" width="180" /></p>
 
+> Huh? What are you looking at?
 
-> Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully.
-
-**— Korosensei**  
-*Assassination Classroom*
+**— Tamaki Kotatsu**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12677-cf7JXvuoXtfv.png" width="180" /></p>
 
-> When you get a piece of Ryu you get the whole pie!
 
-**— RYU**  
-*Shaman King*
+> Whether a fish lives in a clear stream or a water ditch, so long as it continues swimming forward, it will grow up beautifully.
+
+**— Korosensei**  
+*Assassination Classroom*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png" width="180" /></p>
 
+> I'll Turn You Into The Baddest Of The Badasses.
 
-> My treasure... you can see it, but you cannot! So I can´t show it to you! It´s friendship! We can see it in each other, but you can't see courage itself, right?
-
-**— Joey Wheeler**  
-*Yu-Gi-Oh!*
+**— Kishibe**  
+*Chainsaw Man*
 
 <!--END_ANIME_QUOTE-->
 

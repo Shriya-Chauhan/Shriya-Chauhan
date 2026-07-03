@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg" width="180" /></p>
 
+> However, I do know one guy who whines, cries, and throws tantrums but still manages to save everyone. He's a crazy man who's not afraid of anything. Even though he's been scarred from head to toe, he'll always be there.
 
-> But don't forget... as long as you're in my division, I'm on your side until death and beyond.
-
-**— Shiba Kaien**  
-*Bleach*
+**— Nicholas D. Wolfwood**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

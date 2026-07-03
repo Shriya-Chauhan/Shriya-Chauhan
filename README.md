@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png" width="180" /></p>
 
-> Huh? What are you looking at?
 
-**— Tamaki Kotatsu**  
-*Fire Force*
+> I may not have anywhere to go... but I can't just selfishly disappear either.
+
+**— Natsume Takeshi**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

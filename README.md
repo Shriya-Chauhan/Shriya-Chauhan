@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> Does the world hate me or something? I've always rejected it in an exceedingly friendly manner.
 
-**— Keima Katsuragi**  
-*The World God Only Knows*
+> But don't forget... as long as you're in my division, I'm on your side until death and beyond.
+
+**— Shiba Kaien**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

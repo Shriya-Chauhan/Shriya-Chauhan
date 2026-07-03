@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12677-cf7JXvuoXtfv.png" width="180" /></p>
 
-> Sometimes you see things, by closing your eyes.
+> When you get a piece of Ryu you get the whole pie!
 
-**— Arthur Boyle**  
-*Fire Force*
+**— RYU**  
+*Shaman King*
 
 <!--END_ANIME_QUOTE-->
 

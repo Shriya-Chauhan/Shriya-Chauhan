@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg" width="180" /></p>
 
-> However, I do know one guy who whines, cries, and throws tantrums but still manages to save everyone. He's a crazy man who's not afraid of anything. Even though he's been scarred from head to toe, he'll always be there.
 
-**— Nicholas D. Wolfwood**  
-*Trigun*
+> My treasure... you can see it, but you cannot! So I can´t show it to you! It´s friendship! We can see it in each other, but you can't see courage itself, right?
+
+**— Joey Wheeler**  
+*Yu-Gi-Oh!*
 
 <!--END_ANIME_QUOTE-->
 

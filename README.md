@@ -51,11 +51,11 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png" width="180" /></p>
 
-> What could that creep possibly be thinking sending sexy underwear to his own daughter.
+> When I fall it will be silent and tragic.
 
-**— Maka Albarn**  
+**— Tsubaki Nakatsukasa**  
 *Soul Eater*
 
 <!--END_ANIME_QUOTE-->

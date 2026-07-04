@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b911-KgzOcvf4jhOh.png" width="180" /></p>
 
+> Though you fight a fierce battle on the outside, your inner world trembles not the slightest.
 
-> But I think... I want to live with all my memories. Even if they're bad memories. Even if they're memories that only hurt me... that I'd rather forget. If I keep them and keep trying, without running away, then someday I'll be strong enough that those memories can't defeat me. I believe that because I want to think that there's no such thing as a memory that's ok to forget.
-
-**— Sohma Momiji**  
-*Fruits Basket*
+**— Zangetsu**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b251-8DTaCNkSvBQ8.png" width="180" /></p>
 
-> Whether here or in the real world, you can cry when it hurts. There's no rule that you can't show feelings just because it's a game.
+> Kyon. The contest begins the second someone challenges you. Anything the loser says otherwise is merely an excuse.
 
-**— Kazuto Kirigaya**  
-*Sword Art Online*
+**— Haruhi Suzumiya**  
+*The Melancholy of Haruhi Suzumiya*
 
 <!--END_ANIME_QUOTE-->
 

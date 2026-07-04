@@ -53,10 +53,10 @@
 
 
 
-> If I die here, then I’m a man that could only make it this far.
+> But I think... I want to live with all my memories. Even if they're bad memories. Even if they're memories that only hurt me... that I'd rather forget. If I keep them and keep trying, without running away, then someday I'll be strong enough that those memories can't defeat me. I believe that because I want to think that there's no such thing as a memory that's ok to forget.
 
-**— Roronoa Zoro**  
-*One Piece*
+**— Sohma Momiji**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

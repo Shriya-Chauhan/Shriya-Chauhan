@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png" width="180" /></p>
 
-> I'll Turn You Into The Baddest Of The Badasses.
+> What could that creep possibly be thinking sending sexy underwear to his own daughter.
 
-**— Kishibe**  
-*Chainsaw Man*
+**— Maka Albarn**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

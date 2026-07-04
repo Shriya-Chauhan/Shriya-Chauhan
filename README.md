@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b911-KgzOcvf4jhOh.png" width="180" /></p>
 
-> Though you fight a fierce battle on the outside, your inner world trembles not the slightest.
 
-**— Zangetsu**  
-*Bleach*
+> Is anything ever truly wasted?
+
+**— Korosensei**  
+*Assassination Classroom 2nd Season*
 
 <!--END_ANIME_QUOTE-->
 

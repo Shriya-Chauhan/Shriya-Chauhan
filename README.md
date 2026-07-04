@@ -53,10 +53,10 @@
 
 
 
-> The right to use my friends as a weapon, that is the sinful crown I shall adorn.
+> Regrets are just a way for the foolish and the guilty to pass time.
 
-**— Shū Ouma**  
-*Guilty Crown*
+**— Cho Hakkai**  
+*Saiyuki*
 
 <!--END_ANIME_QUOTE-->
 

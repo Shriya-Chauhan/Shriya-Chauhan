@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png" width="180" /></p>
 
-> When I fall it will be silent and tragic.
 
-**— Tsubaki Nakatsukasa**  
-*Soul Eater*
+> The right to use my friends as a weapon, that is the sinful crown I shall adorn.
+
+**— Shū Ouma**  
+*Guilty Crown*
 
 <!--END_ANIME_QUOTE-->
 

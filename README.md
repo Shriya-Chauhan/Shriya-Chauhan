@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b251-8DTaCNkSvBQ8.png" width="180" /></p>
 
-> Kyon. The contest begins the second someone challenges you. Anything the loser says otherwise is merely an excuse.
 
-**— Haruhi Suzumiya**  
-*The Melancholy of Haruhi Suzumiya*
+> If I die here, then I’m a man that could only make it this far.
+
+**— Roronoa Zoro**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

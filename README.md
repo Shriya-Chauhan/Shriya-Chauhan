@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg" width="180" /></p>
 
+> No fair, sky. I'm the one who feels like crying.
 
-> Kuro-woof-woof.
-
-**— Fay D. Flourite**  
-*Tsubasa RESERVoir CHRoNiCLE*
+**— Alphonse Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

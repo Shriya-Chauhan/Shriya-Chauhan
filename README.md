@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n39742-v9wdkOMMW7oT.png" width="180" /></p>
 
-> But you're thinking on too large a scale there, kid... If we don't want to drive ourselves crazy, we can only deal with what's directly in front of us.
+> That sort of thing happens all the time. You get drunk on your own “correctness,” and the more stubborn you get, the further happiness flies away from you. It’s a bitter pill to swallow.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+**— Junko Kaname**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

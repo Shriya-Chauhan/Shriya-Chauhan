@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
 
-> No fair, sky. I'm the one who feels like crying.
+> No matter how unimportant the meeting... how small the outcome... it will always have some later effect on you. It can be the smallest of things. It can be the shortest of moments. It may never be remembered. It may have never been recorded. But a bond of fate never disappears once tied.
 
-**— Alphonse Elric**  
-*Fullmetal Alchemist*
+**— Yuuko Ichihara**  
+*xxxHOLiC*
 
 <!--END_ANIME_QUOTE-->
 

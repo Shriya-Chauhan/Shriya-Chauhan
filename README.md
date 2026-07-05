@@ -53,10 +53,10 @@
 
 
 
-> Some things can't be prevented. The last of which, is death. All we can do is live until the day we die. Control what we can... and fly free!
+> Such words are wasted on someone like me.
 
-**— Deneil Young**  
-*Space Brothers*
+**— Soi Fon**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

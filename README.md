@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n39742-v9wdkOMMW7oT.png" width="180" /></p>
 
-> That sort of thing happens all the time. You get drunk on your own “correctness,” and the more stubborn you get, the further happiness flies away from you. It’s a bitter pill to swallow.
 
-**— Junko Kaname**  
-*Puella Magi Madoka Magica*
+> Some things can't be prevented. The last of which, is death. All we can do is live until the day we die. Control what we can... and fly free!
+
+**— Deneil Young**  
+*Space Brothers*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b149-YxCJj4qtMUzB.jpg" width="180" /></p>
 
-> No matter how unimportant the meeting... how small the outcome... it will always have some later effect on you. It can be the smallest of things. It can be the shortest of moments. It may never be remembered. It may have never been recorded. But a bond of fate never disappears once tied.
+> Hey, I'll have you know that I almost really did kick the bucket during that training, so don't you dare sum it all up in one word, even if it is a nice one like "potential".
 
-**— Yuuko Ichihara**  
-*xxxHOLiC*
+**— Sanosuke Sagara**  
+*Rurouni Kenshin*
 
 <!--END_ANIME_QUOTE-->
 

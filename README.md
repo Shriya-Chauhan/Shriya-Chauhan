@@ -53,10 +53,10 @@
 
 
 
-> Such words are wasted on someone like me.
+> It's when things are tough that you have to keep your head up high. You won't find hope lying on the ground.
 
-**— Soi Fon**  
-*Bleach*
+**— Inspector Sayama**  
+*Zetman*
 
 <!--END_ANIME_QUOTE-->
 

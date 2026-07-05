@@ -53,10 +53,10 @@
 
 
 
-> It's when things are tough that you have to keep your head up high. You won't find hope lying on the ground.
+> Love. I myself have never loved another person.  Most likely, I don't even love myself.  I do have knowledge of it.  But I am incapable of determining whether or not it is vital in my life.
 
-**— Inspector Sayama**  
-*Zetman*
+**— Vorona**  
+*Durarara!!*
 
 <!--END_ANIME_QUOTE-->
 

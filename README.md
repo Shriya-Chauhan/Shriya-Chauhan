@@ -53,10 +53,10 @@
 
 
 
-> Is anything ever truly wasted?
+> Kuro-woof-woof.
 
-**— Korosensei**  
-*Assassination Classroom 2nd Season*
+**— Fay D. Flourite**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

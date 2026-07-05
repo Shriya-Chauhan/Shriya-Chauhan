@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b149-YxCJj4qtMUzB.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> Hey, I'll have you know that I almost really did kick the bucket during that training, so don't you dare sum it all up in one word, even if it is a nice one like "potential".
+> But you're thinking on too large a scale there, kid... If we don't want to drive ourselves crazy, we can only deal with what's directly in front of us.
 
-**— Sanosuke Sagara**  
-*Rurouni Kenshin*
+**— Roy Mustang**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

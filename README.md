@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png" width="180" /></p>
 
+> "Believing in someone." That's a weird phrase, isn't it? After all, if you truly believed in a person, you wouldn't need to say, "I believe you." It's like saying, "I believe in air." I don't mean to say that "believing in something" is like a lie. "Believing" is really a term of hope of wanting to believe.
 
-> Is it that you get the power, then you choose to protect someone else? No! We first want to protect someone, that's why we try to get stronger in the first place.
-
-**— Kamijou Touma**  
-*A Certain Magical Index*
+**— Satoru Fujinuma**  
+*Erased*
 
 <!--END_ANIME_QUOTE-->
 

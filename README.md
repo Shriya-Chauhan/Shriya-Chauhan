@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89275-xCGzh6jAGe2v.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
 
-> "Believing in someone." That's a weird phrase, isn't it? After all, if you truly believed in a person, you wouldn't need to say, "I believe you." It's like saying, "I believe in air." I don't mean to say that "believing in something" is like a lie. "Believing" is really a term of hope of wanting to believe.
+> There's something that cannot be expressed in words: human emotion. Emotions of the heart can't be just tucked away in a closet. There's a way to know the emotions: look into the eyes. The gentleman lied to me when I trusted him, but the moment I looked into his eyes the angel of destiny began to unravel the truth. Just look into their eyes, there is only one truth.
 
-**— Satoru Fujinuma**  
-*Erased*
+**— Vash the Stampede**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

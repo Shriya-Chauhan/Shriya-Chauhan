@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
 
-> There's something that cannot be expressed in words: human emotion. Emotions of the heart can't be just tucked away in a closet. There's a way to know the emotions: look into the eyes. The gentleman lied to me when I trusted him, but the moment I looked into his eyes the angel of destiny began to unravel the truth. Just look into their eyes, there is only one truth.
 
-**— Vash the Stampede**  
-*Trigun*
+> It's my own recipe which I call Misty's mystery stew, and it's got 47 secret ingredients.
+
+**— Kasumi**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

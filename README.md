@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41949-LaoaHJ2tJxBw.png" width="180" /></p>
 
+> Everything in the world is actually connected. That means, even if we get separated, we'll never be alone.
 
-> Love. I myself have never loved another person.  Most likely, I don't even love myself.  I do have knowledge of it.  But I am incapable of determining whether or not it is vital in my life.
-
-**— Vorona**  
-*Durarara!!*
+**— Aladdin**  
+*Magi: The Labyrinth of Magic*
 
 <!--END_ANIME_QUOTE-->
 

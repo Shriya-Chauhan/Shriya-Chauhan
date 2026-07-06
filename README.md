@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41949-LaoaHJ2tJxBw.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Everything in the world is actually connected. That means, even if we get separated, we'll never be alone.
+> A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart... A Fullmetal Heart.
 
-**— Aladdin**  
-*Magi: The Labyrinth of Magic*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

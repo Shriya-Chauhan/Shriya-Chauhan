@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b55741-FX0mwEYDYZmw.png" width="180" /></p>
 
-> Wiping out any and all injuries as if they never happened. A spell like that... Do you really believe he can cast it without paying any price? In order to rewind the Eidos changelog and make a full copy,the stored information must be read in its entirely. Needless to say, that includes the pain and suffering experienced by the injured party. Not only that, but it's transmitted instantaneously in condensed form. For example, from the time that Isori was injured until brother cast his spell, roughly 30 seconds had gone by. Whereas the time Brother spent reading the Eidos changelog... was approximately 0.2 seconds. In that blink of an eye, my Brother's mind felt 150 times the pain and suffering experienced by Isori, condensed. Everytime Brother heals someone's wounds, that is the price he pays. Do you really mean to say that he should still use that power for others?
 
-**— Miyuki Shiba**  
-*The Irregular at Magic High School*
+> Hahahahahahahah! Now we'll see who has the last quack!
+
+**— Ash Ketchum**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

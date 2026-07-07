@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1530-BjvFdpGZslfB.png" width="180" /></p>
 
-> Is this God's punishemt for falling in love with an angel? As the gossamer floats ever eluding my grasp, it weighs heavily upon my heart.
 
-**— Talho Yuuki**  
-*Eureka Seven*
+> The world consists of "choices", in other words, it consists of continual gamble. Other guys are not aware of this. Thus they moved about in confusion.
+
+**— Ikazuchi Akatsuki**  
+*Deadman Wonderland*
 
 <!--END_ANIME_QUOTE-->
 

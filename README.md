@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3106-boGJvvIaEfKW.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg" width="180" /></p>
 
-> Drop ink on the finest snow-white paper and it will inevitably absorb into black. Its purity demands it. Tainted men have immunities. Black does not absorb black.
+> Humans are so... interesting.
 
-**— Shinobu Sensui**  
-*Yu Yu Hakusho*
+**— Ryuk**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

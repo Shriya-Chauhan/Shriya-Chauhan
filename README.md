@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png" width="180" /></p>
 
+> Even if the parts of me inside you die, there are eighteen other fragments of my soul.
 
-> Hahahahahahahah! Now we'll see who has the last quack!
-
-**— Ash Ketchum**  
-*Pokémon*
+**— Sukuna**  
+*Jujutsu Kaisen*
 
 <!--END_ANIME_QUOTE-->
 

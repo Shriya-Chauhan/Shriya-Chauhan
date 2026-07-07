@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3106-boGJvvIaEfKW.png" width="180" /></p>
 
-> Even if the parts of me inside you die, there are eighteen other fragments of my soul.
+> Drop ink on the finest snow-white paper and it will inevitably absorb into black. Its purity demands it. Tainted men have immunities. Black does not absorb black.
 
-**— Sukuna**  
-*Jujutsu Kaisen*
+**— Shinobu Sensui**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

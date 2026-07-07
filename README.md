@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1530-BjvFdpGZslfB.png" width="180" /></p>
 
-> I’d rather die than become a burden.
+> Is this God's punishemt for falling in love with an angel? As the gossamer floats ever eluding my grasp, it weighs heavily upon my heart.
 
-**— Armin Arlert**  
-*Attack on Titan*
+**— Talho Yuuki**  
+*Eureka Seven*
 
 <!--END_ANIME_QUOTE-->
 

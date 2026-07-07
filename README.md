@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png" width="180" /></p>
 
-> Humans are so... interesting.
+> I’d rather die than become a burden.
 
-**— Ryuk**  
-*Death Note*
+**— Armin Arlert**  
+*Attack on Titan*
 
 <!--END_ANIME_QUOTE-->
 

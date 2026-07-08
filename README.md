@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40195-PenXAhV9kQKc.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg" width="180" /></p>
 
-> What you can't accomplish alone, becomes doable when you're with someone else.
+> *to Sophie* You're wearing that hat? After all the magic I used to make your dress pretty?
 
-**— Taichi Yaegashi**  
-*Kokoro Connect*
+**— Howl**  
+*Howl's Moving Castle*
 
 <!--END_ANIME_QUOTE-->
 

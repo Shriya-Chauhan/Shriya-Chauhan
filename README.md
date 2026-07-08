@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b356-Ww7F14AJZzID.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40195-PenXAhV9kQKc.png" width="180" /></p>
 
-> Never once did I say it.  But just as he knew my feelings and couldn't return them. She will probably realize his and probably his heart wouldn't have a chance either? When I think about things like that, my tears won't stop.
+> What you can't accomplish alone, becomes doable when you're with someone else.
 
-**— Ayumi Yamada**  
-*Honey and Clover*
+**— Taichi Yaegashi**  
+*Kokoro Connect*
 
 <!--END_ANIME_QUOTE-->
 

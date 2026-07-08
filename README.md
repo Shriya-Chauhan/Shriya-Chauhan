@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
 
+> It was the only way the world had to be fixed! A purpose, given to me!
 
-> That kid's good point is that he feels he doesn't have much skill. It's this kind of person that will keep on improving.
-
-**— Mizuno Tatsuya**  
-*Whistle!*
+**— Light Yagami**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

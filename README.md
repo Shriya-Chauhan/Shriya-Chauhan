@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b461-1hBKMLSpTY0e.png" width="180" /></p>
 
-> Justice. I can't think of another word more loved by the people. It does have a nice ring to it. However, without ever exercising your own strength, you seek the death of others at the hands of someone else. Well, the justice you refer to smells pretty rotten to me.
 
-**— Balalaika**  
-*Black Lagoon*
+> The past and the future are not the same, but they're not completely separate either.
+
+**— Tetsuya Kuroko**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

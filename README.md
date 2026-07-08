@@ -53,10 +53,10 @@
 
 
 
-> There comes a time when we can no longer tell the invaders from the invaded. That is what we call “War”.
+> The sorrows of life...To not be able to live like yourself. The joys of life...To be able to die like yourself.
 
-**— Gantz**  
-*Gantz*
+**— Karren von Rosewald**  
+*Tokyo Ghoul:re*
 
 <!--END_ANIME_QUOTE-->
 

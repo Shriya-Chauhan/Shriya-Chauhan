@@ -53,10 +53,10 @@
 
 
 
-> The sorrows of life...To not be able to live like yourself. The joys of life...To be able to die like yourself.
+> That kid's good point is that he feels he doesn't have much skill. It's this kind of person that will keep on improving.
 
-**— Karren von Rosewald**  
-*Tokyo Ghoul:re*
+**— Mizuno Tatsuya**  
+*Whistle!*
 
 <!--END_ANIME_QUOTE-->
 

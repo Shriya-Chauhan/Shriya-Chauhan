@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
+> If you're alone... if it's just your life, you can use it however you please/ Wear yourself out, get cut to ribbons, doesn't matter. But when there's two, the blade grows heavy. Fighting like death doesn't concern you becomes a thing of the past. It's no longer just you. I threw away my way of life, relied on the strength of others, and somehow pushed on.
 
-> The past and the future are not the same, but they're not completely separate either.
-
-**— Tetsuya Kuroko**  
-*Kuroko's Basketball - duplicate*
+**— Guts**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

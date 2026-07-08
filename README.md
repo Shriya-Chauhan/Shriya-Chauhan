@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b356-Ww7F14AJZzID.png" width="180" /></p>
 
-> If you're alone... if it's just your life, you can use it however you please/ Wear yourself out, get cut to ribbons, doesn't matter. But when there's two, the blade grows heavy. Fighting like death doesn't concern you becomes a thing of the past. It's no longer just you. I threw away my way of life, relied on the strength of others, and somehow pushed on.
+> Never once did I say it.  But just as he knew my feelings and couldn't return them. She will probably realize his and probably his heart wouldn't have a chance either? When I think about things like that, my tears won't stop.
 
-**— Guts**  
-*Berserk*
+**— Ayumi Yamada**  
+*Honey and Clover*
 
 <!--END_ANIME_QUOTE-->
 

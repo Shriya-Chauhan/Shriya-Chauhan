@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg" width="180" /></p>
 
-> *to Sophie* You're wearing that hat? After all the magic I used to make your dress pretty?
 
-**— Howl**  
-*Howl's Moving Castle*
+> There comes a time when we can no longer tell the invaders from the invaded. That is what we call “War”.
+
+**— Gantz**  
+*Gantz*
 
 <!--END_ANIME_QUOTE-->
 

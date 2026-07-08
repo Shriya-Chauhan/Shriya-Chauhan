@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b461-1hBKMLSpTY0e.png" width="180" /></p>
 
+> Justice. I can't think of another word more loved by the people. It does have a nice ring to it. However, without ever exercising your own strength, you seek the death of others at the hands of someone else. Well, the justice you refer to smells pretty rotten to me.
 
-> The world consists of "choices", in other words, it consists of continual gamble. Other guys are not aware of this. Thus they moved about in confusion.
-
-**— Ikazuchi Akatsuki**  
-*Deadman Wonderland*
+**— Balalaika**  
+*Black Lagoon*
 
 <!--END_ANIME_QUOTE-->
 

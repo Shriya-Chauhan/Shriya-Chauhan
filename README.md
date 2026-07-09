@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
 
-> It was the only way the world had to be fixed! A purpose, given to me!
 
-**— Light Yagami**  
-*Death Note*
+> Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form.
+
+**— Silvers Rayleigh**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

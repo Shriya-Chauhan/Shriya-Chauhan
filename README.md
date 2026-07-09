@@ -53,10 +53,10 @@
 
 
 
-> Opportunities and success come only to those who do not fear to stand in the batter's box. Who want to hit the ball more than anything, and swing with all their might!
+> People in reality spout off all in unison about love and friendship but in fact it's a dirty little world full of lies and desires, isn't it?
 
-**— Kamijou Touma**  
-*A Certain Magical Index*
+**— Satou Tatsuhiro**  
+*Welcome to the N.H.K.*
 
 <!--END_ANIME_QUOTE-->
 

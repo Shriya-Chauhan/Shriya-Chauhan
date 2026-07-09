@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> Everyone will always question your ideals. That's simply reality.
 
-**— Keima Katsuragi**  
-*The World God Only Knows*
+> Let me make two things clear; first of all, I hate to joke, furthermore the shadow of death looms over you on this day.
+
+**— Basil Hawkins**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

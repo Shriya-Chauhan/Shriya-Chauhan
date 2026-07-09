@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13689.jpg" width="180" /></p>
 
+> Ribbit.
 
-> Let me make two things clear; first of all, I hate to joke, furthermore the shadow of death looms over you on this day.
-
-**— Basil Hawkins**  
-*One Piece*
+**— Eruka Frog**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

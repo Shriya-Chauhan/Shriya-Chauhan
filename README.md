@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
+> Water is the greatest enemy of games.
 
-> Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form.
-
-**— Silvers Rayleigh**  
-*One Piece*
+**— Keima Katsuragi**  
+*The World God Only Knows*
 
 <!--END_ANIME_QUOTE-->
 

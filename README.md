@@ -53,7 +53,7 @@
 
 <p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> Water is the greatest enemy of games.
+> Everyone will always question your ideals. That's simply reality.
 
 **— Keima Katsuragi**  
 *The World God Only Knows*

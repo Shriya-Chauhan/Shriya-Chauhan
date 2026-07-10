@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b413-77YmQ2HpHA0w.jpg" width="180" /></p>
 
-> I hate memories. Because reality is better than memories. A reality where I exist and you're here right next to me.
 
-**— Motoharu Yano**  
-*We Were There*
+> Not following through to the end can be fatal.
+
+**— Tamaki Amajiki**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

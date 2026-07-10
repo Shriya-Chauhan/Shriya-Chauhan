@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> You keep imposing your ideals on them. Don't worry about other people. You only need to do what you think is right.
 
-**— Keima Katsuragi**  
-*The World God Only Knows*
+> The only one who can decide your worth.. is you. If you want to earn something, you need to reach out for it. Pro-athletes give up their teenage years to train. Business owners put up collateral to borrow money. That's how it always works. To make your ambitions come true, you have to take risks. The larger the ambition the greater the risk. That might involve time or enough work to affect your lifespan... So make your choice. Live in peace as a wannabe or risk losing it all to reach the very top. You're the one who needs to decide.
+
+**— Jabami Yumeko**  
+*Kakegurui*
 
 <!--END_ANIME_QUOTE-->
 

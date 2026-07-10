@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/36336.jpg" width="180" /></p>
 
-> If you realize you made a mistake with the way you've been living your life, you just have to take the next moment and start over.
+> It's not that I'm on the side of humans. I just really don't like you guys.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+**— Yuuki Natsuno**  
+*Shiki*
 
 <!--END_ANIME_QUOTE-->
 

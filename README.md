@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/36336.jpg" width="180" /></p>
 
-> It's not that I'm on the side of humans. I just really don't like you guys.
 
-**— Yuuki Natsuno**  
-*Shiki*
+> No matter the reason, I don't think anyone who loses consciousness in the battlefield has any right to survive!
+
+**— Kyoko Mogami**  
+*Skip Beat!*
 
 <!--END_ANIME_QUOTE-->
 

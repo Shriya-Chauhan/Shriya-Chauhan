@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b413-77YmQ2HpHA0w.jpg" width="180" /></p>
 
+> I hate memories. Because reality is better than memories. A reality where I exist and you're here right next to me.
 
-> No matter the reason, I don't think anyone who loses consciousness in the battlefield has any right to survive!
-
-**— Kyoko Mogami**  
-*Skip Beat!*
+**— Motoharu Yano**  
+*We Were There*
 
 <!--END_ANIME_QUOTE-->
 

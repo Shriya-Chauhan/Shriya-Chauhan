@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
+> If you realize you made a mistake with the way you've been living your life, you just have to take the next moment and start over.
 
-> The only one who can decide your worth.. is you. If you want to earn something, you need to reach out for it. Pro-athletes give up their teenage years to train. Business owners put up collateral to borrow money. That's how it always works. To make your ambitions come true, you have to take risks. The larger the ambition the greater the risk. That might involve time or enough work to affect your lifespan... So make your choice. Live in peace as a wannabe or risk losing it all to reach the very top. You're the one who needs to decide.
-
-**— Jabami Yumeko**  
-*Kakegurui*
+**— Erza Scarlet**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

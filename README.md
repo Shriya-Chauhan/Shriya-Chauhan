@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b60163-oDvPzFk68GEt.png" width="180" /></p>
 
+> Even if a fool dies, he won't be cured.
 
-> What's wrong Frieza? Is your brain another one of your weak and under used muscles?
-
-**— Vegeta**  
-*Dragon Ball*
+**— Atsushi Shimao**  
+*Natsuyuki Rendezvous*
 
 <!--END_ANIME_QUOTE-->
 

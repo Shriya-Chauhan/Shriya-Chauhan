@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
 
-> Sasuke, I always knew you were alone. In the beginning I was glad because I thought you were like me - I wanted to talk to you! But you... didn't speak. You always had everyone watching you. You could do everything and we were too different. So I decided that you would become my rival. I didn't want to lose because I was called a loser all the time. Even when we became Team 7, I still thought this way. I always tried to lie but... but the truth is... I always wanted to be like you. I aspired to be like you. Because of that... I was glad that you wanted to fight me.
 
-**— Naruto Uzumaki**  
-*Naruto*
+> We'll worry about the future once we get there.
+
+**— Tetsuya Kuroko**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

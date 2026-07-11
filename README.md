@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
 
-> Kindness can bring you even bigger troubles.
 
-**— Homura Akemi**  
-*Puella Magi Madoka Magica*
+> If you feel yourself hitting up against your limit, remember for what cause you clench your fists! Remember why you started down this path, and let that memory carry you beyond your limit.
+
+**— All Might**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

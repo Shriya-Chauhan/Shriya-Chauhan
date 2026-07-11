@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
 
+> If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be!
 
-> Not following through to the end can be fatal.
-
-**— Tamaki Amajiki**  
-*My Hero Academia*
+**— Naruto Uzumaki**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

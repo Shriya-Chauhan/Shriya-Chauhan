@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
 
-> If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be!
 
-**— Naruto Uzumaki**  
-*Naruto*
+> Fighting's fine, but losing looks like it'll hurt... so that'd suck.
+
+**— Fay D. Flourite**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

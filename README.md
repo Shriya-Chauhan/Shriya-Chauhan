@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
 
-> Emblem? Looks like a grumbling, drunken tapeworm to me.
+> Kindness can bring you even bigger troubles.
 
-**— Kyon**  
-*The Melancholy of Haruhi Suzumiya*
+**— Homura Akemi**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

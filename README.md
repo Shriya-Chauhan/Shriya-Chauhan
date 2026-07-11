@@ -53,10 +53,10 @@
 
 
 
-> If you feel yourself hitting up against your limit, remember for what cause you clench your fists! Remember why you started down this path, and let that memory carry you beyond your limit.
+> What's wrong Frieza? Is your brain another one of your weak and under used muscles?
 
-**— All Might**  
-*My Hero Academia*
+**— Vegeta**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

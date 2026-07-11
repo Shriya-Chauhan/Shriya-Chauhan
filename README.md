@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b60163-oDvPzFk68GEt.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Even if a fool dies, he won't be cured.
+> Ignorance is bliss, isn't it?
 
-**— Atsushi Shimao**  
-*Natsuyuki Rendezvous*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

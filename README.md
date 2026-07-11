@@ -53,10 +53,10 @@
 
 
 
-> We'll worry about the future once we get there.
+> If there's any possibility that I might visit this city again...Then I challenge you to a duel.  I wish to speak with you head-on, to within an inch of my life...To actually experience the joy of existing in this world...that is my desire.
 
-**— Tetsuya Kuroko**  
-*Kuroko's Basketball - duplicate*
+**— Vorona**  
+*Durarara!!*
 
 <!--END_ANIME_QUOTE-->
 

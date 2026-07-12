@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b33451-vtOlLnNM4vIj.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1073-15DezPe42K5Y.jpg" width="180" /></p>
 
-> It is man's heart which sets the world aflame.
+> The world is full of choices unseen. With the willingness to notice, anyone can choose a world of their very own, from an infinity of choices.
 
-**— Koko Hekmatyar**  
-*Jormungand*
+**— Shinku**  
+*Rozen Maiden*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2035-J2dKbfYjoFR0.png" width="180" /></p>
 
-> I've been thinking about this for a long time. We put all our trust in alchemy but in the end... what is it? "Alchemy is the science of understanding the flow of matter and its laws. The process of comprehension, deconstruction, and reconstruction. The world flows too. It must also follow laws. Everything circulates. Even death is a part of that circulation. You must accept the flow." Hmm, Teacher sure drummed that into our heads, didn't she? I thought I understood it. But I don't understand anything... Mom proves that. Now here I am again, trying desperately to figure out a way to do the impossible. I'm such a hopeless idiot. All this time and I haven't grown up one bit. I thought maybe the rain would wash away some of this gloom that's been following me... but right now, every drop that hits my face is even more depressing.
+> Even at a time like this there's not a single word of rescue from the one you worship. You see? That is the truth of this world. He doesn't watch anything and doesn't save anyone.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+**— Aion**  
+*Chrono Crusade*
 
 <!--END_ANIME_QUOTE-->
 

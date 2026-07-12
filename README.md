@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b33451-vtOlLnNM4vIj.png" width="180" /></p>
 
-> Ugly?! Who you callin' ugly?! C'mere you mouse!
+> It is man's heart which sets the world aflame.
 
-**— Kazuma Kuwabara**  
-*Yu Yu Hakusho*
+**— Koko Hekmatyar**  
+*Jormungand*
 
 <!--END_ANIME_QUOTE-->
 

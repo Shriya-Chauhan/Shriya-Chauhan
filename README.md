@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/42002.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> A person who can't even take care of himself has no right to have a pet.
+> DON'T CALL ME SMALL! I'LL BREAK DOWN YOUR FEET AND STICK THEM ON YOUR HEAD!!
 
-**— Takafumi Yokozawa**  
-*Sekai Ichi Hatsukoi - World's Greatest First Love*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

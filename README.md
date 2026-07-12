@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Ignorance is bliss, isn't it?
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+> I've been wondering... There must be a purpose for people being born into this world. Why are we here? What does it mean? I've been thinking about it a lot lately. I realized that finding our purpose IS the meaning. That's why we're here. And the ones who find it... They're the only ones who are truly free.
+
+**— Kimimaro**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

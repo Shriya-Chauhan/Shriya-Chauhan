@@ -53,10 +53,10 @@
 
 
 
-> It's better trusting someone than to die doubting people altogether.
+> In ages past, dragons and men were one. Those who lusted after wealth chose the land and the sea and became men. Those who cherished freedom, became dragons and chose wind and fire.
 
-**— Kaitou Kid**  
-*Case Closed*
+**— Root**  
+*Tales from Earthsea*
 
 <!--END_ANIME_QUOTE-->
 

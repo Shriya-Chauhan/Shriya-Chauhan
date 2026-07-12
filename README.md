@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
 
+> Ugly?! Who you callin' ugly?! C'mere you mouse!
 
-> In ages past, dragons and men were one. Those who lusted after wealth chose the land and the sea and became men. Those who cherished freedom, became dragons and chose wind and fire.
-
-**— Root**  
-*Tales from Earthsea*
+**— Kazuma Kuwabara**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

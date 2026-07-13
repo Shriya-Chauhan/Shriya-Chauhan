@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png" width="180" /></p>
 
-> When I fall it will be silent and tragic.
 
-**— Tsubaki Nakatsukasa**  
-*Soul Eater*
+> *To Tamaki* It's easy to feel sorry for him, but the hardships that he endured as a child, molded him into the person he is today. He'll be fine, the Host Club is his refuge, which means when all is said and done... he still has us.
+
+**— Kyoya Ootori**  
+*Ouran High School Host Club*
 
 <!--END_ANIME_QUOTE-->
 

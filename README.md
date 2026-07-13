@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8443-WtvTWl6zufoc.png" width="180" /></p>
 
+> When I fall it will be silent and tragic.
 
-> You make me sick, you and your pathetic girly whining... You're not a MAN! You're just a little kitty-cat who's afraid to fight! Know what?! YOU CAN GO TO HELL! HAHAHAHAHA! UGH! (gets kicked by Kyo in the face)
-
-**— Sohma Hatsuharu**  
-*Fruits Basket*
+**— Tsubaki Nakatsukasa**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> We're pulling a big job here! Get lost, kid!
+> Death is simply another stage of our life.
 
-**— Rocket Grunt**  
-*Pokémon*
+**— Grand Elder Guru**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/168.jpg" width="180" /></p>
 
-> [pulls a gun on a boy harassing Kaname] I'll let you go this time but if I see you doing this again, I'll come after you and all your relatives.
 
-**— Sousuke Sagara**  
-*Full Metal Panic!*
+> Heroes and villains both thrive on violence, but we’re still categorized. You’re good You’re evil. That’s how it is! Symbol of peace? Hah! In the end you’re just a tool for violence, made to keep us down. And violence only breeds more violence.
+
+**— Shigaraki Tomura**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

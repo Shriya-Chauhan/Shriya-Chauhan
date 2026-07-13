@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46085-aLRBe7odTpBy.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png" width="180" /></p>
 
-> People make a lot of mistakes, and strength is necessary to straighten those out.
+> This is your home now, so make yourself comfortable. And take advantage of everything here, except me.
 
-**— Yahiro Samukawa**  
-*Guilty Crown*
+**— Misato Katsuragi**  
+*Neon Genesis Evangelion*
 
 <!--END_ANIME_QUOTE-->
 

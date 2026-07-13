@@ -53,10 +53,10 @@
 
 
 
-> Heroes and villains both thrive on violence, but we’re still categorized. You’re good You’re evil. That’s how it is! Symbol of peace? Hah! In the end you’re just a tool for violence, made to keep us down. And violence only breeds more violence.
+> You make me sick, you and your pathetic girly whining... You're not a MAN! You're just a little kitty-cat who's afraid to fight! Know what?! YOU CAN GO TO HELL! HAHAHAHAHA! UGH! (gets kicked by Kyo in the face)
 
-**— Shigaraki Tomura**  
-*My Hero Academia*
+**— Sohma Hatsuharu**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

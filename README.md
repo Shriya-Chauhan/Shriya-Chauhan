@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/168.jpg" width="180" /></p>
 
-> This is your home now, so make yourself comfortable. And take advantage of everything here, except me.
+> [pulls a gun on a boy harassing Kaname] I'll let you go this time but if I see you doing this again, I'll come after you and all your relatives.
 
-**— Misato Katsuragi**  
-*Neon Genesis Evangelion*
+**— Sousuke Sagara**  
+*Full Metal Panic!*
 
 <!--END_ANIME_QUOTE-->
 

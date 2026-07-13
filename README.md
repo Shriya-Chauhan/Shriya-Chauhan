@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46085-aLRBe7odTpBy.png" width="180" /></p>
 
+> People make a lot of mistakes, and strength is necessary to straighten those out.
 
-> Death is simply another stage of our life.
-
-**— Grand Elder Guru**  
-*Dragon Ball*
+**— Yahiro Samukawa**  
+*Guilty Crown*
 
 <!--END_ANIME_QUOTE-->
 

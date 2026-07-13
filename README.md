@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> DON'T CALL ME SMALL! I'LL BREAK DOWN YOUR FEET AND STICK THEM ON YOUR HEAD!!
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> We're pulling a big job here! Get lost, kid!
+
+**— Rocket Grunt**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

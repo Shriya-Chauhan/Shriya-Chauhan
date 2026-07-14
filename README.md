@@ -53,10 +53,10 @@
 
 
 
-> *To Tamaki* It's easy to feel sorry for him, but the hardships that he endured as a child, molded him into the person he is today. He'll be fine, the Host Club is his refuge, which means when all is said and done... he still has us.
+> The moment you back down is the moment you lose!
 
-**— Kyoya Ootori**  
-*Ouran High School Host Club*
+**— Coach Kamogawa**  
+*Hajime no Ippo*
 
 <!--END_ANIME_QUOTE-->
 

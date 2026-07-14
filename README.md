@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b167-mVViZcSWQxDn.png" width="180" /></p>
 
-> Even if the questions change, it makes no difference to me.
+> Many things can be achieved, as long as you believe in it.
 
-**— Karma Akabane**  
-*Assassination Classroom*
+**— Yoh Asakura**  
+*Shaman King*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88093-skekAluBmLLa.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n2160-CbHDsANTwxg2.jpg" width="180" /></p>
 
-> There are days when nothing goes right. There are days when you stumble and fall. There are days when you just want to cry. To cry a lot. To sleep a lot. Or even eat a lot. It's alright, as long as you pick yourself up again.
+> Spilled water will never return to its container.
 
-**— Yuki Takeya**  
-*School-Live!*
+**— Hei**  
+*Darker than Black*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88093-skekAluBmLLa.jpg" width="180" /></p>
 
+> There are days when nothing goes right. There are days when you stumble and fall. There are days when you just want to cry. To cry a lot. To sleep a lot. Or even eat a lot. It's alright, as long as you pick yourself up again.
 
-> Every minute felt like an eternity time, clearly as if it had malicious intent, slowly ebbed away from me, I clenched my teeth and keeping myself from crying was the only thing I could do...
-
-**— Takaki Toono**  
-*5 Centimeters per Second*
+**— Yuki Takeya**  
+*School-Live!*
 
 <!--END_ANIME_QUOTE-->
 

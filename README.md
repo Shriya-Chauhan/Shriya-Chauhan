@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n2160-CbHDsANTwxg2.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg" width="180" /></p>
 
-> Spilled water will never return to its container.
+> Even if the questions change, it makes no difference to me.
 
-**— Hei**  
-*Darker than Black*
+**— Karma Akabane**  
+*Assassination Classroom*
 
 <!--END_ANIME_QUOTE-->
 

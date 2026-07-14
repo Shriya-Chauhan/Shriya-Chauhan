@@ -53,10 +53,10 @@
 
 
 
-> You must’ve thought, As long as I face the future, I can be better! I can tell you’re at a loss for words, so here’s the answer! The past never dies! Get it yet!? Y’reap what you sow! Let’s tango, you and me- Enji Todoroki!! A dance with your son, here in hell!!
+> Every minute felt like an eternity time, clearly as if it had malicious intent, slowly ebbed away from me, I clenched my teeth and keeping myself from crying was the only thing I could do...
 
-**— Dabi**  
-*My Hero Academia*
+**— Takaki Toono**  
+*5 Centimeters per Second*
 
 <!--END_ANIME_QUOTE-->
 

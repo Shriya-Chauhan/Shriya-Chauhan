@@ -53,10 +53,10 @@
 
 
 
-> The moment you back down is the moment you lose!
+> As my fingers and toes re-grew like fingernails or hair over and over and over and over... and over again, every single time I got the feeling that I truly, truly truly was a monster.
 
-**— Coach Kamogawa**  
-*Hajime no Ippo*
+**— Kaneki Ken**  
+*Tokyo Ghoul*
 
 <!--END_ANIME_QUOTE-->
 

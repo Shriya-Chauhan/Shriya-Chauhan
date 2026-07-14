@@ -53,10 +53,10 @@
 
 
 
-> As my fingers and toes re-grew like fingernails or hair over and over and over and over... and over again, every single time I got the feeling that I truly, truly truly was a monster.
+> You must’ve thought, As long as I face the future, I can be better! I can tell you’re at a loss for words, so here’s the answer! The past never dies! Get it yet!? Y’reap what you sow! Let’s tango, you and me- Enji Todoroki!! A dance with your son, here in hell!!
 
-**— Kaneki Ken**  
-*Tokyo Ghoul*
+**— Dabi**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

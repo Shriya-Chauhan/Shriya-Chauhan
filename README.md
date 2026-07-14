@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png" width="180" /></p>
 
-> When life changes to be harder, change yourself to be stronger.
+> They say that fools learn from their experiences, while the wise learn from history. I hope you're not a fool.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+**— Nobuchika Ginoza**  
+*Psycho-Pass*
 
 <!--END_ANIME_QUOTE-->
 

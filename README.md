@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b167-mVViZcSWQxDn.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
-> Many things can be achieved, as long as you believe in it.
+> When life changes to be harder, change yourself to be stronger.
 
-**— Yoh Asakura**  
-*Shaman King*
+**— Erza Scarlet**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,14 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> It' because you were embarrassed, frustrated, bitter, and jealous. If there's a time when those ill feelings surfaced, then there's also going to be a time where you restrained yourself, smiled, and then cut your relationships afterwards.
 
-Being aware of your eventual break up was a rather complicated thing. If you wanted to graduate with a smile, shouldn't you avoid approaching your friends too much? And that's where having no friends was super convenient!
+> I just wanna love, live and die my way. My normal way. I wanna be even more like the people I love.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU TOO!*
+**— Toga Himiko**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

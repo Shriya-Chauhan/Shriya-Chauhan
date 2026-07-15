@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69057-491sAhqnEsFZ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2035-J2dKbfYjoFR0.png" width="180" /></p>
 
-> They say that fools learn from their experiences, while the wise learn from history. I hope you're not a fool.
+> Even at a time like this there's not a single word of rescue from the one you worship. You see? That is the truth of this world. He doesn't watch anything and doesn't save anyone.
 
-**— Nobuchika Ginoza**  
-*Psycho-Pass*
+**— Aion**  
+*Chrono Crusade*
 
 <!--END_ANIME_QUOTE-->
 

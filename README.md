@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41026-WkbhSjdpZISG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
 
-> Caring for things brings a lot of trouble.
+> There is no heaven or hell. No matter what you do while you're alive, everybody goes to the same place once you die. Death is Equal.
 
-**— Kou Mabuchi**  
-*Blue Spring Ride*
+**— L Lawliet**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

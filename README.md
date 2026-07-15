@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b731-cv0jfjVrD09V.jpg" width="180" /></p>
 
-> I think Monster Beast Doughnut is a perfect name.
 
-**— Kurama**  
-*Yu Yu Hakusho*
+> Although my life hasn't been very fortunate until now, I'm glad if I caught your eye because of that misfortune...
+
+**— Senjougahara Hitagi**  
+*Bakemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

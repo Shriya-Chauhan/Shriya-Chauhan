@@ -53,10 +53,10 @@
 
 
 
-> I just wanna love, live and die my way. My normal way. I wanna be even more like the people I love.
+> [to Ichigo] Don't forget my name, Soul Reaper, and you better pray that you never hear it again! Grimmjow Jaegerjaquez...because the next time you hear my name, you'll be a dead man...I promise.
 
-**— Toga Himiko**  
-*My Hero Academia*
+**— Grimmjow Jeagerjaques**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

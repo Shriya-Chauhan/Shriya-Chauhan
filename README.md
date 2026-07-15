@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
+> Even a piece of garbage has its pride.
 
-> Although my life hasn't been very fortunate until now, I'm glad if I caught your eye because of that misfortune...
-
-**— Senjougahara Hitagi**  
-*Bakemonogatari*
+**— Roy Mustang**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

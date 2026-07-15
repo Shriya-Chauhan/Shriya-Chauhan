@@ -51,12 +51,14 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2035-J2dKbfYjoFR0.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Even at a time like this there's not a single word of rescue from the one you worship. You see? That is the truth of this world. He doesn't watch anything and doesn't save anyone.
+> It' because you were embarrassed, frustrated, bitter, and jealous. If there's a time when those ill feelings surfaced, then there's also going to be a time where you restrained yourself, smiled, and then cut your relationships afterwards.
 
-**— Aion**  
-*Chrono Crusade*
+Being aware of your eventual break up was a rather complicated thing. If you wanted to graduate with a smile, shouldn't you avoid approaching your friends too much? And that's where having no friends was super convenient!
+
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41026-WkbhSjdpZISG.jpg" width="180" /></p>
 
-> Even a piece of garbage has its pride.
+> Caring for things brings a lot of trouble.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+**— Kou Mabuchi**  
+*Blue Spring Ride*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b731-cv0jfjVrD09V.jpg" width="180" /></p>
 
+> I think Monster Beast Doughnut is a perfect name.
 
-> [to Ichigo] Don't forget my name, Soul Reaper, and you better pray that you never hear it again! Grimmjow Jaegerjaquez...because the next time you hear my name, you'll be a dead man...I promise.
-
-**— Grimmjow Jeagerjaques**  
-*Bleach*
+**— Kurama**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

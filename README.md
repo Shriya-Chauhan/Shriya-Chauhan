@@ -53,10 +53,10 @@
 
 
 
-> Emotions? Nope, I've got nothin' like that. I told you when we first met, didn't I? I'm a snake. With cold skin, no emotions, that slithers around searching for prey with its tongue, swallowing down whatever looks tasty.
+> One victory greedily demands the next set of victories from the victor, until his death.
 
-**— Ichimaru Gin**  
-*Bleach*
+**— Legend of the Galactic Heroes**  
+*Legend of the Galactic Heroes*
 
 <!--END_ANIME_QUOTE-->
 

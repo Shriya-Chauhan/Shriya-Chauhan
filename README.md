@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png" width="180" /></p>
 
+> If you're helping someone and expecting something in return, you're doing business not kindness.
 
-> One victory greedily demands the next set of victories from the victor, until his death.
-
-**— Legend of the Galactic Heroes**  
-*Legend of the Galactic Heroes*
+**— Shirayuki**  
+*Snow White with the Red Hair*
 
 <!--END_ANIME_QUOTE-->
 

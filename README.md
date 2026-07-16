@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> People can wish for anything. Happiness or unhappiness. No matter what kind of choice you made, it was the result you chose... As long as you're not regretting the result, it is all right.
+> There's no telling when this war will end. No matter how many troops the country deploys, the desert just absorbs them like water. We suffer, conquer, and what's left? Nothing but sand.
 
-**— Yuuko Ichihara**  
-*xxxHOLiC*
+**— Roy Mustang**  
+*Fullmetal Alchemist: Brotherhood*
 
 <!--END_ANIME_QUOTE-->
 

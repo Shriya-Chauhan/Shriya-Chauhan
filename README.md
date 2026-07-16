@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
 
-> There is no heaven or hell. No matter what you do while you're alive, everybody goes to the same place once you die. Death is Equal.
 
-**— L Lawliet**  
-*Death Note*
+> Who are you again? Sorry, I have a bad memory for ugly faces.
+
+**— Ayasegawa Yumichika**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

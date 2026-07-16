@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png" width="180" /></p>
 
-> If you're helping someone and expecting something in return, you're doing business not kindness.
 
-**— Shirayuki**  
-*Snow White with the Red Hair*
+> No matter how strong a defense, a stronger offense will always shatter it.
+
+**— Kuchiki Byakuya**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

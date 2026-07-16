@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b42528-WS92Fmtwx7x0.png" width="180" /></p>
 
+> It's impossible to share everything. No one can become someone else. It's natural to envy someone who's more wealthy or who has higher standing. That's how conflicts begin. However, being blissfully unaware of this, relying on whatever someone provided without thinking, and only seeing things as "black" or "white" with such overly simplified thinking... Isn't that a sin as well? People need to think for themselves. For this reason, someone "grey", someone between "black" and "white" is essential. I will not gloss over the flaws in my ideals. It's not possible for all of mankind to share the same kind of thoughts. However, everyone is capable of thought. Everyone can learn, share, and decide with their own strength. A world built upon an understanding of that. If this is a "dream", if I don't realize it, who will?
 
-> Who are you again? Sorry, I have a bad memory for ugly faces.
-
-**— Ayasegawa Yumichika**  
-*Bleach*
+**— Sinbad**  
+*Magi: Adventure of Sinbad*
 
 <!--END_ANIME_QUOTE-->
 

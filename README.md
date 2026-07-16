@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b9440-YqxkIc7OhaKX.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
 
-> If it's a wish that can be fulfilled, then fulfill it. If there's hesitation and worries, then remove the sources of worries altogether.
+> People can wish for anything. Happiness or unhappiness. No matter what kind of choice you made, it was the result you chose... As long as you're not regretting the result, it is all right.
 
-**— Yoite**  
-*Nabari no Ou*
+**— Yuuko Ichihara**  
+*xxxHOLiC*
 
 <!--END_ANIME_QUOTE-->
 

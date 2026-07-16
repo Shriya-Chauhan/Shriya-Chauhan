@@ -53,10 +53,10 @@
 
 
 
-> No matter how strong a defense, a stronger offense will always shatter it.
+> Look at this world, so many people deserve to be killed. At the same time, a murderer must be ready to be killed as he lives. That's what retribution is. So, in this world, evil or whatever, a person strongly determined to live is the one who survives in the end.
 
-**— Kuchiki Byakuya**  
-*Bleach*
+**— Genjo Sanzo**  
+*Saiyuki*
 
 <!--END_ANIME_QUOTE-->
 

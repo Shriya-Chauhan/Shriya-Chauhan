@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b20170-EjvXXZpGG98Y.png" width="180" /></p>
 
-> You know, it's funny. Every crook I meet wants to tell me how much I'm just like them. But there's a big difference between you and me and the burdens we bear.
+> I'll take fragments from the chaos of this world... and using the fountain of wisdom inside me, will reconstruct them into truth.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+**— Victorique de Blois**  
+*Gosick*
 
 <!--END_ANIME_QUOTE-->
 

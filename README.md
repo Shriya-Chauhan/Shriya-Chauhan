@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b20170-EjvXXZpGG98Y.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> I'll take fragments from the chaos of this world... and using the fountain of wisdom inside me, will reconstruct them into truth.
+> The past makes you wanna die out of regret and future makes you depressed out of anxiety. So by elimination, the present is likely the happiest time.
 
-**— Victorique de Blois**  
-*Gosick*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

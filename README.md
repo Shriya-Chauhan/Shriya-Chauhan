@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
 
+> Mysterious things are everywhere. So bizarre as often as you can hear of them. Without witness, with sight unseen, without a care it is simply a phenomenon. Merely not of concern. In this world, mankind itself has its own fantastic wonders.
 
-> Look at this world, so many people deserve to be killed. At the same time, a murderer must be ready to be killed as he lives. That's what retribution is. So, in this world, evil or whatever, a person strongly determined to live is the one who survives in the end.
-
-**— Genjo Sanzo**  
-*Saiyuki*
+**— Yuuko Ichihara**  
+*xxxHOLiC*
 
 <!--END_ANIME_QUOTE-->
 

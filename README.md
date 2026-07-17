@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b84873-AWwWG8P66Sze.png" width="180" /></p>
 
-> Mysterious things are everywhere. So bizarre as often as you can hear of them. Without witness, with sight unseen, without a care it is simply a phenomenon. Merely not of concern. In this world, mankind itself has its own fantastic wonders.
+> No matter what troubles you shoulder, remember that in time, things will change. You shouldn't blame yourself when things don't go your way.
 
-**— Yuuko Ichihara**  
-*xxxHOLiC*
+**— Mitsuki Sarue**  
+*The Devil is a Part-Timer!*
 
 <!--END_ANIME_QUOTE-->
 

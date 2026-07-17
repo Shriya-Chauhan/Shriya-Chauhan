@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> The past makes you wanna die out of regret and future makes you depressed out of anxiety. So by elimination, the present is likely the happiest time.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU TOO!*
+> Though we had to part, though we could never be together again. We had no regrets. Even if she returned to her world, married another man and had children with him. If the woman I loved was happy, then I could be happy. And I am. Our hearts had joined and so, even if she lived in a different world, that time, we really were together always, always. I would never let go of this feeling, or my love for her.
+
+**— Syaoran Li**  
+*Cardcaptor Sakura*
 
 <!--END_ANIME_QUOTE-->
 

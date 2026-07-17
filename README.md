@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
+> You know, it's funny. Every crook I meet wants to tell me how much I'm just like them. But there's a big difference between you and me and the burdens we bear.
 
-> The little man is having trouble holding his sword. *to Inuyasha*
-
-**— Sesshomaru**  
-*InuYasha*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

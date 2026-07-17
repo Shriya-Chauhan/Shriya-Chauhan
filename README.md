@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2749-e8ebEBN1SlS2.png" width="180" /></p>
 
+> "If I do this, I can stop the rebellion", "if I do that, I can stop the rebellion"... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!
 
-> Though we had to part, though we could never be together again. We had no regrets. Even if she returned to her world, married another man and had children with him. If the woman I loved was happy, then I could be happy. And I am. Our hearts had joined and so, even if she lived in a different world, that time, we really were together always, always. I would never let go of this feeling, or my love for her.
-
-**— Syaoran Li**  
-*Cardcaptor Sakura*
+**— Crocodile**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

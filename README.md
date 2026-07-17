@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b37685-RTNZm8Tb7Sti.jpg" width="180" /></p>
 
-> You know the first rule in combat? [Empties sub-machine gun through closed door] ... shoot them before they shoot you.
+> It would be cruelest to keep your hopes up when I already know the answer.
 
-**— Faye Valentine**  
-*Cowboy Bebop*
+**— Shizuku Mizutani**  
+*My Little Monster*
 
 <!--END_ANIME_QUOTE-->
 

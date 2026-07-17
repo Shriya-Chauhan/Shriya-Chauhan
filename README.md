@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2749-e8ebEBN1SlS2.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png" width="180" /></p>
 
-> "If I do this, I can stop the rebellion", "if I do that, I can stop the rebellion"... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!
+> You know the first rule in combat? [Empties sub-machine gun through closed door] ... shoot them before they shoot you.
 
-**— Crocodile**  
-*One Piece*
+**— Faye Valentine**  
+*Cowboy Bebop*
 
 <!--END_ANIME_QUOTE-->
 

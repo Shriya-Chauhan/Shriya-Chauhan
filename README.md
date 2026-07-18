@@ -53,10 +53,10 @@
 
 
 
-> Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya.
+> Old man, everyone!! And you.. Luffy. Even though I've been good for nothing my whole life, even though I have the blood of a demon within me... You guys still loved me! Thank you so much!!
 
-**— Tohsaka Tokiomi**  
-*Fate/Zero*
+**— Portgas D. Ace**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

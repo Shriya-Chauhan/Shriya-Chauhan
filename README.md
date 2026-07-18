@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Black Star, I can't come down, there's water. Carry me.
+> Nobody calls me a pipsqueak and gets away with it! Not even a little girl!
 
-**— Death the Kid**  
-*Soul Eater*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

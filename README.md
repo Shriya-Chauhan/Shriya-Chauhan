@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg" width="180" /></p>
 
+> You may be able to get stronger with simply the right attitude. In other words, train your spirit before worrying about strength through power and technology.
 
-> Even if the truth is as one suspects, it may still be worthless.
-
-**— Deishū Kaiki**  
-*Nisemonogatari*
+**— Saitama**  
+*One Punch Man*
 
 <!--END_ANIME_QUOTE-->
 

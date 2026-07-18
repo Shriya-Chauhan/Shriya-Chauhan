@@ -53,10 +53,10 @@
 
 
 
-> It's not because we can't take vengeance that we should feel sorry. The real reason to feel sorry... is when one is hung up on revenge and can't live their own life.
+> What is this place? Where am I? Wherever it is, it's completely dark. I can't even see my own body. It hurts... Which way is up? Which way is down? Where am I supposed to go? Someone help me.
 
-**— Yoshimura**  
-*Tokyo Ghoul*
+**— Soul Evans**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

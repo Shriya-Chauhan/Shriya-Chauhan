@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Nobody calls me a pipsqueak and gets away with it! Not even a little girl!
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> Revenge is a rite that restores one’s spirit after it has been ravaged by the anger and hatred of loss. That is the only way to heal one's soul and stand up again to face reality. That is the only way we can have a tomorrow.
+
+**— Yao Ro Ducy**  
+*GATE*
 
 <!--END_ANIME_QUOTE-->
 

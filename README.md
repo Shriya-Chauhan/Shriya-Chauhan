@@ -53,10 +53,10 @@
 
 
 
-> What is this place? Where am I? Wherever it is, it's completely dark. I can't even see my own body. It hurts... Which way is up? Which way is down? Where am I supposed to go? Someone help me.
+> Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya.
 
-**— Soul Evans**  
-*Soul Eater*
+**— Tohsaka Tokiomi**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png" width="180" /></p>
 
-> It's because I loved her the most that I wanted to kill her as swiftly as possible.
 
-**— Akame**  
-*Akame ga Kill!*
+> Even if the truth is as one suspects, it may still be worthless.
+
+**— Deishū Kaiki**  
+*Nisemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

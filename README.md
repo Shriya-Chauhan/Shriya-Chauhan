@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b37685-RTNZm8Tb7Sti.jpg" width="180" /></p>
 
-> It would be cruelest to keep your hopes up when I already know the answer.
 
-**— Shizuku Mizutani**  
-*My Little Monster*
+> We could drive them off the entire earth if we had your strength, Gintoki!
+
+**— Kotarō Katsura**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

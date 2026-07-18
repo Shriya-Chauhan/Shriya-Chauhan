@@ -53,10 +53,10 @@
 
 
 
-> Revenge is a rite that restores one’s spirit after it has been ravaged by the anger and hatred of loss. That is the only way to heal one's soul and stand up again to face reality. That is the only way we can have a tomorrow.
+> It's not because we can't take vengeance that we should feel sorry. The real reason to feel sorry... is when one is hung up on revenge and can't live their own life.
 
-**— Yao Ro Ducy**  
-*GATE*
+**— Yoshimura**  
+*Tokyo Ghoul*
 
 <!--END_ANIME_QUOTE-->
 

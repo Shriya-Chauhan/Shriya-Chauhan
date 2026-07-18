@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b63351-0WmsDENpiscp.png" width="180" /></p>
 
+> It's because I loved her the most that I wanted to kill her as swiftly as possible.
 
-> We could drive them off the entire earth if we had your strength, Gintoki!
-
-**— Kotarō Katsura**  
-*Gintama*
+**— Akame**  
+*Akame ga Kill!*
 
 <!--END_ANIME_QUOTE-->
 

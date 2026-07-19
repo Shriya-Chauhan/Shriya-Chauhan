@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png" width="180" /></p>
 
-> Can you understand? Not having a dream... not being needed by anyone... The pain of merely being alive.
 
-**— Haku**  
-*Naruto*
+> If I were to abandon you, I would never become an officer.
+
+**— Leno Ichikawa**  
+*Kaiju No. 8*
 
 <!--END_ANIME_QUOTE-->
 

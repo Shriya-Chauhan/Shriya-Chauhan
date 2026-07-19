@@ -53,10 +53,10 @@
 
 
 
-> Old man, everyone!! And you.. Luffy. Even though I've been good for nothing my whole life, even though I have the blood of a demon within me... You guys still loved me! Thank you so much!!
+> By looking at what's blocking our way, with an open mind, a wall can be turned into a wide-open door.
 
-**— Portgas D. Ace**  
-*One Piece*
+**— Shinichi Kudou**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

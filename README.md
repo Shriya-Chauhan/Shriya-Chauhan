@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
 
+> Ugly?! Who you callin' ugly?! C'mere you mouse!
 
-> Live on and endure the shadows! There is no light for those who do not know darkness.
-
-**— Takuan Sōhō**  
-*Vagabond*
+**— Kazuma Kuwabara**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

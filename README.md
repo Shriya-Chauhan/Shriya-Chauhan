@@ -53,10 +53,10 @@
 
 
 
-> Pirates are evil? The Marines are righteous? These terms have always changed throughout the course of history! Kids who have never seen peace and kids who have never seen war have different values! Those who stand at the top determine what's wrong and what's right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!
+> Live on and endure the shadows! There is no light for those who do not know darkness.
 
-**— Donquixote Doflamingo**  
-*One Piece*
+**— Takuan Sōhō**  
+*Vagabond*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> By looking at what's blocking our way, with an open mind, a wall can be turned into a wide-open door.
+> Anyone who points a gun at me dies. Got it? Point a gun at me, you die.
 
-**— Shinichi Kudou**  
-*Case Closed*
+**— Nishi Joichiro**  
+*Gantz*
 
 <!--END_ANIME_QUOTE-->
 

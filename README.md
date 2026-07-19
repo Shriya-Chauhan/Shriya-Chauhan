@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
 
-> Ugly?! Who you callin' ugly?! C'mere you mouse!
+> My legend dates back to the 12th Century thank you very much.
 
-**— Kazuma Kuwabara**  
-*Yu Yu Hakusho*
+**— Excalibur**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

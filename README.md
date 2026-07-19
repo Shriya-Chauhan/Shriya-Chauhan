@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png" width="180" /></p>
 
+> Can you understand? Not having a dream... not being needed by anyone... The pain of merely being alive.
 
-> All creatures want to believe in something bigger than themselves. They cannot live without blind obedience. And to escape the pressure of that trust, those in whom faith is placed in turn look for someone higher than themselves. And then those people in turn look for someone even stronger. That is how all Kings are born. That is how all Gods are born.
-
-**— Aizen Sousuke**  
-*Bleach*
+**— Haku**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

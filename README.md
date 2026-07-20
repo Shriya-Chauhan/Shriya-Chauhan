@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6137-o7bIImUdi594.jpg" width="180" /></p>
 
-> Ancient creatures died and left naught but fossil fuels, like coal and petroleum. Without that sacrifice, our present energy civilization would not exist. That sort of sacrifice is what is always demanded.
 
-**— Souji Mikage**  
-*Revolutionary Girl Utena*
+> The weakness that had accepted death now became the strength of wanting to live.
+
+**— Emiya Shirou**  
+*Fate/stay night*
 
 <!--END_ANIME_QUOTE-->
 

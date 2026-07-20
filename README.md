@@ -53,10 +53,10 @@
 
 
 
-> If I were to abandon you, I would never become an officer.
+> Justice without a great cause begets nothing more than slaughter. That same slaughter in a great cause...Is Justice.
 
-**— Leno Ichikawa**  
-*Kaiju No. 8*
+**— Tousen Kaname**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

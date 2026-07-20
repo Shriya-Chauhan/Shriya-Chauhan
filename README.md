@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6137-o7bIImUdi594.jpg" width="180" /></p>
 
+> Ancient creatures died and left naught but fossil fuels, like coal and petroleum. Without that sacrifice, our present energy civilization would not exist. That sort of sacrifice is what is always demanded.
 
-> If you act only on what you should do without heed for what you want to do, you're nothing more than a machine, a phenomenon.
-
-**— Kaminski Natalia**  
-*Fate/Zero*
+**— Souji Mikage**  
+*Revolutionary Girl Utena*
 
 <!--END_ANIME_QUOTE-->
 

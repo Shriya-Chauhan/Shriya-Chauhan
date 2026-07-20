@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
 
+> When I’m shown something so pure and innocent, I’m forced to see the filthy part of myself even more and it pisses me off.
 
-> The weakness that had accepted death now became the strength of wanting to live.
-
-**— Emiya Shirou**  
-*Fate/stay night*
+**— Masamune Takano**  
+*Sekai Ichi Hatsukoi - World's Greatest First Love*
 
 <!--END_ANIME_QUOTE-->
 

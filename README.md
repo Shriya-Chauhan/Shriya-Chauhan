@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b7374-XeKVCsoW129T.png" width="180" /></p>
 
-> A lie that can't be disproven is no different from the truth.
 
-**— Kraft Lawrence**  
-*Spice and Wolf*
+> No matter how hard or impossible it is, never lose sight of your goal.
+
+**— Monkey D. Luffy**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

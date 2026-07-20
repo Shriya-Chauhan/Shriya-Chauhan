@@ -53,10 +53,10 @@
 
 
 
-> Justice without a great cause begets nothing more than slaughter. That same slaughter in a great cause...Is Justice.
+> The universe has a beginning, but no end. — Infinity. Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
 
-**— Tousen Kaname**  
-*Bleach*
+**— Rintaro Okabe**  
+*Steins Gate*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> The universe has a beginning, but no end. — Infinity. Stars, too, have their own beginnings, but their own power results in their destruction. — Finite.
+> If you act only on what you should do without heed for what you want to do, you're nothing more than a machine, a phenomenon.
 
-**— Rintaro Okabe**  
-*Steins Gate*
+**— Kaminski Natalia**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

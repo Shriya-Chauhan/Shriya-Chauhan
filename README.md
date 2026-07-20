@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png" width="180" /></p>
 
-> When I’m shown something so pure and innocent, I’m forced to see the filthy part of myself even more and it pisses me off.
+> When you live, your life will end sooner or later. The body will return to the earth. Grass and flowers will grow on top of it. The soul will nourish the hearts... and it will live on in the hearts of other people. Everything in this world flows around and circulates. That goes for human lives too.
 
-**— Masamune Takano**  
-*Sekai Ichi Hatsukoi - World's Greatest First Love*
+**— Izumi Curtis**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

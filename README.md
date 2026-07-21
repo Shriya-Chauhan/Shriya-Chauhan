@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b134539-rmkSB7GDdUyn.jpg" width="180" /></p>
 
-> So maybe I can't defend against attacks from multiple angles, but sometimes a good defense is just kicking ass!
+> There was no reason for me to stay in the real world any longer. In the real world, it didn't matter if I was there or not. When I realized that, I was no longer afraid of losing my body.
 
-**— Yuusuke Urameshi**  
-*Yu Yu Hakusho*
+**— Chisa Yomoda**  
+*Serial Experiments Lain*
 
 <!--END_ANIME_QUOTE-->
 

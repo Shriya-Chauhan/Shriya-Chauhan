@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/34757.jpg" width="180" /></p>
 
-> You men. All of you, you're horrible. Cheating on every woman. But you, you I actually decided to trust. I put my faith in you. I can't believe this. I wish that all of you would just die!
+> No world is more painful to live in than this one.
 
-**— Maka Albarn**  
-*Soul Eater*
+**— Strength**  
+*Black Rock Shooter*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n9174-CPRMKOTp5SJv.png" width="180" /></p>
 
-> Sometimes I think delinquents are people… Who still have hope that things still can get better if they just put up a SOS sign. But I don’t even have the will to lift that sign anymore.
+> Ashitaka... can you save the girl you love?
 
-**— Masamune Takano**  
-*Sekai Ichi Hatsukoi - World's Greatest First Love*
+**— Moro**  
+*Princess Mononoke*
 
 <!--END_ANIME_QUOTE-->
 

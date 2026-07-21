@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
 
-> In this world, there are very few people who actually trust each other.
+> Those bound by superficial rules who do not use their pawns to the utmost are fools.
 
-**— Light Yagami**  
-*Death Note*
+**— Ciel Phantomhive**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

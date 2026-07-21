@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b134539-rmkSB7GDdUyn.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
 
-> There was no reason for me to stay in the real world any longer. In the real world, it didn't matter if I was there or not. When I realized that, I was no longer afraid of losing my body.
+> Sometimes I think delinquents are people… Who still have hope that things still can get better if they just put up a SOS sign. But I don’t even have the will to lift that sign anymore.
 
-**— Chisa Yomoda**  
-*Serial Experiments Lain*
+**— Masamune Takano**  
+*Sekai Ichi Hatsukoi - World's Greatest First Love*
 
 <!--END_ANIME_QUOTE-->
 

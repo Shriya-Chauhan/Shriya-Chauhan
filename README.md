@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
-> Those bound by superficial rules who do not use their pawns to the utmost are fools.
+> So maybe I can't defend against attacks from multiple angles, but sometimes a good defense is just kicking ass!
 
-**— Ciel Phantomhive**  
-*Black Butler*
+**— Yuusuke Urameshi**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

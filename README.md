@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
 
+> In this world, there are very few people who actually trust each other.
 
-> Neither terrorism nor occultism have ever impacted history in any constructive way.
-
-**— Yang Wenli**  
-*Legend of the Galactic Heroes*
+**— Light Yagami**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

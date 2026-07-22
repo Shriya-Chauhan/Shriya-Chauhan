@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b126-CG9rp6dE0DKo.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
 
-> If I can protect, I want to protect.
+> Assassination- It’s the family trade. We all take it up. My folks see me as an exceptional prospect. But I don’t see that I should have to live up to their expectations.
 
-**— Syaoran Li**  
-*Tsubasa RESERVoir CHRoNiCLE*
+**— Killua Zoldyck**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

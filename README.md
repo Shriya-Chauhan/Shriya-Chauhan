@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24512-lXCO1P7u8RMO.jpg" width="180" /></p>
 
-> I heard that when things were painful for her, she'd cover her ears with headphones and escape to the world of music. I tried it too. It was like everything was blown away. The vocals screamed for me. They grieved for me. The ones who put on the act of common sense were wrong. Those who cried were right. We, the lonely were more human. They screamed at the absurd, beat it down, and destroyed it. They saved me.
 
-**— Iwasawa**  
-*Angel Beats!*
+> I'm Black Star. I'm on a whole different level than you. I'm a big man! I beat death! Who else can say that?!
+
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

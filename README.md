@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b731-cv0jfjVrD09V.jpg" width="180" /></p>
 
-> It most certainly isn't pleasant being called a "traitor" by creatures you've never met.
 
-**— Kurama**  
-*Yu Yu Hakusho*
+> You sure can talk the talk, but you're not quite ready to walk the walk. Time's up, it's my turn.
+
+**— Roronoa Zoro**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

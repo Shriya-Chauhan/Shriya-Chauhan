@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> WHO ARE YOU CALLING A RUNT SO TINY HE COULD ONLY BE SEEN WITH A MAGNIFYING GLASS, YOU JERK!
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> *to Okita, who tells him that he should take his job more seriously* Shall I put you to sleep, ingrate?
+
+**— Hijikata Toushirou**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

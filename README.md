@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b731-cv0jfjVrD09V.jpg" width="180" /></p>
 
-> Assassination- It’s the family trade. We all take it up. My folks see me as an exceptional prospect. But I don’t see that I should have to live up to their expectations.
+> It most certainly isn't pleasant being called a "traitor" by creatures you've never met.
 
-**— Killua Zoldyck**  
-*Hunter x Hunter*
+**— Kurama**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

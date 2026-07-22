@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b126-CG9rp6dE0DKo.png" width="180" /></p>
 
+> If I can protect, I want to protect.
 
-> I'm Black Star. I'm on a whole different level than you. I'm a big man! I beat death! Who else can say that?!
-
-**— Black Star**  
-*Soul Eater*
+**— Syaoran Li**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

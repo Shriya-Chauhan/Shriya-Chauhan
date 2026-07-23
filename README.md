@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> When there is evil in this world that justice cannot defeat, would you taint your hands with evil to defeat evil? Or would you remain steadfast and righteous even if it means surrendering to evil?
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+> Souls are so yummy.
+
+**— Soul Evans**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

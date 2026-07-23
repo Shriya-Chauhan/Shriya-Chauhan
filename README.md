@@ -53,10 +53,10 @@
 
 
 
-> Was he the kind of master who would leave you behind? If you decided in your hearts to serve him, then believe in your master.
+> My treasure... you can see it, but you cannot! So I can´t show it to you! It´s friendship! We can see it in each other, but you can't see courage itself, right?
 
-**— Hiiragi**  
-*Natsume Yuujinchou*
+**— Joey Wheeler**  
+*Yu-Gi-Oh!*
 
 <!--END_ANIME_QUOTE-->
 

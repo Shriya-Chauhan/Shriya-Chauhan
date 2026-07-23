@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6171.jpg" width="180" /></p>
 
-> I prefer to have my nightmares with open eyes.
+> Hmm... never noticed those before *after accidently groping Momiji's chest*.
 
-**— Ciel Phantomhive**  
-*Black Butler*
+**— Mamoru Kusanagi**  
+*Blue Seed*
 
 <!--END_ANIME_QUOTE-->
 

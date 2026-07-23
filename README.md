@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n18386-QzcUKsbsiUNf.jpg" width="180" /></p>
 
+> They say the temperature of tea and a women's heart are difficult in any age.
 
-> My treasure... you can see it, but you cannot! So I can´t show it to you! It´s friendship! We can see it in each other, but you can't see courage itself, right?
-
-**— Joey Wheeler**  
-*Yu-Gi-Oh!*
+**— Ronove**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

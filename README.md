@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3749-Avd9fjsZ8X54.jpg" width="180" /></p>
 
-> Is fighting right, or wrong? Does winning in the end mean justice? Truthfully, I don't know. But I know we must fight this battle! Or we will never save the world.
 
-**— Haru Glory**  
-*Rave Master*
+> Was he the kind of master who would leave you behind? If you decided in your hearts to serve him, then believe in your master.
+
+**— Hiiragi**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

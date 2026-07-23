@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6171.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b61739-rFqIyoGTZl6o.png" width="180" /></p>
 
-> Hmm... never noticed those before *after accidently groping Momiji's chest*.
+> You can't just wait. You need to make things happen yourself.
 
-**— Mamoru Kusanagi**  
-*Blue Seed*
+**— Tokie**  
+*Sakamichi no Apollon*
 
 <!--END_ANIME_QUOTE-->
 

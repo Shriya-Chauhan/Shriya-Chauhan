@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
 
+> I prefer to have my nightmares with open eyes.
 
-> Souls are so yummy.
-
-**— Soul Evans**  
-*Soul Eater*
+**— Ciel Phantomhive**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

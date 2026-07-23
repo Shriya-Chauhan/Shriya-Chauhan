@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/36125.jpg" width="180" /></p>
 
-> I couldn’t confess my feelings for you, so I watched you from afar, being happy with someone else.
+> My new family is just so kind. It's almost if there's been some kind of mistake... like, I'll have to pay back for all this happiness later on.
 
-**— Sanji**  
-*One Piece*
+**— Nao Yasumori**  
+*Shiki*
 
 <!--END_ANIME_QUOTE-->
 

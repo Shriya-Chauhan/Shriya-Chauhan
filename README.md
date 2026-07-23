@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b61739-rFqIyoGTZl6o.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3749-Avd9fjsZ8X54.jpg" width="180" /></p>
 
-> You can't just wait. You need to make things happen yourself.
+> Is fighting right, or wrong? Does winning in the end mean justice? Truthfully, I don't know. But I know we must fight this battle! Or we will never save the world.
 
-**— Tokie**  
-*Sakamichi no Apollon*
+**— Haru Glory**  
+*Rave Master*
 
 <!--END_ANIME_QUOTE-->
 

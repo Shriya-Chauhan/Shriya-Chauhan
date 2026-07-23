@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n18386-QzcUKsbsiUNf.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png" width="180" /></p>
 
-> They say the temperature of tea and a women's heart are difficult in any age.
+> I couldn’t confess my feelings for you, so I watched you from afar, being happy with someone else.
 
-**— Ronove**  
-*Umineko: When They Cry*
+**— Sanji**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

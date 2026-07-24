@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg" width="180" /></p>
 
-> Isn't it arrogant to put a price on whether life is "higher" or "lower", Kaneki? We are just bags of meat. The weak bow down and the strong devour them. Rather, if you compared them to all living things, it's humans who have shaved away the most lives. We are different than them.
+> If I can get the target to move as I want, I’ve succeeded as a Hunter.
 
-**— Shuu Tsukiyama**  
-*Tokyo Ghoul*
+**— Ging Freecss**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

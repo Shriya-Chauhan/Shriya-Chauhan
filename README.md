@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png" width="180" /></p>
 
-> If I can get the target to move as I want, I’ve succeeded as a Hunter.
+> Being strong on your own is meaningless. To have power you need other people, and they need a world where they can be at their best.
 
-**— Ging Freecss**  
-*Hunter x Hunter*
+**— Shiroe**  
+*Log Horizon*
 
 <!--END_ANIME_QUOTE-->
 

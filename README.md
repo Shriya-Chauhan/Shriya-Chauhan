@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3426-RKDDfu0SCLDq.png" width="180" /></p>
 
-> Being strong on your own is meaningless. To have power you need other people, and they need a world where they can be at their best.
+> You have no effect on me because you are flat chested!
 
-**— Shiroe**  
-*Log Horizon*
+**— Laharl**  
+*Disgaea*
 
 <!--END_ANIME_QUOTE-->
 

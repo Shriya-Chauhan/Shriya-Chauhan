@@ -53,10 +53,10 @@
 
 
 
-> If I want your opinion I WILL GIVE IT TO YOU!!!
+> We're all born with selfish desires so we can relate to those feelings in others. But kindness is created individually by each person... So it's easy to misunderstand when someone is trying to be kind to you... But, Tohru, people's differences are something to celebrate.
 
-**— Kasumi**  
-*Pokémon*
+**— Kyoko Honda**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

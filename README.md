@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1356-rLhVHJzPY0Mp.jpg" width="180" /></p>
 
+> *while stomping on Inuyasha* Lay down, be silent, sleep, rest, sleep... how many times do I have to tell you...
 
-> We're all born with selfish desires so we can relate to those feelings in others. But kindness is created individually by each person... So it's easy to misunderstand when someone is trying to be kind to you... But, Tohru, people's differences are something to celebrate.
-
-**— Kyoko Honda**  
-*Fruits Basket*
+**— Miroku**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b356-Ww7F14AJZzID.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88424-mFPgcZlCuODC.png" width="180" /></p>
 
-> I've liked him for so long. So long. But Mayama likes someone else. But I wanna hear his voice. I want to hold his hand. I feel like this.
+> Isn't it arrogant to put a price on whether life is "higher" or "lower", Kaneki? We are just bags of meat. The weak bow down and the strong devour them. Rather, if you compared them to all living things, it's humans who have shaved away the most lives. We are different than them.
 
-**— Ayumi Yamada**  
-*Honey and Clover*
+**— Shuu Tsukiyama**  
+*Tokyo Ghoul*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/36125.jpg" width="180" /></p>
 
-> My new family is just so kind. It's almost if there's been some kind of mistake... like, I'll have to pay back for all this happiness later on.
 
-**— Nao Yasumori**  
-*Shiki*
+> If I want your opinion I WILL GIVE IT TO YOU!!!
+
+**— Kasumi**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

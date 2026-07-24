@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1356-rLhVHJzPY0Mp.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b356-Ww7F14AJZzID.png" width="180" /></p>
 
-> *while stomping on Inuyasha* Lay down, be silent, sleep, rest, sleep... how many times do I have to tell you...
+> I've liked him for so long. So long. But Mayama likes someone else. But I wanna hear his voice. I want to hold his hand. I feel like this.
 
-**— Miroku**  
-*InuYasha*
+**— Ayumi Yamada**  
+*Honey and Clover*
 
 <!--END_ANIME_QUOTE-->
 

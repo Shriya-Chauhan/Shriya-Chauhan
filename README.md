@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3426-RKDDfu0SCLDq.png" width="180" /></p>
 
-> You have no effect on me because you are flat chested!
 
-**— Laharl**  
-*Disgaea*
+> What pride... are you saying that you are God's equal?
+
+**— Rose Tomas**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40196-5KM70eeMhGK6.png" width="180" /></p>
 
+> If I try to deny my past, I'm denying the person I've become. I don't want to do that.
 
-> You can never win if you're afraid to lose so much that you refuse to put up a fight.
-
-**— Furude Rika**  
-*Higurashi: When They Cry*
+**— Iori Nagase**  
+*Kokoro Connect*
 
 <!--END_ANIME_QUOTE-->
 

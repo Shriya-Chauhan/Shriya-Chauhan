@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1562.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b7374-XeKVCsoW129T.png" width="180" /></p>
 
-> The desire to fly with ''real wings'' is what motivates you.
+> A traveler does not leave regret behind in a village, but good memories.
 
-**— Ringo Noyamano**  
-*Air Gear*
+**— Kraft Lawrence**  
+*Spice and Wolf*
 
 <!--END_ANIME_QUOTE-->
 

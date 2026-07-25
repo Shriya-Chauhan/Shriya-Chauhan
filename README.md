@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n42469-shq7IzxyJNbJ.jpg" width="180" /></p>
 
+> Ash to ashes, dust to dust, trash to trash can and useless people to uselessness box.
 
-> Kagura... Regardless of what your reason was, when you played with me...I was happy. Thanks. (To Kagura)
-
-**— Sohma Kyo**  
-*Fruits Basket*
+**— Tsukiko Tsutsukakushi**  
+*The "Hentai" Prince and the Stony Cat.*
 
 <!--END_ANIME_QUOTE-->
 

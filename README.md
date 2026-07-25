@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11924-wDxD5PjqMmpf.png" width="180" /></p>
 
-> You're horrible! Commenting on my appearance like that! I don't have to listen to this from you! It's sexual harassment!
 
-**— Medusa Gorgon**  
-*Soul Eater*
+> Kagura... Regardless of what your reason was, when you played with me...I was happy. Thanks. (To Kagura)
+
+**— Sohma Kyo**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

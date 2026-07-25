@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b34990-mfcAeYTwgKxf.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1562.jpg" width="180" /></p>
 
-> Help can come from unexpected corners.
+> The desire to fly with ''real wings'' is what motivates you.
 
-**— Kokoro Yome**  
-*Gakuen Alice*
+**— Ringo Noyamano**  
+*Air Gear*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> If you let the fly live, the spider is going to die. You can't save both without one suffering.
+> If you love someone, they could make you sad. They could even make you feel lonely sometimes. But, that someone can also make you happier than you'll ever be.
 
-**— Millions Knives**  
-*Trigun*
+**— Sohma Kyo**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

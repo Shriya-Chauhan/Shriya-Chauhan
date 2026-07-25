@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11924-wDxD5PjqMmpf.png" width="180" /></p>
 
+> You're horrible! Commenting on my appearance like that! I don't have to listen to this from you! It's sexual harassment!
 
-> If you love someone, they could make you sad. They could even make you feel lonely sometimes. But, that someone can also make you happier than you'll ever be.
-
-**— Sohma Kyo**  
-*Fruits Basket*
+**— Medusa Gorgon**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

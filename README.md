@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b49637-GlkoT7x40TAV.png" width="180" /></p>
 
-> It’s natural to want to stay in the game world and hope the game will never end. However, I’ve learned one thing from playing all those online games. There’s nothing lonelier or sadder than the end of a game with no ending. More and more players get bored and move on to other games... And one day, even NPC's like your favorite blacksmith or landlady disappear forever as they smile. I've experienced that moment and cried many, many times. That isn't how games should end. It definitely isn't!
 
-**— Haruyuki Arita**  
-*Accel World*
+> If you let the fly live, the spider is going to die. You can't save both without one suffering.
+
+**— Millions Knives**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

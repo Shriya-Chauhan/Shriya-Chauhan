@@ -53,10 +53,10 @@
 
 
 
-> Eventually, someday, whatever! If it will break, and we'll be free then that's good enough for me! (To Tohru)
+> Listen Ochaco, when I think about the people I love it makes me wanna become them. This desire to take all their blood for myself gushes up till I just can’t stand it. I get all emotional just thinking about it. That’s how I am, but other people aren’t like that. It’s so hard for me to live like this.
 
-**— Sohma Rin**  
-*Fruits Basket*
+**— Toga Himiko**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg" width="180" /></p>
 
+> For me, apples are like cigarettes and liquor for humans. If I'm deprived, I go into withdrawals.
 
-> There can be no happiness in a world where the undesirables are thrown away.
-
-**— Monkey D. Dragon**  
-*One Piece*
+**— Ryuk**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

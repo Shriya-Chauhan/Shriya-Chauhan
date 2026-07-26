@@ -53,10 +53,10 @@
 
 
 
-> Opportunities and success come only to those who do not fear to stand in the batter's box. Who want to hit the ball more than anything, and swing with all their might!
+> If I wouldn't have tripped, you wouldn't have stopped, now would you?
 
-**— Kamijou Touma**  
-*A Certain Magical Index*
+**— Sohma Hatsuharu**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

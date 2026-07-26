@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png" width="180" /></p>
 
-> Even with your stones, I'm on a whole other level!
+> Huh? What are you looking at?
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+**— Tamaki Kotatsu**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

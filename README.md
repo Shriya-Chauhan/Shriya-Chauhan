@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg" width="180" /></p>
 
+> If a technological feat is possible, man will do it. Almost as if it’s wired into the core of our being.
 
-> If I wouldn't have tripped, you wouldn't have stopped, now would you?
-
-**— Sohma Hatsuharu**  
-*Fruits Basket*
+**— Motoko Kusanagi**  
+*Ghost in the Shell*
 
 <!--END_ANIME_QUOTE-->
 

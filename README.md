@@ -53,10 +53,10 @@
 
 
 
-> She beat me like I owed her money.
+> Opportunities and success come only to those who do not fear to stand in the batter's box. Who want to hit the ball more than anything, and swing with all their might!
 
-**— Kurosaki Ichigo**  
-*Bleach*
+**— Kamijou Touma**  
+*A Certain Magical Index*
 
 <!--END_ANIME_QUOTE-->
 

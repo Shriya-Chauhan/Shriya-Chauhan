@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png" width="180" /></p>
 
-> Huh? What are you looking at?
 
-**— Tamaki Kotatsu**  
-*Fire Force*
+> Eventually, someday, whatever! If it will break, and we'll be free then that's good enough for me! (To Tohru)
+
+**— Sohma Rin**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

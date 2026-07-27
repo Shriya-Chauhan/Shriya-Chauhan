@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12944-W5b3uu7HEGez.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b137809-6Tkle99lCBl8.png" width="180" /></p>
 
-> If you are weak, don't bare your fangs.
+> Go further! If you’re a man. If you call yourself a man! There’s no other way to go but forward!
 
-**— Kiyomasa Senji**  
-*Deadman Wonderland*
+**— Sabito**  
+*Demon Slayer: Kimetsu no Yaiba*
 
 <!--END_ANIME_QUOTE-->
 

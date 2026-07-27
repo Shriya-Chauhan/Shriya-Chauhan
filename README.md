@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6038.jpg" width="180" /></p>
 
+> I don't want the precious time we have together to be taken away by anyone!
 
-> I think that in the end, I just care a lot about myself. I was the only one that I loved and respected. That's why I was scared to know what the others thought about me. I was afraid to get hurt, so I ran away and locked myself into my shell.
-
-**— Kirara**  
-*Gintama*
+**— Akihiko Usami**  
+*Junjo Romantica*
 
 <!--END_ANIME_QUOTE-->
 

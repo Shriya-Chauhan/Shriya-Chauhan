@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1795-vKakY5aXVyCl.jpg" width="180" /></p>
 
-> If a technological feat is possible, man will do it. Almost as if it’s wired into the core of our being.
 
-**— Motoko Kusanagi**  
-*Ghost in the Shell*
+> Urushibara Ruka. The mannerisms and voice of a woman... No. More feminine than ANY woman. But he's a guy. Taller than Mayuri, but so very thin... But he's a guy. Looks great in a miko outfit... But he's a guy. It's already twilight and yet, it's so hot. The cicadas are crying. But... He's a guy.
+
+**— Okabe Rintarou**  
+*Steins;Gate*
 
 <!--END_ANIME_QUOTE-->
 

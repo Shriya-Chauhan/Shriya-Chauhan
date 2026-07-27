@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6038.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png" width="180" /></p>
 
-> I don't want the precious time we have together to be taken away by anyone!
+> [To Yubaba] I'm not leaving until you give me a job!
 
-**— Akihiko Usami**  
-*Junjo Romantica*
+**— Chihiro Ogino**  
+*Spirited Away*
 
 <!--END_ANIME_QUOTE-->
 

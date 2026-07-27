@@ -53,10 +53,10 @@
 
 
 
-> To live is to undertake a journey - no, to undertake a journey is to live. To face the wind or to follow it, all journeys lead to the gates of death... The light in which all journeys are taken is deceptive - not hopeful, but sorrowful. And the struggle never ends. Everywhere on the earth is fleeting life. We are blown by the wind. The words we write in the sand disappear and finally, when we are swallowed by the sea we do not hear the waves. The humblest of creatures must face these dreadful barriers. No-not barriers, but challenges rather...
+> I think that in the end, I just care a lot about myself. I was the only one that I loved and respected. That's why I was scared to know what the others thought about me. I was afraid to get hurt, so I ran away and locked myself into my shell.
 
-**— Guibu**  
-*The Heroic Legend of Arslan*
+**— Kirara**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

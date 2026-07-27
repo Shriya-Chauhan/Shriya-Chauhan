@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12944-W5b3uu7HEGez.png" width="180" /></p>
 
+> If you are weak, don't bare your fangs.
 
-> Urushibara Ruka. The mannerisms and voice of a woman... No. More feminine than ANY woman. But he's a guy. Taller than Mayuri, but so very thin... But he's a guy. Looks great in a miko outfit... But he's a guy. It's already twilight and yet, it's so hot. The cicadas are crying. But... He's a guy.
-
-**— Okabe Rintarou**  
-*Steins;Gate*
+**— Kiyomasa Senji**  
+*Deadman Wonderland*
 
 <!--END_ANIME_QUOTE-->
 

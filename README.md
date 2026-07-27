@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b137809-6Tkle99lCBl8.png" width="180" /></p>
 
-> Go further! If you’re a man. If you call yourself a man! There’s no other way to go but forward!
 
-**— Sabito**  
-*Demon Slayer: Kimetsu no Yaiba*
+> To live is to undertake a journey - no, to undertake a journey is to live. To face the wind or to follow it, all journeys lead to the gates of death... The light in which all journeys are taken is deceptive - not hopeful, but sorrowful. And the struggle never ends. Everywhere on the earth is fleeting life. We are blown by the wind. The words we write in the sand disappear and finally, when we are swallowed by the sea we do not hear the waves. The humblest of creatures must face these dreadful barriers. No-not barriers, but challenges rather...
+
+**— Guibu**  
+*The Heroic Legend of Arslan*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
+> Because of our weakness, we trained our eyes, ears and the ability to think. Learning how to survive, that's our trait as humans! The human species can't use magic and can't even perceive it—but because we are weak, we have the wisdom to run away from magic and the intelligence to see through it! We don't have any extraordinary senses. But because we are weak, by learning and gaining experience, we gained the wisdom to achieve the unachievable—to predict the future...Rejoice! We are humans; we are the most talented people! Precisely because we were born without any ability, we can achieve anything. This is the will of the weakest race!
 
-> I hate perfection. To be perfect is to be unable to improve any further.
-
-**— Kurotsuchi Mayuri**  
-*Bleach*
+**— Sora**  
+*No Game, No Life*
 
 <!--END_ANIME_QUOTE-->
 

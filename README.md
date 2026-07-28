@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg" width="180" /></p>
 
+> I'm the sniper king, sogeking.
 
-> I gave Shoto everything. By age 20, I’d already climbed to the #2 position. It was because I made that climb that I understood… unless I reached the summit, it was all for nothing. If all I cared about was titles, I could’ve worn a smile like you… and played the part of the lovable fool. But I wanted to be the strongest!
-
-**— Enji Todoroki**  
-*My Hero Academia*
+**— Usopp**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

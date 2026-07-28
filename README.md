@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> Shut up! I did what I had to do. People lie to survive. No one is blameless.
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+> Fear is "evil", it tells your weakness. If you can know your weakness, people become strong and gentle.
+
+**— Gildarts Clive**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

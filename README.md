@@ -53,10 +53,10 @@
 
 
 
-> Our contracts are completely dependent upon you agreeing to them first. I think that, in and of itself, is quite kind of us.
+> I hate perfection. To be perfect is to be unable to improve any further.
 
-**— Kyubee**  
-*Puella Magi Madoka Magica*
+**— Kurotsuchi Mayuri**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

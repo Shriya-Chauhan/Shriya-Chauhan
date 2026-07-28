@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg" width="180" /></p>
 
-> I'm the sniper king, sogeking.
+> This body comes with many inconveniences. But inconveniences don't make me miserable! There is no reason for you to pity me! My life was put back together with alchemy by my brother. If I deny myself, that would mean I'm denying my brother, along with alchemy. I believe in the potential that alchemy holds. I want to believe in it!
 
-**— Usopp**  
-*One Piece*
+**— Alphonse Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

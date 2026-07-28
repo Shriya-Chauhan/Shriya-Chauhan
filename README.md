@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg" width="180" /></p>
 
-> This body comes with many inconveniences. But inconveniences don't make me miserable! There is no reason for you to pity me! My life was put back together with alchemy by my brother. If I deny myself, that would mean I'm denying my brother, along with alchemy. I believe in the potential that alchemy holds. I want to believe in it!
 
-**— Alphonse Elric**  
-*Fullmetal Alchemist*
+> Our contracts are completely dependent upon you agreeing to them first. I think that, in and of itself, is quite kind of us.
+
+**— Kyubee**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,9 +53,9 @@
 
 
 
-> It's not bad to dream. But you also have to consider what's realistic.
+> I gave Shoto everything. By age 20, I’d already climbed to the #2 position. It was because I made that climb that I understood… unless I reached the summit, it was all for nothing. If all I cared about was titles, I could’ve worn a smile like you… and played the part of the lovable fool. But I wanted to be the strongest!
 
-**— All Might**  
+**— Enji Todoroki**  
 *My Hero Academia*
 
 <!--END_ANIME_QUOTE-->

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png" width="180" /></p>
 
-> [To Yubaba] I'm not leaving until you give me a job!
 
-**— Chihiro Ogino**  
-*Spirited Away*
+> It's not bad to dream. But you also have to consider what's realistic.
+
+**— All Might**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

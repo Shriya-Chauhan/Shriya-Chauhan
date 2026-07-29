@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5756-AO4dD0LGz4fm.png" width="180" /></p>
 
-> It doesn't matter who I am. You can just think of me as the talking air.
 
-**— Claire Stanfield**  
-*Baccano!*
+> I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me.
+
+**— Alois Trancy**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

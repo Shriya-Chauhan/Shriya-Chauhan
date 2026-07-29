@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png" width="180" /></p>
 
-> You do them one favor and they think you're their best friend. This is why I could care less if their entire species was swallowed up.
+> It's difficult to change the world on your own, but twisting it a little might not be all that hard.
 
-**— Hiei**  
-*Yu Yu Hakusho*
+**— Shinobu Oshino**  
+*Bakemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
 
+> You do them one favor and they think you're their best friend. This is why I could care less if their entire species was swallowed up.
 
-> Fear is "evil", it tells your weakness. If you can know your weakness, people become strong and gentle.
-
-**— Gildarts Clive**  
-*Fairy Tail*
+**— Hiei**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

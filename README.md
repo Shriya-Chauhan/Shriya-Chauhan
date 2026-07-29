@@ -51,13 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png" width="180" /></p>
 
-> People... humans are the being who look for happiness. What the Britannian boy, Lelouch, wanted to have was nothing but a small happiness. It's nothing special. At least at the root of his motives, there were only humble wishes that were simply natural to any human. Who could ever disclaim such dreams and such vows? Who could ever have the right to do that? However, whoever you might be, without choice, you have to deal with others and with the world, and have yourself be regulated and set down. Therefore, in the face of the world's wills, your personal speculations are so ephemeral they can't help being overwhelmed. Sins and punishments, destiny and judgment. What stands in front of Lelouch is the past he brought forth by himself. Is it a hatred resulting from the fact that humans are humans? Nonetheless, for now, we should be grateful... Yes, at least, to the fact that humans are the beings who look for happiness. 
-A remaining piece of hope, a faint sign of wishes will be born from despairs.
 
-**— C.C.**  
-*Code Geass: Lelouch of the Rebellion*
+> Let me ask you. Does a machine like yourself ever experience fear?
+
+**— Vegeta**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

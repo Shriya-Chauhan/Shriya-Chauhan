@@ -53,10 +53,10 @@
 
 
 
-> I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me.
+> One who relies overly on a single skill will be brought low by that very same skill.
 
-**— Alois Trancy**  
-*Black Butler*
+**— Aikurō Mikisugi**  
+*Kill la Kill*
 
 <!--END_ANIME_QUOTE-->
 

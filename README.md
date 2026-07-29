@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5756-AO4dD0LGz4fm.png" width="180" /></p>
 
-> It's difficult to change the world on your own, but twisting it a little might not be all that hard.
+> It doesn't matter who I am. You can just think of me as the talking air.
 
-**— Shinobu Oshino**  
-*Bakemonogatari*
+**— Claire Stanfield**  
+*Baccano!*
 
 <!--END_ANIME_QUOTE-->
 

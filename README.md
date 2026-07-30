@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png" width="180" /></p>
 
+> A strong love for someone… a strong belief in something… a strong desire to convey something… If all those things go beyond time to create you, then that would be magnificent. So don’t think of it as letting me die. Even if the world line changes, as long as you don’t forget me, I’ll always be there… I’m sure that from now on you’re going to suffer. You’ll be in a world where no one but you remembers me. You care more about your friends than anything else, so I think it’s going to be painful for you. I’m so sorry. But that pain will mean a lot to me.
 
-> Why torment yourself saying, "Eventually, someday?" How long have you been fighting with your thoughts clouded by that brand of sweet poison?
-
-**— Rau Le Creuset**  
-*Mobile Suit Gundam SEED*
+**— Kurisu Makise**  
+*Steins Gate*
 
 <!--END_ANIME_QUOTE-->
 

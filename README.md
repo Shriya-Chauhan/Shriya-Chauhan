@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> I can't tell you that… You have to figure it out. Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> Why torment yourself saying, "Eventually, someday?" How long have you been fighting with your thoughts clouded by that brand of sweet poison?
+
+**— Rau Le Creuset**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

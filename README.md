@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Huh? What are you, retarded? I'm super thoughtful. That's why I stay in the corner and don't cause anyone trouble.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+> I hate talkative guys... They gross me out.
+
+**— Matsumoto Rangiku**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg" width="180" /></p>
 
-> Someone who could shed tears for their friends... could never be rejected from Fairy Tail!
+> People...At least, all children are born into a world that seems unreasonable and crazy to them. No one is asked at birth if they agree to come into the world. Everyone is born that way.
 
-**— Lucy Heartfilia**  
-*Fairy Tail*
+**— Nyanta**  
+*Log Horizon*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png" width="180" /></p>
 
-> I've never seen a man with a screw sticking out of his head before. I don't know how I'm supposed to deal with a guy like that!
+> Someone who could shed tears for their friends... could never be rejected from Fairy Tail!
 
-**— Crona**  
-*Soul Eater*
+**— Lucy Heartfilia**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

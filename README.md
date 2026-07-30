@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
 
+> I've never seen a man with a screw sticking out of his head before. I don't know how I'm supposed to deal with a guy like that!
 
-> I hate talkative guys... They gross me out.
-
-**— Matsumoto Rangiku**  
-*Bleach*
+**— Crona**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

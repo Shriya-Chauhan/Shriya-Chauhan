@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
 
-> No matter how hurt someone is, they're meant to overcome it and try to go forward.
+> There are only two times when a man can cry in public: when he loses his wallet and when his mother dies. And even if you cry in private, there's a severe restriction. Shed tears for others. The only thing you should be shedding for yourself is sweat. Remember that.
 
-**— Mirajane Strauss**  
-*Fairy Tail*
+**— Yuuji Kazami**  
+*The Fruit of Grisaia*
 
 <!--END_ANIME_QUOTE-->
 

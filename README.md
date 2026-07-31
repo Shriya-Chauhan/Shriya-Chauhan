@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> As a rule, they say humans haunted by a shinigami have nothing but misfortune.
+> If you come across an event that's too good to be true, it's probably poison.
 
-**— Ryuk**  
-*Death Note*
+**— Keima Katsuragi**  
+*The World God Only Knows*
 
 <!--END_ANIME_QUOTE-->
 

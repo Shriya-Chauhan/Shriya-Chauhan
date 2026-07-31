@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png" width="180" /></p>
 
-> People...At least, all children are born into a world that seems unreasonable and crazy to them. No one is asked at birth if they agree to come into the world. Everyone is born that way.
+> The life of each human is worth one life, that's it. Nothing more, nothing less.
 
-**— Nyanta**  
-*Log Horizon*
+**— King Bradley**  
+*Fullmetal Alchemist: Brotherhood*
 
 <!--END_ANIME_QUOTE-->
 

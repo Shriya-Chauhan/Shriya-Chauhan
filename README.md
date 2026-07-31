@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5190-Xql1rGKUv1ql.png" width="180" /></p>
 
-> The life of each human is worth one life, that's it. Nothing more, nothing less.
+> No matter how hurt someone is, they're meant to overcome it and try to go forward.
 
-**— King Bradley**  
-*Fullmetal Alchemist: Brotherhood*
+**— Mirajane Strauss**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

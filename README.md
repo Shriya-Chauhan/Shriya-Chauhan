@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
-> I want to make his dreams come true...
+> Even if I can't see. Even if I can't hear. I have light inside me. The path I walked with my friends, is bringing light to my future. I don't fear anything! This isn't even worthy of being called pain! The worst pain is.. The pain of losing your light.
 
-**— Haku**  
-*Naruto*
+**— Erza Scarlet**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

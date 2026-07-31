@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> There are only two times when a man can cry in public: when he loses his wallet and when his mother dies. And even if you cry in private, there's a severe restriction. Shed tears for others. The only thing you should be shedding for yourself is sweat. Remember that.
+> The world doesn't get to decide whether my life is boring, fun, or ordinary, because that's my decision to make. As long as I have the will, nothing is impossible!
 
-**— Yuuji Kazami**  
-*The Fruit of Grisaia*
+**— Keima Katsuragi**  
+*The World God Only Knows*
 
 <!--END_ANIME_QUOTE-->
 

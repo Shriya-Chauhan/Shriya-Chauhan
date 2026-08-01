@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1180-gOhJpOd5jwN0.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/61775-B6MapEfWXmdn.jpg" width="180" /></p>
 
-> The choices we make in life have unlimited possibilities.
+> I really do like you. You pissed me off, so I considered giving up for a minute, but I'd never lie about my feelings. So I won't quit. Even if you don't believe me now, I'll keep saying it until you do! I'll keep trying! This isn't over!
 
-**— Rem Saverem**  
-*Trigun*
+**— Erika Shinohara**  
+*Wolf Girl & Black Prince*
 
 <!--END_ANIME_QUOTE-->
 

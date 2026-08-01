@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b19569-OUNg5vrTJpwT.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> No, she's hiding something. But what could it be? Snacks? Guitar? Wait, maybe ton-chan.
+> The Devil's finest trick is to persuade you that he does not exist.
 
-**— Sawako Yamanaka**  
-*K-ON!*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

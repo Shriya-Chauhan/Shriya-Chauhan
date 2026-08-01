@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n53243-OwJ1Hv4Gg8wK.png" width="180" /></p>
 
-> It's strange isn't it. The two groups, which looked like they hated each other, are now shining the same color as they vanish into the distant sky.
+> Remember how you're supposed to let go right away when you fall off a horse and hit the ground? You don't need to hurt yourself for no reason. If you don't let go, you'll get dragged by the horse and get hurt.
 
-**— Takashi Natsume**  
-*Natsume Yuujinchou*
+**— Aki Mikage (Silver Spoon)**  
+*Silver Spoon*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
-> The Devil's finest trick is to persuade you that he does not exist.
+> People bring the small flames of their wishes together... since they don't want to extinguish the small flame... they'll bring that small flame to a bigger fire. A big flame named Griffith. But you know... I didn't bring a flame with me. I think I just stopped by to warm myself by the bonfire.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU TOO!*
+**— Guts**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24595-GIy3ql42WQfY.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
 
-> People who call others stupid are usually more stupid. But I'm stupid, so I'll say it anyways...YOU'RE STUPID!
+> It's strange isn't it. The two groups, which looked like they hated each other, are now shining the same color as they vanish into the distant sky.
 
-**— Shizuo Heiwajima**  
-*Durarara!!*
+**— Takashi Natsume**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3065-rxICaoOWugo4.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b19569-OUNg5vrTJpwT.png" width="180" /></p>
 
-> Now, dear Uncle, there's a certain person that I'd just love to kill. It doesn't even matter whether they're weak or strong. The people I live to kill, that really get me jazzed... never see it coming. Never. They're in some happy place where they're sure nothing can get them. Dying is the furthest thing from their minds. Maybe they're thinkin' about what they're gonna have for dinner. Just like you were. Right before I walked in.
+> No, she's hiding something. But what could it be? Snacks? Guitar? Wait, maybe ton-chan.
 
-**— Ladd Russo**  
-*Baccano!*
+**— Sawako Yamanaka**  
+*K-ON!*
 
 <!--END_ANIME_QUOTE-->
 

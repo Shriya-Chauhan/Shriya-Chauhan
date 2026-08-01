@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1180-gOhJpOd5jwN0.png" width="180" /></p>
 
+> The choices we make in life have unlimited possibilities.
 
-> It is so painful when you lose someone you love ...To the point where your hair turns white because of grief.
-
-**— Astharoshe Asran**  
-*Trinity Blood*
+**— Rem Saverem**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

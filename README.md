@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
-> People bring the small flames of their wishes together... since they don't want to extinguish the small flame... they'll bring that small flame to a bigger fire. A big flame named Griffith. But you know... I didn't bring a flame with me. I think I just stopped by to warm myself by the bonfire.
 
-**— Guts**  
-*Berserk*
+> It is so painful when you lose someone you love ...To the point where your hair turns white because of grief.
+
+**— Astharoshe Asran**  
+*Trinity Blood*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Do you think your sin will disappear if you lie?
+> Don’t be so stuck-up. Just enjoy this! Killing and being killed. They are just a way to pass time.
 
-**— Johann Liebert**  
-*Monster*
+**— Zaraki Kenpachi**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

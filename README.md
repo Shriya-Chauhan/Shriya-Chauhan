@@ -53,10 +53,10 @@
 
 
 
-> One who relies overly on a single skill will be brought low by that very same skill.
+> I wish I could rewrite my past.. but I can't. If I could, I'd do all I could if it would stop you from crying. But.. that's impossible. My past won't change. That's why we need to make my past pale in comparison to our present.
 
-**— Aikurō Mikisugi**  
-*Kill la Kill*
+**— Motoharu Yano**  
+*We Were There*
 
 <!--END_ANIME_QUOTE-->
 

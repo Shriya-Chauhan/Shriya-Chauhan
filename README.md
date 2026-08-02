@@ -53,10 +53,10 @@
 
 
 
-> Don’t be so stuck-up. Just enjoy this! Killing and being killed. They are just a way to pass time.
+> Do your best, no matter how many times you fail!
 
-**— Zaraki Kenpachi**  
-*Bleach*
+**— Takeshi Tatsumi**  
+*Giant Killing*
 
 <!--END_ANIME_QUOTE-->
 

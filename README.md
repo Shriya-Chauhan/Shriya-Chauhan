@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png" width="180" /></p>
 
-> If you're helping someone and expecting something in return, you're doing business not kindness.
+> God gave us eyes at the front of our heads so we can look forward to the future.
 
-**— Shirayuki**  
-*Snow White with the Red Hair*
+**— Kamina**  
+*Gurren Lagann*
 
 <!--END_ANIME_QUOTE-->
 

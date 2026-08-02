@@ -53,10 +53,10 @@
 
 
 
-> Do your best, no matter how many times you fail!
+> One who relies overly on a single skill will be brought low by that very same skill.
 
-**— Takeshi Tatsumi**  
-*Giant Killing*
+**— Aikurō Mikisugi**  
+*Kill la Kill*
 
 <!--END_ANIME_QUOTE-->
 

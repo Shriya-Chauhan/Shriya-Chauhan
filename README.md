@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2075-sWb5Xz76JWdX.png" width="180" /></p>
 
-> God gave us eyes at the front of our heads so we can look forward to the future.
 
-**— Kamina**  
-*Gurren Lagann*
+> It is right for me, but not for you. Either way, the concept of "right" means no more than that.
+
+**— Magata Shiki**  
+*The Perfect Insider*
 
 <!--END_ANIME_QUOTE-->
 

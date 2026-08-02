@@ -53,10 +53,10 @@
 
 
 
-> It is right for me, but not for you. Either way, the concept of "right" means no more than that.
+> You remind me so much of myself from the past. I also used to think that perseveration had some credits, that it was the best way to change the world... but with that alone you cannot accomplish anything. Without power, you're doomed to become dependent on others, that's the way the world works.
 
-**— Magata Shiki**  
-*The Perfect Insider*
+**— Akio Ohtori**  
+*Revolutionary Girl Utena*
 
 <!--END_ANIME_QUOTE-->
 

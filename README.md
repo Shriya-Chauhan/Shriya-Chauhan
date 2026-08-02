@@ -53,10 +53,10 @@
 
 
 
-> You remind me so much of myself from the past. I also used to think that perseveration had some credits, that it was the best way to change the world... but with that alone you cannot accomplish anything. Without power, you're doomed to become dependent on others, that's the way the world works.
+> You make me sick, you and your pathetic girly whining... You're not a MAN! You're just a little kitty-cat who's afraid to fight! Know what?! YOU CAN GO TO HELL! HAHAHAHAHA! UGH! (gets kicked by Kyo in the face)
 
-**— Akio Ohtori**  
-*Revolutionary Girl Utena*
+**— Sohma Hatsuharu**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n53243-OwJ1Hv4Gg8wK.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png" width="180" /></p>
 
-> Remember how you're supposed to let go right away when you fall off a horse and hit the ground? You don't need to hurt yourself for no reason. If you don't let go, you'll get dragged by the horse and get hurt.
+> If you're helping someone and expecting something in return, you're doing business not kindness.
 
-**— Aki Mikage (Silver Spoon)**  
-*Silver Spoon*
+**— Shirayuki**  
+*Snow White with the Red Hair*
 
 <!--END_ANIME_QUOTE-->
 

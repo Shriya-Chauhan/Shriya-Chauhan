@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b145342-GSUutL83jGgI.png" width="180" /></p>
 
+> The moment I thought I was going to die, I remembered Tachibana Hinata.
 
-> Killing for your own ideas... even a bandit could do that if it's killing a complete stranger. However, it's a completely different thing when it comes to killing a relative or a friend. Desire alone isn't enough. You need indomitable will and unwavering beliefs.
-
-**— Ichijiku Chisato**  
-*Brynhildr in the Darkness*
+**— Takemichi Hanagaki**  
+*Tokyo Revengers*
 
 <!--END_ANIME_QUOTE-->
 

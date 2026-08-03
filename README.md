@@ -53,9 +53,9 @@
 
 
 
-> I never like to work based on trust. It takes hard work to build up trust, but only an instant to lose it. There's no less profitable investment.
+> Well, who you love depends on the person. Isn't everything fine as long as it's someone who's fun to be with? Being with someone doesn't require any permission as long as the two people accept each other. If you worry about your parents or your family, then you lose. Don't forget that. You can't go out with someone with incomplete feelings.
 
-**— Ushiromiya Kyrie**  
+**— Ushiromiya Battler**  
 *Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->

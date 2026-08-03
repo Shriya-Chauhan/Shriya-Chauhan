@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png" width="180" /></p>
 
-> I was the only one who got an A ranking for the Public Safety Bureau. There were more than 500 students and I was the only one. So I thought that there must have been something that only I could do at the Bureau. If I went there, I thought I could find my purpose in life... I thought I'd be able to find out why I was born here and now!
 
-**— Akane Tsunemori**  
-*Psycho-Pass*
+> Does it hurt? Relish the taste, because it is going to be the last sensation you feel in this life.
+
+**— Asakura Ryouko**  
+*The Melancholy of Haruhi Suzumiya*
 
 <!--END_ANIME_QUOTE-->
 

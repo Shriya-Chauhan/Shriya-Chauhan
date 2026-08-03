@@ -53,10 +53,10 @@
 
 
 
-> Does it hurt? Relish the taste, because it is going to be the last sensation you feel in this life.
+> Killing for your own ideas... even a bandit could do that if it's killing a complete stranger. However, it's a completely different thing when it comes to killing a relative or a friend. Desire alone isn't enough. You need indomitable will and unwavering beliefs.
 
-**— Asakura Ryouko**  
-*The Melancholy of Haruhi Suzumiya*
+**— Ichijiku Chisato**  
+*Brynhildr in the Darkness*
 
 <!--END_ANIME_QUOTE-->
 

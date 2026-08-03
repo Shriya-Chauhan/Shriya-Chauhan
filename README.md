@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b145342-GSUutL83jGgI.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3066-bq8s1DooZyTJ.png" width="180" /></p>
 
-> The moment I thought I was going to die, I remembered Tachibana Hinata.
+> For those who have come to power, wealth and glory not by their own strength and effort, but simply through inheritance, what right do they have to complain? The very existence of such blood-lineage dynasties is disgusting. Power is the property of one generation. It shouldn't be transferred, it should be seized.
 
-**— Takemichi Hanagaki**  
-*Tokyo Revengers*
+**— Reinhard von Lohengramm**  
+*Legend of the Galactic Heroes*
 
 <!--END_ANIME_QUOTE-->
 

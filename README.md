@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3066-bq8s1DooZyTJ.png" width="180" /></p>
 
-> For those who have come to power, wealth and glory not by their own strength and effort, but simply through inheritance, what right do they have to complain? The very existence of such blood-lineage dynasties is disgusting. Power is the property of one generation. It shouldn't be transferred, it should be seized.
 
-**— Reinhard von Lohengramm**  
-*Legend of the Galactic Heroes*
+> I never like to work based on trust. It takes hard work to build up trust, but only an instant to lose it. There's no less profitable investment.
+
+**— Ushiromiya Kyrie**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

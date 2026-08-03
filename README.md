@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68583-sEP2wyE2Tk7a.png" width="180" /></p>
 
+> I was the only one who got an A ranking for the Public Safety Bureau. There were more than 500 students and I was the only one. So I thought that there must have been something that only I could do at the Bureau. If I went there, I thought I could find my purpose in life... I thought I'd be able to find out why I was born here and now!
 
-> I wish I could rewrite my past.. but I can't. If I could, I'd do all I could if it would stop you from crying. But.. that's impossible. My past won't change. That's why we need to make my past pale in comparison to our present.
-
-**— Motoharu Yano**  
-*We Were There*
+**— Akane Tsunemori**  
+*Psycho-Pass*
 
 <!--END_ANIME_QUOTE-->
 

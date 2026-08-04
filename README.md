@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> I can't tell you that… You have to figure it out. Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> *To Captain Kuro* So, you don’t like to get hit, huh? Well, you’re about to have a very bad day.
+
+**— Monkey D. Luffy**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

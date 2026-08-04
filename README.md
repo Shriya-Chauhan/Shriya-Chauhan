@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b139-QnuZQbLodMF3.png" width="180" /></p>
 
-> The words of your past are fundamentally unrelated to who you are now.
+> Our injuries will heal as long as we're alive. But the scars will remain.
 
-**— Ryuunosuke Akutagawa**  
-*Bungo Stray Dogs 2*
+**— Allen Walker**  
+*D.Gray-man*
 
 <!--END_ANIME_QUOTE-->
 

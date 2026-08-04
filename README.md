@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png" width="180" /></p>
 
+> In the end, I couldn't see things from the parasites' perspective, never mind from Migi's. Of course not. It wasn't possible from the beginning. As two different species, we may at times take advantage of each other and kill each other, but it's impossible to understand each other. Actually, you shouldn't even think that you've figured out another species based on your standards. I think it's human arrogance to think we understand how other life forms feel. There may be no other life forms that are truly a "friend" to man. Still, even if we can't comprehend them, they are, without a doubt, neighbors deserving of our respect. We protect other species because humans themselves are lonely creatures. We protect the environment because humans themselves don't want to go extinct. What drives us is simply self-gratification. But I think that's fine, and that it's really all there is to it. There's no point in despising humans by human standards. That's right. So in the end, it's hypocritical for us to love Earth without loving ourselves.
 
-> You don't have to be reasonable when you're in love.
-
-**— Emi Yusa**  
-*The Devil is a Part-Timer!*
+**— Shinichi Izumi**  
+*Parasyte: The Maxim*
 
 <!--END_ANIME_QUOTE-->
 

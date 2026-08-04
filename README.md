@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b139-QnuZQbLodMF3.png" width="180" /></p>
 
-> Our injuries will heal as long as we're alive. But the scars will remain.
 
-**— Allen Walker**  
-*D.Gray-man*
+> The fight to protect life and the fight to protect honor——that's Captain Ukitake's policy. But you know, Kuchiki...I think that in the end, those both end up being the same thing. ...Heart.
+
+**— Shiba Kaien**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

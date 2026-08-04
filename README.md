@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png" width="180" /></p>
 
+> Feelings are connection. They surpass time, and find their way back to the people you love.
 
-> The fear of interacting with people...even I understand that one.
-
-**— Soul Evans**  
-*Soul Eater*
+**— Lucy Heartfilia**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

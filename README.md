@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
 
-> In this world, when you face forward, that's the future. When you look back, it's a memory. And if you clip a part of it out, that becomes a story.
 
-**— Yuuji Kazami**  
-*The Fruit of Grisaia*
+> The fear of interacting with people...even I understand that one.
+
+**— Soul Evans**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

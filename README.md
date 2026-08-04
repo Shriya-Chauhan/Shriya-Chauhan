@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
 
+> In this world, when you face forward, that's the future. When you look back, it's a memory. And if you clip a part of it out, that becomes a story.
 
-> *To Captain Kuro* So, you don’t like to get hit, huh? Well, you’re about to have a very bad day.
-
-**— Monkey D. Luffy**  
-*One Piece*
+**— Yuuji Kazami**  
+*The Fruit of Grisaia*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,7 +53,7 @@
 
 
 
-> People’s feelings sometimes go astray and lead to irreversible consequences.
+> There’s no use. There’s no such thing as a victory that can be won through effort. It doesn’t exist.
 
 **— Shinichi Kudou**  
 *Case Closed*

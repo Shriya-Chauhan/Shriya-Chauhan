@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6042.jpg" width="180" /></p>
 
+> To be loved out of sympathy is more devastating than to be rejected.
 
-> There's no such thing as useless effort.
-
-**— Taiga Kagami**  
-*Kuroko's Basketball - duplicate*
+**— Shinobu Takatsuki**  
+*Junjo Romantica*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,9 +53,9 @@
 
 
 
-> The fight to protect life and the fight to protect honor——that's Captain Ukitake's policy. But you know, Kuchiki...I think that in the end, those both end up being the same thing. ...Heart.
+> [Talking about Hueco Mundo] There isn't even water! Huh? Then how'd we have tea earlier?
 
-**— Shiba Kaien**  
+**— Ichimaru Gin**  
 *Bleach*
 
 <!--END_ANIME_QUOTE-->

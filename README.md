@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n89787-HUnPrqSmRudq.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg" width="180" /></p>
 
-> Being angry consumes energy and makes me tired. So I'd rather apologize, even if I'm not at fault. Besides, we get along, and we both want to stay friends. Prolonging an awkward situation out of stubbornness is just silly.
+> Pika Pika!
 
-**— Tanaka**  
-*Tanaka-kun is Always Listless*
+**— Pikachu**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

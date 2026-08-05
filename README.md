@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6042.jpg" width="180" /></p>
 
-> To be loved out of sympathy is more devastating than to be rejected.
 
-**— Shinobu Takatsuki**  
-*Junjo Romantica*
+> We could drive them off the entire earth if we had your strength, Gintoki!
+
+**— Kotarō Katsura**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

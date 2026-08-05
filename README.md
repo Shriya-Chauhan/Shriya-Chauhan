@@ -53,10 +53,10 @@
 
 
 
-> We could drive them off the entire earth if we had your strength, Gintoki!
+> You hit me with everything you had, so I decided I could trust you with everything I had.
 
-**— Kotarō Katsura**  
-*Gintama*
+**— Konno Yuuki**  
+*Sword Art Online II*
 
 <!--END_ANIME_QUOTE-->
 

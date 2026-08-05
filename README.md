@@ -53,10 +53,10 @@
 
 
 
-> [Talking about Hueco Mundo] There isn't even water! Huh? Then how'd we have tea earlier?
+> There's no such thing as useless effort.
 
-**— Ichimaru Gin**  
-*Bleach*
+**— Taiga Kagami**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

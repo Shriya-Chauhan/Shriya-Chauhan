@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> When I become Fuhrer President, all female personnel in the military ... will have to wear mini-skirts.
+> In every time, in every world, the strong polish their fangs while the weak polish their wisdom.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+**— Sora**  
+*No Game, No Life*
 
 <!--END_ANIME_QUOTE-->
 

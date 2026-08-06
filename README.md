@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
+> When I become Fuhrer President, all female personnel in the military ... will have to wear mini-skirts.
 
-> Compared to the "righteous" greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born.
-
-**— Eustass Kid**  
-*One Piece*
+**— Roy Mustang**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

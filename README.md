@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> In every time, in every world, the strong polish their fangs while the weak polish their wisdom.
 
-**— Sora**  
-*No Game, No Life*
+> When going on an adventure it's hard to stay calm. As humans, even if we know the adventure will be full of pain and sorrow, we still choose to go on it. Real adventures are not like the ones depicted in games or comic books - they're neither easy nor quick and they can break a person's heart. Real adventures can torment people. They can make you regret ever going on them. But still, that's the true meaning of an adventure. If that's so, then why do we, as people, choose to go on them? Why is that? Because we want to be heroes. Real heroes don't give up, even in front of pain or sorrow or regret! Rather, they want to live a full life. That's what real heroes are!
+
+**— Hayato Furinji**  
+*KenIchi: The Mightiest Disciple*
 
 <!--END_ANIME_QUOTE-->
 

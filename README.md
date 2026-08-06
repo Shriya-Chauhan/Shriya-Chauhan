@@ -53,10 +53,10 @@
 
 
 
-> When going on an adventure it's hard to stay calm. As humans, even if we know the adventure will be full of pain and sorrow, we still choose to go on it. Real adventures are not like the ones depicted in games or comic books - they're neither easy nor quick and they can break a person's heart. Real adventures can torment people. They can make you regret ever going on them. But still, that's the true meaning of an adventure. If that's so, then why do we, as people, choose to go on them? Why is that? Because we want to be heroes. Real heroes don't give up, even in front of pain or sorrow or regret! Rather, they want to live a full life. That's what real heroes are!
+> Tests are a good thing. The knowledge gained from a night of cramming will be all but forgotten once you hit adulthood. And that's fine. The experience you gain through competition, having sharpened your skills and broadened your minds all under the same set of rules? That's the real treasure.
 
-**— Hayato Furinji**  
-*KenIchi: The Mightiest Disciple*
+**— Korosensei**  
+*Assassination Classroom*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> There’s no use. There’s no such thing as a victory that can be won through effort. It doesn’t exist.
+> Compared to the "righteous" greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born.
 
-**— Shinichi Kudou**  
-*Case Closed*
+**— Eustass Kid**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

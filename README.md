@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/2100.jpg" width="180" /></p>
 
-> So you were carrying such a cute girl with you every single day… and going about your journey with such joy… Give me back the blood I bled for you!
+> I am a god with a heart, but there’s one thing I cannot tolerate… people who don’t pay their proper respect to others.
 
-**— Zenitsu Agatsuma**  
-*Demon Slayer: Kimetsu no Yaiba*
+**— Beerus**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41026-WkbhSjdpZISG.jpg" width="180" /></p>
 
-> I can't surpress my feeling anymore. When she gets confused, I will still her back. Yes I know I am selfish, I don't care.
 
-**— Kou Mabuchi**  
-*Blue Spring Ride*
+> Let me tell you the truth. The truth behind fighting. Fighting continues forever. After you've defeated one person, someone stronger appears. If you manage to defeat him, then an even stronger person comes along. If you don't have the resolve to endure that eternal struggle, then eventually your confidence will erode. But it doesn't end there! The battle will continue elsewhere, fought by others. It's an endless cycle! And it doesn't end with a person's death. The cycle will continue! As long as people and their souls exist, there will be disputes and those disputes will lead to fights. And those fights will continue without limit, for all eternity.
+
+**— Kariya Jin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

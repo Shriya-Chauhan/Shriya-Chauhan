@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg" width="180" /></p>
 
-> I kept the ball in the air, it’s not your place to give up.
 
-**— Yuu Nishinoya**  
-*Haikyu!!*
+> People... are not born equal. That's the hard truth I learned at age four. But that... was my first and last setback.
+
+**— Midoriya Izuku**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

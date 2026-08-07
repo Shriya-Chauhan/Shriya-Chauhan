@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/2100.jpg" width="180" /></p>
 
-> I am a god with a heart, but there’s one thing I cannot tolerate… people who don’t pay their proper respect to others.
 
-**— Beerus**  
-*Dragon Ball Z*
+> [to Yuzu] Ah! It's okay, Yuzu, don't cry! Daddy will show you something really hilarious!
+
+**— Kurosaki Isshin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

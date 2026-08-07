@@ -53,10 +53,10 @@
 
 
 
-> If you don't know what state you wounds are in, of where you're hurting if you don't know that for yourself, there's no point in trying to share it with others, is there?
+> Okay, I'll talk! Take the elevator to see my boss!
 
-**— Hisomu Yoshiharu**  
-*Kiznaiver*
+**— Rocket Grunt**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

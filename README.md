@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png" width="180" /></p>
 
+> So you were carrying such a cute girl with you every single day… and going about your journey with such joy… Give me back the blood I bled for you!
 
-> I'm gonna take you out in one giant bug blitzkrieg!
-
-**— Underwood Weevil**  
-*Yu-Gi-Oh!*
+**— Zenitsu Agatsuma**  
+*Demon Slayer: Kimetsu no Yaiba*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png" width="180" /></p>
 
-> Unless someone makes the first move, nothing will happen.
 
-**— Misa Amane**  
-*Death Note*
+> People are like dice, a certain Frenchman said that. You throw yourself in the direction of your own choosing. People are free because they can do that. Everyone's circumstances are different, but no matter how small the choice, at the very least, you can throw yourself. It's not chance or fate. It's the choice you made.
+
+**— Black Lagoon**  
+*Black Lagoon*
 
 <!--END_ANIME_QUOTE-->
 

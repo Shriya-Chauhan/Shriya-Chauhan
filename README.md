@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b57499-6cjBq1SlPRpq.png" width="180" /></p>
 
+> To ask is a moment's shame. Not to, lifelong.
 
-> We could drive them off the entire earth if we had your strength, Gintoki!
-
-**— Kotarō Katsura**  
-*Gintama*
+**— Yotsugi Ononoki**  
+*Monogatari Series: Second Season*
 
 <!--END_ANIME_QUOTE-->
 

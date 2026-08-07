@@ -53,9 +53,9 @@
 
 
 
-> [to Yuzu] Ah! It's okay, Yuzu, don't cry! Daddy will show you something really hilarious!
+> Unless I grip the sword, I cannot protect you. While gripping the sword, I cannot embrace you.
 
-**— Kurosaki Isshin**  
+**— Kurosaki Ichigo**  
 *Bleach*
 
 <!--END_ANIME_QUOTE-->

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
+> If the drive behind one's actions is the thought for another, then it is never meaningless.
 
-> People are like dice, a certain Frenchman said that. You throw yourself in the direction of your own choosing. People are free because they can do that. Everyone's circumstances are different, but no matter how small the choice, at the very least, you can throw yourself. It's not chance or fate. It's the choice you made.
-
-**— Black Lagoon**  
-*Black Lagoon*
+**— Erza Scarlet**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

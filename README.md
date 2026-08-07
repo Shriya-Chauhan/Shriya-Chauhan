@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b57499-6cjBq1SlPRpq.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b835-CiZa8y2z2gCz.png" width="180" /></p>
 
-> To ask is a moment's shame. Not to, lifelong.
+> Unless someone makes the first move, nothing will happen.
 
-**— Yotsugi Ononoki**  
-*Monogatari Series: Second Season*
+**— Misa Amane**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

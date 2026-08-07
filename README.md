@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41026-WkbhSjdpZISG.jpg" width="180" /></p>
 
+> I can't surpress my feeling anymore. When she gets confused, I will still her back. Yes I know I am selfish, I don't care.
 
-> Tests are a good thing. The knowledge gained from a night of cramming will be all but forgotten once you hit adulthood. And that's fine. The experience you gain through competition, having sharpened your skills and broadened your minds all under the same set of rules? That's the real treasure.
-
-**— Korosensei**  
-*Assassination Classroom*
+**— Kou Mabuchi**  
+*Blue Spring Ride*
 
 <!--END_ANIME_QUOTE-->
 

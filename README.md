@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg" width="180" /></p>
 
+> I kept the ball in the air, it’s not your place to give up.
 
-> Okay, I'll talk! Take the elevator to see my boss!
-
-**— Rocket Grunt**  
-*Pokémon*
+**— Yuu Nishinoya**  
+*Haikyu!!*
 
 <!--END_ANIME_QUOTE-->
 

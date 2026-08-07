@@ -53,10 +53,10 @@
 
 
 
-> People... are not born equal. That's the hard truth I learned at age four. But that... was my first and last setback.
+> We could drive them off the entire earth if we had your strength, Gintoki!
 
-**— Midoriya Izuku**  
-*My Hero Academia*
+**— Kotarō Katsura**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

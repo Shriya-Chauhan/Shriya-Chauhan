@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> The one hundred years we were apart were meant to bring me power and make you weak! Yoruichi!
+> There's no more trusted observer than someone who suspects you.
 
-**— Soi Fon**  
-*Bleach*
+**— Sora**  
+*No Game, No Life*
 
 <!--END_ANIME_QUOTE-->
 

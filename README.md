@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b429-vCfbN35MIz5c.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png" width="180" /></p>
 
-> He turns the black-and-white landscape into brilliant colors. That's what George was to me. Even if our paths don't ever cross again, that will never change.
+> It is pointless to question who someone really is. All you can do is believe and accept. Because the way you perceive someone is their true identity.
 
-**— Yukari Hayasaka**  
-*Paradise Kiss*
+**— Kazuto Kirigaya**  
+*Sword Art Online*
 
 <!--END_ANIME_QUOTE-->
 

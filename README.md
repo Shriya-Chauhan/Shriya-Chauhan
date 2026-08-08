@@ -53,10 +53,10 @@
 
 
 
-> When you want to scream or cry, I’ll be there. I’ll share your feelings and stay with you.
+> If you don't let me see Rin... I'll kill myself! If I don't kill you, I'll kill myself! (to Akito)
 
-**— Tada Banri**  
-*Golden Time*
+**— Sohma Hatsuharu**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

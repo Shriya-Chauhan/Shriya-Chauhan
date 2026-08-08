@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png" width="180" /></p>
 
+> The one hundred years we were apart were meant to bring me power and make you weak! Yoruichi!
 
-> Violence is the greatest power of the world!
-
-**— Meruem**  
-*Hunter x Hunter*
+**— Soi Fon**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

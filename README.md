@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
 
+> Is there truly any human who is not arrogant?
 
-> [thinking at the grave of Tosen's friend] O' anonymous friend of Tousen... If you had been there...What would you have said to stop him?
-
-**— Komamura Sajin**  
-*Bleach*
+**— Ciel Phantomhive**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

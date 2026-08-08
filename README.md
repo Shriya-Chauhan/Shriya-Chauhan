@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
 
-> Everything doesn't have to be decided by life and death. Just think about the future.
 
-**— Gray Fullbuster**  
-*Fairy Tail*
+> Clean up after yourself. If you want to be accepted, you must accept yourself first.
+
+**— Yoshida Haru**  
+*My Little Monster*
 
 <!--END_ANIME_QUOTE-->
 

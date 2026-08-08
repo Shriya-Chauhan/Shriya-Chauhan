@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n3765-XmrhzN7qO27e.png" width="180" /></p>
 
+> I am Light's girlfriend from university.
 
-> It looks to me like you've completely lost your touch.
-
-**— Shihouin Yoruichi**  
-*Bleach*
+**— Kiyomi Takada**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

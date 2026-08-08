@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png" width="180" /></p>
 
-> It is pointless to question who someone really is. All you can do is believe and accept. Because the way you perceive someone is their true identity.
 
-**— Kazuto Kirigaya**  
-*Sword Art Online*
+> A Coma doesn't exist, it is a preparatory research for the next life.
+
+**— Fuura Kafuka**  
+*Sayonara, Zetsubou-Sensei*
 
 <!--END_ANIME_QUOTE-->
 

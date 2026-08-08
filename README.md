@@ -53,9 +53,9 @@
 
 
 
-> If you don't let me see Rin... I'll kill myself! If I don't kill you, I'll kill myself! (to Akito)
+> I started crying. It was the first time in my life that I felt forgiven. Like I was saved. Like the frozen snow that's melted by spring, the tears wouldn't stop.
 
-**— Sohma Hatsuharu**  
+**— Sohma Hatori**  
 *Fruits Basket*
 
 <!--END_ANIME_QUOTE-->

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
-> If the drive behind one's actions is the thought for another, then it is never meaningless.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+> [thinking at the grave of Tosen's friend] O' anonymous friend of Tousen... If you had been there...What would you have said to stop him?
+
+**— Komamura Sajin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

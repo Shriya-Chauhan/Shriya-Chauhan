@@ -53,10 +53,10 @@
 
 
 
-> A Coma doesn't exist, it is a preparatory research for the next life.
+> When you want to scream or cry, I’ll be there. I’ll share your feelings and stay with you.
 
-**— Fuura Kafuka**  
-*Sayonara, Zetsubou-Sensei*
+**— Tada Banri**  
+*Golden Time*
 
 <!--END_ANIME_QUOTE-->
 

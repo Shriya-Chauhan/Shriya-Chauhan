@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b429-vCfbN35MIz5c.png" width="180" /></p>
 
-> Walls are an unavoidable part of youth.
+> He turns the black-and-white landscape into brilliant colors. That's what George was to me. Even if our paths don't ever cross again, that will never change.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+**— Yukari Hayasaka**  
+*Paradise Kiss*
 
 <!--END_ANIME_QUOTE-->
 

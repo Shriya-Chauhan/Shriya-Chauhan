@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n3765-XmrhzN7qO27e.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
 
-> I am Light's girlfriend from university.
+> Everything doesn't have to be decided by life and death. Just think about the future.
 
-**— Kiyomi Takada**  
-*Death Note*
+**— Gray Fullbuster**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

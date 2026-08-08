@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> There's no more trusted observer than someone who suspects you.
+> Having people acknowledge your existence is a wonderful thing.
 
-**— Sora**  
-*No Game, No Life*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

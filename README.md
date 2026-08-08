@@ -53,10 +53,10 @@
 
 
 
-> I started crying. It was the first time in my life that I felt forgiven. Like I was saved. Like the frozen snow that's melted by spring, the tears wouldn't stop.
+> Violence is the greatest power of the world!
 
-**— Sohma Hatori**  
-*Fruits Basket*
+**— Meruem**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

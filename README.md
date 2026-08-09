@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5334-jJiCoq8kJAUB.png" width="180" /></p>
 
-> How can a snake fly? It's not even a man!
 
-**— Elfman Strauss**  
-*Fairy Tail*
+> The real fun is in constantly pushing beyond your limits. So if you're thinking of everything as a game, you won't be able to fully experience it.
+
+**— Kagami Junichirou**  
+*Ultimate Otaku Teacher*
 
 <!--END_ANIME_QUOTE-->
 

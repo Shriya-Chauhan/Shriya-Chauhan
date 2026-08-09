@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg" width="180" /></p>
 
+> Is that really... the limit to your power? Do you honestly think that you won't get any stronger for the rest of your life? Instead of sitting around frustrated, it's better to keep on moving forward.
 
-> I may not have anywhere to go... but I can't just selfishly disappear either.
-
-**— Natsume Takeshi**  
-*Natsume Yuujinchou*
+**— Saitama**  
+*One Punch Man*
 
 <!--END_ANIME_QUOTE-->
 

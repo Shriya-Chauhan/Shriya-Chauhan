@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png" width="180" /></p>
 
-> Yeah I lied; so what is the truth? Underneath the band-aid?
+> A person is very strong when he seeks to protect something.
 
-**— Haruko Haruhara**  
-*FLCL*
+**— Akihiko Kayaba**  
+*Sword Art Online*
 
 <!--END_ANIME_QUOTE-->
 

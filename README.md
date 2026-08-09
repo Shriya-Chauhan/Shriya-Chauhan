@@ -53,10 +53,10 @@
 
 
 
-> When one thing ends, another begins.
+> I want to defeat the me that's dragging this failure around. I don't want to forget my failure. But if I carry it with me as a bad memory and keep running away, I will never change.
 
-**— Riko Aida**  
-*Kuroko's Basketball - duplicate*
+**— Hishiro Chizuru**  
+*ReLIFE*
 
 <!--END_ANIME_QUOTE-->
 

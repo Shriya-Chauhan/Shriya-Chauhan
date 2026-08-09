@@ -53,10 +53,10 @@
 
 
 
-> When there's nothing to be gained, rising to the challenge at those times... is surely the mark... of a true hero!!
+> When one thing ends, another begins.
 
-**— All Might**  
-*My Hero Academia*
+**— Riko Aida**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

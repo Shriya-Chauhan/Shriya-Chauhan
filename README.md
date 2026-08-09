@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png" width="180" /></p>
 
+> Yeah I lied; so what is the truth? Underneath the band-aid?
 
-> Inherited will, the swelling of the changing times, and the dreams of people. These are things that cannot be stopped. As long as people seek the answer to freedom, these will never cease to be!
-
-**— One Piece**  
-*One Piece*
+**— Haruko Haruhara**  
+*FLCL*
 
 <!--END_ANIME_QUOTE-->
 

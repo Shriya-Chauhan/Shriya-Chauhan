@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b458-tlKqPcuR287U.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> If you cling to life, you live in fear of death. And that fear will cloud your judgment.
+> So, yeah. Strong animals don’t gather in herds or anything like that. Do they not know the expression “a lone wolf”? Cats are cute and wolves are cool. In other words, loners are cute and cool.
 
-**— Revy**  
-*Black Lagoon*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

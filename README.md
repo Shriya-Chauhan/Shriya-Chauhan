@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b21794-S9E4W9TEgncA.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png" width="180" /></p>
 
-> People do not exist to follow rules. Rules exist to protect the people.
+> The deeper the darkness the more dazzling the light shines!
 
-**— Medaka Kurokami**  
-*Medaka Box*
+**— Izuku Midoriya**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> People who use others are stupid, but people who are used are even more stupid.
+> Inherited will, the swelling of the changing times, and the dreams of people. These are things that cannot be stopped. As long as people seek the answer to freedom, these will never cease to be!
 
-**— Aoyagi Ritsuka**  
-*Loveless*
+**— One Piece**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

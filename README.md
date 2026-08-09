@@ -53,10 +53,10 @@
 
 
 
-> People remember their high school days as the high point of their lives. People say these things because everyone holds fond memories of their time in high school; however, I doubt that every high school student would want to remember their school life that way. For example, if neither studying, nor sports, nor socializing are of interest to someone, what then? What if there are students who prefer to keep a low profile? Though I guess that would be a pretty lonely way to live.
+> People who use others are stupid, but people who are used are even more stupid.
 
-**— Oreki Houtarou**  
-*Hyouka*
+**— Aoyagi Ritsuka**  
+*Loveless*
 
 <!--END_ANIME_QUOTE-->
 

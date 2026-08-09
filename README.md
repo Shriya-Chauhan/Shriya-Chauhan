@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88681-tTuJXN5ds3gy.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2188-yjGSCtaC06Yh.png" width="180" /></p>
 
-> Everyone Makes Mistakes. But people's feelings can manifest through the most subtle of expressions.
+> My existence was nothing more to her than a stone by the side of the road. I wasn't enough to fill her belly. Or perhaps I didn't even get reflected in her eyes. I couldn't even hate the beast that killed Teresa. It was me, overcome by fear, that I could not forgive.
 
-**— Nona**  
-*Death Parade*
+**— Clare**  
+*Claymore*
 
 <!--END_ANIME_QUOTE-->
 

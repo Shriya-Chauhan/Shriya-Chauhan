@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> I'm not short! I'm fun-sized!
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> I think I finally understand... As long as there's someone who'll grieve, it's wrong to want to die.
+
+**— Hidehito Nomura**  
+*Welcome to the N.H.K.*
 
 <!--END_ANIME_QUOTE-->
 

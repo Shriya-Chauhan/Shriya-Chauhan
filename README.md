@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b458-tlKqPcuR287U.png" width="180" /></p>
 
+> If you cling to life, you live in fear of death. And that fear will cloud your judgment.
 
-> The real fun is in constantly pushing beyond your limits. So if you're thinking of everything as a game, you won't be able to fully experience it.
-
-**— Kagami Junichirou**  
-*Ultimate Otaku Teacher*
+**— Revy**  
+*Black Lagoon*
 
 <!--END_ANIME_QUOTE-->
 

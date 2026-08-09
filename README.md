@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> So, yeah. Strong animals don’t gather in herds or anything like that. Do they not know the expression “a lone wolf”? Cats are cute and wolves are cool. In other words, loners are cute and cool.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+> When there's nothing to be gained, rising to the challenge at those times... is surely the mark... of a true hero!!
+
+**— All Might**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png" width="180" /></p>
 
-> The deeper the darkness the more dazzling the light shines!
 
-**— Izuku Midoriya**  
-*My Hero Academia*
+> I may not have anywhere to go... but I can't just selfishly disappear either.
+
+**— Natsume Takeshi**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

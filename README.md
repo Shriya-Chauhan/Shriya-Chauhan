@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5334-jJiCoq8kJAUB.png" width="180" /></p>
 
-> Is that really... the limit to your power? Do you honestly think that you won't get any stronger for the rest of your life? Instead of sitting around frustrated, it's better to keep on moving forward.
+> How can a snake fly? It's not even a man!
 
-**— Saitama**  
-*One Punch Man*
+**— Elfman Strauss**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png" width="180" /></p>
 
-> Comrades are comrades because they help each other out.
 
-**— Natsu Dragneel**  
-*Fairy Tail*
+> Got it. I won’t let Sakuna out.
+
+**— Yuji Itadori**  
+*Jujutsu Kaisen*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> The moment you put it into words and tell someone, it starts to diverge from your feelings. Words are nothing but lies and nothing but cheats. No matter what the truth, the moment it is told, it becomes dramatized.
+> Whenever you fight from this point on, there is one thing you must never do. Which is...to die alone.
 
-**— Deishū Kaiki**  
-*Monogatari Series: Second Season*
+**— Shiba Kaien**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

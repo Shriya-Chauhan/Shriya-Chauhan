@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png" width="180" /></p>
 
+> To put things simply, if your past makes your present... Then your present can and will make your future. When you think about it that way... You absolutely have the potential to be anything you want to be, don't you agree?
 
-> Awaken, Benihime.
-
-**— Urahara Kisuke**  
-*Bleach*
+**— Yato**  
+*Noragami*
 
 <!--END_ANIME_QUOTE-->
 

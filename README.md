@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
 
-> The power of one man doesn't amount to much. But, however little strength I'm capable of, I'll do everything humanly possible to protect the people I love, and in turn they will protect the ones they love. It seems like the least we tiny humans can do for each other.
+> Gon, you are light. But sometimes youshineso brightly, I must look away. Even so, is it still okay if I stay at your side?
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+**— Killua**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

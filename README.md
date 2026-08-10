@@ -53,10 +53,10 @@
 
 
 
-> It's better trusting someone than to die doubting people altogether.
+> I don't think anyone is born with a reason to live. It's something you have to find for yourself.
 
-**— Kaitou Kid**  
-*Case Closed*
+**— Honda Tohru**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

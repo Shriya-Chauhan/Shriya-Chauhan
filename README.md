@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14523-yFjXVeK6c6IE.png" width="180" /></p>
 
-> The interaction of men and women isn't very logical.
+> How far do you want me to suppress myself so that you'll be satisfied?
 
-**— Ritsuko Akagi**  
-*Neon Genesis Evangelion*
+**— Takumi Usui**  
+*Maid Sama!*
 
 <!--END_ANIME_QUOTE-->
 

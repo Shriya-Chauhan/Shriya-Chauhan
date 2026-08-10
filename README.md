@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n39742-v9wdkOMMW7oT.png" width="180" /></p>
 
-> To put things simply, if your past makes your present... Then your present can and will make your future. When you think about it that way... You absolutely have the potential to be anything you want to be, don't you agree?
+> You need to learn how to make mistakes before you grow up. When you are young, you can recover quickly when hurt. When you get older it's harder to make mistakes. The more responsibilities, the less mistakes you are allowed to make.
 
-**— Yato**  
-*Noragami*
+**— Junko Kaname**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

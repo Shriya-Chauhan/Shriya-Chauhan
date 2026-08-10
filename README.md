@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n39742-v9wdkOMMW7oT.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png" width="180" /></p>
 
-> You need to learn how to make mistakes before you grow up. When you are young, you can recover quickly when hurt. When you get older it's harder to make mistakes. The more responsibilities, the less mistakes you are allowed to make.
+> Comrades are comrades because they help each other out.
 
-**— Junko Kaname**  
-*Puella Magi Madoka Magica*
+**— Natsu Dragneel**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

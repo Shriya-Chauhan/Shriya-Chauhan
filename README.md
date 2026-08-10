@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
 
-> Gon, you are light. But sometimes youshineso brightly, I must look away. Even so, is it still okay if I stay at your side?
 
-**— Killua**  
-*Hunter x Hunter*
+> Awaken, Benihime.
+
+**— Urahara Kisuke**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

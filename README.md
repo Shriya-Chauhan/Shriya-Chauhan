@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png" width="180" /></p>
 
+> The interaction of men and women isn't very logical.
 
-> Whenever you fight from this point on, there is one thing you must never do. Which is...to die alone.
-
-**— Shiba Kaien**  
-*Bleach*
+**— Ritsuko Akagi**  
+*Neon Genesis Evangelion*
 
 <!--END_ANIME_QUOTE-->
 

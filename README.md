@@ -53,10 +53,10 @@
 
 
 
-> I think I finally understand... As long as there's someone who'll grieve, it's wrong to want to die.
+> It's better trusting someone than to die doubting people altogether.
 
-**— Hidehito Nomura**  
-*Welcome to the N.H.K.*
+**— Kaitou Kid**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

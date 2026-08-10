@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14523-yFjXVeK6c6IE.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b39198-DunPeFKB0HtU.png" width="180" /></p>
 
-> How far do you want me to suppress myself so that you'll be satisfied?
+> You may come to a standstill or get irritated because things don't work out the way you want them to, but what you gain from hard work will never betray you.
 
-**— Takumi Usui**  
-*Maid Sama!*
+**— Tooru Miyagishi**  
+*Hanasaku Iroha: Blossoms for Tomorrow*
 
 <!--END_ANIME_QUOTE-->
 

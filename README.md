@@ -53,10 +53,10 @@
 
 
 
-> I don't think anyone is born with a reason to live. It's something you have to find for yourself.
+> The moment you put it into words and tell someone, it starts to diverge from your feelings. Words are nothing but lies and nothing but cheats. No matter what the truth, the moment it is told, it becomes dramatized.
 
-**— Honda Tohru**  
-*Fruits Basket*
+**— Deishū Kaiki**  
+*Monogatari Series: Second Season*
 
 <!--END_ANIME_QUOTE-->
 

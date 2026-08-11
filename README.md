@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/56047.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png" width="180" /></p>
 
-> When in doubt, don't worry about what's right. You'll run out of time. Don't use your head, you'll find the answer lower. Your heart knows what's right. Choose the answer that will be fun.
+> Everyone is equal before the round table. Don't sweat it.
 
-**— Sharon Kaneko**  
-*Space Brothers*
+**— Arthur Boyle**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

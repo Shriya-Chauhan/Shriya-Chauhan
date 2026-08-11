@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
 
+> *to Urameshi* Sacrificing your life to save billions of others. You've lit our torches and I won't let your death be in vain... even if it means I'll be joining you soon.
 
-> Sincere feelings transcend time and connect hearts.
-
-**— Fairy Tail**  
-*Fairy Tail*
+**— Kazuma Kuwabara**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/56047.jpg" width="180" /></p>
 
+> When in doubt, don't worry about what's right. You'll run out of time. Don't use your head, you'll find the answer lower. Your heart knows what's right. Choose the answer that will be fun.
 
-> First we’re the milkmen, and now we’re stinkin’ farmers. We never did this in Orin Temple.
-
-**— Krillin**  
-*Dragon Ball Z*
+**— Sharon Kaneko**  
+*Space Brothers*
 
 <!--END_ANIME_QUOTE-->
 

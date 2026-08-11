@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png" width="180" /></p>
 
-> In fairy tales, when the protagonists end up in a different world, they do their best to get back home, right? But who would want to go back to a world like that?
+> [after kissing Okabe] There was a scientific rationale for that! Because... important memories, including, but not limited to, one's first kiss, are stored in the hippocampus, which makes them harder to forget. So I figured...
 
-**— Sora**  
-*No Game, No Life*
+**— Kurisu Makise**  
+*Steins;Gate*
 
 <!--END_ANIME_QUOTE-->
 

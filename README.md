@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png" width="180" /></p>
 
-> *to Urameshi* Sacrificing your life to save billions of others. You've lit our torches and I won't let your death be in vain... even if it means I'll be joining you soon.
+> Mankind has no time left.
 
-**— Kazuma Kuwabara**  
-*Yu Yu Hakusho*
+**— Shinji Ikari**  
+*Neon Genesis Evangelion*
 
 <!--END_ANIME_QUOTE-->
 

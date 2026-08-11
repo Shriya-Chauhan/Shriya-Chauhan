@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png" width="180" /></p>
 
+> People who can’t throw something important away, can never hope to change anything.
 
-> Got it. I won’t let Sakuna out.
-
-**— Yuji Itadori**  
-*Jujutsu Kaisen*
+**— Armin Arlert**  
+*Attack on Titan*
 
 <!--END_ANIME_QUOTE-->
 

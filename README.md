@@ -53,10 +53,11 @@
 
 
 
-> Choosing your calling based solely on your talents won't always guarantee you happiness.
+> If I haven't had fear, then I also wouldn't have been able to know what it's like to have bravery in my heart.
+Bravery that awakens when you're being consumed by fear.
 
-**— Kaminski Natalia**  
-*Fate/Zero*
+**— Wendy Marvell**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

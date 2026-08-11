@@ -53,11 +53,10 @@
 
 
 
-> If I haven't had fear, then I also wouldn't have been able to know what it's like to have bravery in my heart.
-Bravery that awakens when you're being consumed by fear.
+> First we’re the milkmen, and now we’re stinkin’ farmers. We never did this in Orin Temple.
 
-**— Wendy Marvell**  
-*Fairy Tail*
+**— Krillin**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

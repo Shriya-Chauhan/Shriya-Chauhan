@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png" width="180" /></p>
 
-> [after kissing Okabe] There was a scientific rationale for that! Because... important memories, including, but not limited to, one's first kiss, are stored in the hippocampus, which makes them harder to forget. So I figured...
 
-**— Kurisu Makise**  
-*Steins;Gate*
+> If a prediction is right, then it's like you only have one future. Like that future has been decided. But if it's wrong, then you have an almost infinite number of possibilities. And that means that even the tiniest twist of fate can change your future. I want to believe that I have choices - that the path I walk has many different turns, and many different roads to follow!
+
+**— Fujibayashi Ryou**  
+*Clannad*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40195-PenXAhV9kQKc.png" width="180" /></p>
 
-> Everyone has different faces.
 
-**— Taichi Yaegashi**  
-*Kokoro Connect*
+> Sincere feelings transcend time and connect hearts.
+
+**— Fairy Tail**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

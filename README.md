@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40195-PenXAhV9kQKc.png" width="180" /></p>
 
-> People who can’t throw something important away, can never hope to change anything.
+> Everyone has different faces.
 
-**— Armin Arlert**  
-*Attack on Titan*
+**— Taichi Yaegashi**  
+*Kokoro Connect*
 
 <!--END_ANIME_QUOTE-->
 

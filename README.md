@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
 
-> If you're scared, you might as well just cling to my arm. Creates more of an atmosphere.
 
-**— Kyon**  
-*The Melancholy of Haruhi Suzumiya*
+> Choosing your calling based solely on your talents won't always guarantee you happiness.
+
+**— Kaminski Natalia**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

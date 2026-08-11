@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> Everyone is equal before the round table. Don't sweat it.
+> In fairy tales, when the protagonists end up in a different world, they do their best to get back home, right? But who would want to go back to a world like that?
 
-**— Arthur Boyle**  
-*Fire Force*
+**— Sora**  
+*No Game, No Life*
 
 <!--END_ANIME_QUOTE-->
 

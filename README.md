@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
 
-> Throughout my life, the moments, and people who have defined me... they have all been illuminated by sparks.
+> I mean, think about it. If someone pointed to a classmate of yours and asked you what they meant to you, how would you answer? What would you say?
 
-**— Guts**  
-*Berserk*
+**— Kyon**  
+*The Melancholy of Haruhi Suzumiya*
 
 <!--END_ANIME_QUOTE-->
 

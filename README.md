@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Forcing yourself to like something you don't like brings sorrow.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+> When something impossible happens, there are only two possibilities. Either your assumptions are wrong, or you have gone crazy.
+
+**— Kougami Shinya**  
+*Psycho-Pass*
 
 <!--END_ANIME_QUOTE-->
 

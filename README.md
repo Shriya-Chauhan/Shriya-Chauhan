@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2753-Y2ja8Pl6PRs0.jpg" width="180" /></p>
 
+> With my own hands, JUSTICE will be served.
 
-> If a prediction is right, then it's like you only have one future. Like that future has been decided. But if it's wrong, then you have an almost infinite number of possibilities. And that means that even the tiniest twist of fate can change your future. I want to believe that I have choices - that the path I walk has many different turns, and many different roads to follow!
-
-**— Fujibayashi Ryou**  
-*Clannad*
+**— Smoker**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

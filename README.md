@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22-Xikbs9JJ9Qop.png" width="180" /></p>
 
+> *To Kaoru* Even if I searched the world over, no one could compare to you.
 
-> If you'll cower at the sight of the great foe before you, leave at once, coward. If you'll lose the strength you believed in, then fall to the ground, weakling.
-
-**— Fullmetal Alchemist: Brotherhood**  
-*Fullmetal Alchemist: Brotherhood*
+**— Hikaru Hitachiin**  
+*Ouran High School Host Club*
 
 <!--END_ANIME_QUOTE-->
 

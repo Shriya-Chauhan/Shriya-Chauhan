@@ -53,10 +53,10 @@
 
 <p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> That's not exactly right. If you had to sacrifice many things to protect one, you're more likely to give up and throw it away. Including relationships you have in your hand now.
+> Forcing yourself to like something you don't like brings sorrow.
 
 **— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU TOO!*
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

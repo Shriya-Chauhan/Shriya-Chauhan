@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png" width="180" /></p>
 
-> I mean, think about it. If someone pointed to a classmate of yours and asked you what they meant to you, how would you answer? What would you say?
+> I’ll promise you one thing: you two will never be in danger again.
 
-**— Kyon**  
-*The Melancholy of Haruhi Suzumiya*
+**— Tsukasa Shishio**  
+*Dr. Stone*
 
 <!--END_ANIME_QUOTE-->
 

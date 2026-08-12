@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2753-Y2ja8Pl6PRs0.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> With my own hands, JUSTICE will be served.
+> That's not exactly right. If you had to sacrifice many things to protect one, you're more likely to give up and throw it away. Including relationships you have in your hand now.
 
-**— Smoker**  
-*One Piece*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

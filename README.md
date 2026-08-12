@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
+> Throughout my life, the moments, and people who have defined me... they have all been illuminated by sparks.
 
-> When something impossible happens, there are only two possibilities. Either your assumptions are wrong, or you have gone crazy.
-
-**— Kougami Shinya**  
-*Psycho-Pass*
+**— Guts**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

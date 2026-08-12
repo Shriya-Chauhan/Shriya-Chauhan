@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22-Xikbs9JJ9Qop.png" width="180" /></p>
 
-> *To Kaoru* Even if I searched the world over, no one could compare to you.
 
-**— Hikaru Hitachiin**  
-*Ouran High School Host Club*
+> The days I spent with you were a lot of fun. I realized for the first time that it makes me so happy to be needed by others. I thought I'd get along well with you like this. But I can't. I was being a jerk. While I was with you, I was looking at someone else. I kept it to myself even after realizing that. I was taking advantage of your kindness.
+
+**— Okazaki Tomoya**  
+*Clannad: After Story*
 
 <!--END_ANIME_QUOTE-->
 

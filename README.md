@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
-> I want out of this damn moat!
 
-**— Guts**  
-*Berserk*
+> It seems I have overestimated you quite a bit. Your evolution did not even satisfy my expectations. This is the end.
+
+**— Ulquiorra Schiffer**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

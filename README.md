@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png" width="180" /></p>
 
-> I’ll promise you one thing: you two will never be in danger again.
 
-**— Tsukasa Shishio**  
-*Dr. Stone*
+> If you'll cower at the sight of the great foe before you, leave at once, coward. If you'll lose the strength you believed in, then fall to the ground, weakling.
+
+**— Fullmetal Alchemist: Brotherhood**  
+*Fullmetal Alchemist: Brotherhood*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67745-0oHMcSVNp7U5.jpg" width="180" /></p>
 
+> Prodigies don't understand how the incompetent feel.
 
-> (To Ichigo Kurosaki) You are a fool, Ichigo Kurosaki. You willingly seek to challenge an opponent so much more powerful than you that it strikes a primal fear into your being. Incomprehensible. If this is the work of the 'heart' that you people speak of, then it is because you possess this 'heart' that you humans bring hurt upon yourself, because you possess this 'heart' that you lose your lives
-
-**— Ulquiorra Schiffer**  
-*Bleach*
+**— Yun**  
+*Yona of the Dawn*
 
 <!--END_ANIME_QUOTE-->
 

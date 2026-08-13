@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b243-jhiLxDUpBKu4.png" width="180" /></p>
 
-> Can you do me a favor? Could you kill me with your fangs? Can you still not forgive me? Am I still a traitor?
 
-**— Hige**  
-*Wolf's Rain*
+> Trying without the winning intent is meaningless.
+
+**— Hiruma Youichi**  
+*Eyeshield 21*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67745-0oHMcSVNp7U5.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
-> Prodigies don't understand how the incompetent feel.
+> I want out of this damn moat!
 
-**— Yun**  
-*Yona of the Dawn*
+**— Guts**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

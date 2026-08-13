@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
+> We're hunting after a legendary sword. Finding a fairy or two shouldn't be surprising.
 
-> It's meaningless to just live, and it's meaningless to just fight. I want to win.
-
-**— Kurosaki Ichigo**  
-*Bleach*
+**— Death the Kid**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

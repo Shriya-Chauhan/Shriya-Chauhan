@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png" width="180" /></p>
 
-> Gon, you are light. But sometimes youshineso brightly, I must look away. Even so, is it still okay if I stay at your side?
+> The government says your existence is a crime, but no matter what kind of weapons you may hold, just being alive isn’t a sin! There’s no crime in living!
 
-**— Killua**  
-*Hunter x Hunter*
+**— Franky**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

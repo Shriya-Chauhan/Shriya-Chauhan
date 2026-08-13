@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b742-8G39uzDirQNg.png" width="180" /></p>
 
+> Regret is the domain of those who have earned the right to look back at the past. All I have is shame.
 
-> If you cut a thread, and then tie it, the thickness will be different where you originally cut it, right? In that sense, it means irreversible change.
-
-**— Kaminski Natalia**  
-*Fate/Zero*
+**— Kurama**  
+*Elfen Lied*
 
 <!--END_ANIME_QUOTE-->
 

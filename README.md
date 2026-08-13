@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Working hard alone doesn't assure you that you'll achieve your dreams. Actually there are more cases where you don't. Even so, working hard and achieving something is some consolation at least.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+> Reaching out to someone is simple.  All you need is the resolve to say, "I'm your ally no matter what." "I believe in you." That's all the resolve you need. It's okay to make mistakes. I grew up by making mistakes. Don't have any regrets. Your justice may be completely different from someone else's. You are completely different people after all. But you still live on together. People always look for ways to do just that.
+
+**— Shirota Tooru**  
+*SERVAMP*
 
 <!--END_ANIME_QUOTE-->
 

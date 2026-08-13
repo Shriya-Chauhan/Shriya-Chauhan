@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
-> We're hunting after a legendary sword. Finding a fairy or two shouldn't be surprising.
 
-**— Death the Kid**  
-*Soul Eater*
+> Tell me, are all you Saiyans so full of yourselves? Is this how you hide your incompetence? We androids will always be superior to your kind.
+
+**— Android 17**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

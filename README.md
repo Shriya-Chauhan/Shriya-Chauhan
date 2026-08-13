@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png" width="180" /></p>
 
-> I want out of this damn moat!
 
-**— Guts**  
-*Berserk*
+> If you cut a thread, and then tie it, the thickness will be different where you originally cut it, right? In that sense, it means irreversible change.
+
+**— Kaminski Natalia**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

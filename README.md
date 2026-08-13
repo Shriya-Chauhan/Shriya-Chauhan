@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b243-jhiLxDUpBKu4.png" width="180" /></p>
 
+> Can you do me a favor? Could you kill me with your fangs? Can you still not forgive me? Am I still a traitor?
 
-> Tell me, are all you Saiyans so full of yourselves? Is this how you hide your incompetence? We androids will always be superior to your kind.
-
-**— Android 17**  
-*Dragon Ball Z*
+**— Hige**  
+*Wolf's Rain*
 
 <!--END_ANIME_QUOTE-->
 

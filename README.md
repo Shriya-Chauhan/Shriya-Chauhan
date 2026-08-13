@@ -53,10 +53,10 @@
 
 
 
-> Reaching out to someone is simple.  All you need is the resolve to say, "I'm your ally no matter what." "I believe in you." That's all the resolve you need. It's okay to make mistakes. I grew up by making mistakes. Don't have any regrets. Your justice may be completely different from someone else's. You are completely different people after all. But you still live on together. People always look for ways to do just that.
+> It's meaningless to just live, and it's meaningless to just fight. I want to win.
 
-**— Shirota Tooru**  
-*SERVAMP*
+**— Kurosaki Ichigo**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

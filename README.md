@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b742-8G39uzDirQNg.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Regret is the domain of those who have earned the right to look back at the past. All I have is shame.
+> Working hard alone doesn't assure you that you'll achieve your dreams. Actually there are more cases where you don't. Even so, working hard and achieving something is some consolation at least.
 
-**— Kurama**  
-*Elfen Lied*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

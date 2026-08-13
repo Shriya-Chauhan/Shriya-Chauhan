@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24202-0j35xOdpRBxK.jpg" width="180" /></p>
 
-> Chizuru, you shouldn't be laughing too much. It was just a youthful indiscretion. Don't treat someone's first love like a mistake!
 
-**— Kaname Tsukahara**  
-*You and Me.*
+> A great calligrapher doesn't blame the brush.
+
+**— Fuji Shuusuke**  
+*Prince Of Tennis*
 
 <!--END_ANIME_QUOTE-->
 

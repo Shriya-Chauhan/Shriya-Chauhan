@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg" width="180" /></p>
 
+> Every moment hesitated is a moment gone from life.
 
-> The ones who do what they want and enjoy the most of their lives are the ones who win in the end.
-
-**— Charlie Staz**  
-*Blood Lad*
+**— Nicholas D. Wolfwood**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

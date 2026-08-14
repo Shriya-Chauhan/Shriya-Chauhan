@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14523-yFjXVeK6c6IE.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67745-0oHMcSVNp7U5.jpg" width="180" /></p>
 
-> Walking along the path that she chose, without being affected by others... in this sense, white is her color...in another sense, it also makes me want to put more colors on her.
+> Prodigies don't understand how the incompetent feel.
 
-**— Takumi Usui**  
-*Maid Sama!*
+**— Yun**  
+*Yona of the Dawn*
 
 <!--END_ANIME_QUOTE-->
 

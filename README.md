@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
+> Can I shoot them now?
 
-> How can androids have babies?
-
-**— Son Goku**  
-*Dragon Ball*
+**— Death the Kid**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

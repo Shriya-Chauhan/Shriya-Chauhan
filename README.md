@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png" width="180" /></p>
 
-> Can I shoot them now?
+> The impostor is an impostor because it can't be distinguished from the real thing. The proof of its falsity is in its resemblance to the real thing.
 
-**— Death the Kid**  
-*Soul Eater*
+**— Koyomi Araragi**  
+*Nisemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

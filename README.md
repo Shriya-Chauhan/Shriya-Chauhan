@@ -53,10 +53,10 @@
 
 
 
-> Kurosaki Ichigo, those are the words of someone who does not know true despair. So I will show you. This is what true despair looks like.
+> Don't mess with things that don't exist! It's dangerous!
 
-**— Ulquiorra Schiffer**  
-*Bleach*
+**— Teshigawara Naoya**  
+*Another*
 
 <!--END_ANIME_QUOTE-->
 

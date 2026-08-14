@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14523-yFjXVeK6c6IE.png" width="180" /></p>
 
-> Being indebted to someone is nothing to be ashamed of. Not repaying that debt is.
+> Walking along the path that she chose, without being affected by others... in this sense, white is her color...in another sense, it also makes me want to put more colors on her.
 
-**— Yuuji Kazami**  
-*The Fruit of Grisaia*
+**— Takumi Usui**  
+*Maid Sama!*
 
 <!--END_ANIME_QUOTE-->
 

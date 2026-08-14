@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
 
-> The government says your existence is a crime, but no matter what kind of weapons you may hold, just being alive isn’t a sin! There’s no crime in living!
+> Under normal circumstances, humans should have continued to evolve as the greatest creatures upon this earth, but we were actually regressing. A rotten world. Politics, law, education... Was there anybody around who could correct this world? But someone had to do it.
 
-**— Franky**  
-*One Piece*
+**— Light Yagami**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

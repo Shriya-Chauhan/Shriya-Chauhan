@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg" width="180" /></p>
 
-> You're not a good-for-nothing person. I think that being able to try your hardest to be something is a talent by itself.
 
-**— Alphonse Elric**  
-*Fullmetal Alchemist*
+> How can androids have babies?
+
+**— Son Goku**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

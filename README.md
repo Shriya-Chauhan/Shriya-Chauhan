@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
 
+> Being indebted to someone is nothing to be ashamed of. Not repaying that debt is.
 
-> Don't mess with things that don't exist! It's dangerous!
-
-**— Teshigawara Naoya**  
-*Another*
+**— Yuuji Kazami**  
+*The Fruit of Grisaia*
 
 <!--END_ANIME_QUOTE-->
 

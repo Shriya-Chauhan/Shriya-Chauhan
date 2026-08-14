@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
 
-> Under normal circumstances, humans should have continued to evolve as the greatest creatures upon this earth, but we were actually regressing. A rotten world. Politics, law, education... Was there anybody around who could correct this world? But someone had to do it.
 
-**— Light Yagami**  
-*Death Note*
+> The ones who do what they want and enjoy the most of their lives are the ones who win in the end.
+
+**— Charlie Staz**  
+*Blood Lad*
 
 <!--END_ANIME_QUOTE-->
 

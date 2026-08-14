@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg" width="180" /></p>
 
+> You're not a good-for-nothing person. I think that being able to try your hardest to be something is a talent by itself.
 
-> I am a supporting actor, a shadow. But a shadow will become darker if the light is stronger and it will make the white of the light stand out. As the shadow of the main actor, I will make you, the light, the number one in Japan.
-
-**— Tetsuya Kuroko**  
-*Kuroko's Basketball - duplicate*
+**— Alphonse Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

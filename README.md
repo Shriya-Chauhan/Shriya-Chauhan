@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22036-Ed3CjwPlDLp4.png" width="180" /></p>
 
-> The impostor is an impostor because it can't be distinguished from the real thing. The proof of its falsity is in its resemblance to the real thing.
 
-**— Koyomi Araragi**  
-*Nisemonogatari*
+> Kurosaki Ichigo, those are the words of someone who does not know true despair. So I will show you. This is what true despair looks like.
+
+**— Ulquiorra Schiffer**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

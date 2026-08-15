@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n120369-Ed8kmd2psFtR.jpg" width="180" /></p>
 
-> There's more to a real man than just his good looks!
 
-**— Uno**  
-*Nanbaka*
+> You’d better not (rip my mask). Like Pandora’s box, you want to open it because you don’t know what’s inside. But if you know what’s inside before you open it… It’s boring, isn’t it?
+
+**— Kaitou Kid**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

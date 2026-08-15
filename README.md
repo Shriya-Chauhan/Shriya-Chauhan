@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/88343.jpg" width="180" /></p>
 
+> Once you expect something in return, your good deed is no longer just a good deed.
 
-> Father, you're so tough and proud, hard and cold like a rock. But still, deep down, your heart beats like mine does... I know you feel... I'm your son and I will always love you.
-
-**— Trunks Brief**  
-*Dragon Ball*
+**— Kayo Senju**  
+*Black Bullet*
 
 <!--END_ANIME_QUOTE-->
 

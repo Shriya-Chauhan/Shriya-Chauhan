@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n120369-Ed8kmd2psFtR.jpg" width="180" /></p>
 
+> There's more to a real man than just his good looks!
 
-> There were many times I felt on the verge of giving up… And many times when I met with big trouble, and met with some really tough opponents… But during that time, he would always be there. And so would everyone else from the guild. Crying together, laughing together, so many of these things. Well, a lot of things really did take place… I’m sure that’s the way it should be… I’m sure that everybody carries a certain burden of their own. But even then, everyone tries their best to keep moving forward. That’s what makes Fairy Tail what it is. I really joined the best guild ever.
-
-**— Lucy Heartfilia**  
-*Fairy Tail*
+**— Uno**  
+*Nanbaka*
 
 <!--END_ANIME_QUOTE-->
 

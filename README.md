@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46173-QzCSLzDNFpVj.png" width="180" /></p>
 
-> [To Lan Fan] Brat, quit blabbering on about trifling topics such as love and sadness. Don't underestimate us. She's the woman I chose. A will is unnecessary between us. That's usually how it is between a King and his companion.
+> I'm saying that practically nobody feels that they're talented. That's what makes us strive to improve. As we strive to improve, we notice the people around us improving too, which makes us work even harder. I guess you could say friends are like rivals, in a way.
 
-**— King Bradley**  
-*Fullmetal Alchemist*
+**— Eli Ayase**  
+*Love Live! School Idol Project*
 
 <!--END_ANIME_QUOTE-->
 

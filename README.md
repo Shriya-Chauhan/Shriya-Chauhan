@@ -53,10 +53,10 @@
 
 
 
-> If you run into a wall and pretend it doesn't exist, you'll never make progress. The wall will never change, so you're the one who has to change.
+> People get corrupted. Not even saints and heroes are safe. There's nothing you can do to prevent it. That's our salvation.
 
-**— Hijikata Toushirou**  
-*Gintama*
+**— Yuuki Shinjuurou**  
+*Un-Go*
 
 <!--END_ANIME_QUOTE-->
 

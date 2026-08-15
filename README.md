@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b46173-QzCSLzDNFpVj.png" width="180" /></p>
 
-> I'm saying that practically nobody feels that they're talented. That's what makes us strive to improve. As we strive to improve, we notice the people around us improving too, which makes us work even harder. I guess you could say friends are like rivals, in a way.
 
-**— Eli Ayase**  
-*Love Live! School Idol Project*
+> She should want to see me. If I had said how I feel about her, she would miss me even more. All this time, I've been breaking her heart by keeping her wait, yet I can't still appear before her eyes. I never want to see her cry anymore. Even if it means I no longer exist in her heart. How immature of me, right?
+
+**— Shinichi Kudou**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

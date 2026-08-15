@@ -53,10 +53,10 @@
 
 
 
-> Pirates are evil? The Marines are righteous? These terms have always changed throughout the course of history! Kids who have never seen peace and kids who have never seen war have different values! Those who stand at the top determine what's wrong and what's right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!
+> There were many times I felt on the verge of giving up… And many times when I met with big trouble, and met with some really tough opponents… But during that time, he would always be there. And so would everyone else from the guild. Crying together, laughing together, so many of these things. Well, a lot of things really did take place… I’m sure that’s the way it should be… I’m sure that everybody carries a certain burden of their own. But even then, everyone tries their best to keep moving forward. That’s what makes Fairy Tail what it is. I really joined the best guild ever.
 
-**— Donquixote Doflamingo**  
-*One Piece*
+**— Lucy Heartfilia**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

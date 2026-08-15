@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8630-Yv2hK4ye8lqW.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> Some of us don't have time to die.
+> I lost my pawns, my knight, my rook, my bishop, and even my queen. But, it's not checkmate, just yet.
 
-**— Ganta Igarashi**  
-*Deadman Wonderland*
+**— Roy Mustang**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

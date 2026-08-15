@@ -53,10 +53,10 @@
 
 
 
-> You’d better not (rip my mask). Like Pandora’s box, you want to open it because you don’t know what’s inside. But if you know what’s inside before you open it… It’s boring, isn’t it?
+> Once you taste poison, you might as well finish the meal. If it comes to that you would make as fine a dish as any.
 
-**— Kaitou Kid**  
-*Case Closed*
+**— Horo**  
+*Spice and Wolf*
 
 <!--END_ANIME_QUOTE-->
 

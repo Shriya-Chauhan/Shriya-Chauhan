@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> I lost my pawns, my knight, my rook, my bishop, and even my queen. But, it's not checkmate, just yet.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+> Father, you're so tough and proud, hard and cold like a rock. But still, deep down, your heart beats like mine does... I know you feel... I'm your son and I will always love you.
+
+**— Trunks Brief**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

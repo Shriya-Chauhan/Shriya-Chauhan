@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
 
+> Learn to make your own decisions, instead of relying on others to make them for you. Otherwise, those decisions will never really be made.
 
-> The Kuchiki clan is one of the four noble houses. We must set the standard for all shinigami. If we do not abide by the code...then who will uphold it?
-
-**— Kuchiki Byakuya**  
-*Bleach*
+**— Yuuko Ichihara**  
+*xxxHOLiC*
 
 <!--END_ANIME_QUOTE-->
 

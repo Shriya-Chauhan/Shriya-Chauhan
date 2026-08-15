@@ -53,10 +53,10 @@
 
 
 
-> So, who should we hold responsible? Compensation. Punishment. If you didn't want any problems you shouldn't have taken risks.
+> [To Rukia as she is taken to Sokyoku Hill] Bye Bye, Rukia chan! See 'ya at the execution grounds.
 
-**— Watashi**  
-*Humanity Has Declined*
+**— Ichimaru Gin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

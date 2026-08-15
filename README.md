@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b242-8UFjfO1koc8F.png" width="180" /></p>
 
-> While you're alive, you need a reason for your existence. Being unable to find one is the same as being dead.
+> I don't trust anyone, so no one trusts me
 
-**— Naruto Uzumaki**  
-*Naruto*
+**— Tsume**  
+*Wolf's Rain*
 
 <!--END_ANIME_QUOTE-->
 

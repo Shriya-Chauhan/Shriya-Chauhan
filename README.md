@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b236-xWbhQJYxYn2P.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8630-Yv2hK4ye8lqW.png" width="180" /></p>
 
-> Learn to make your own decisions, instead of relying on others to make them for you. Otherwise, those decisions will never really be made.
+> Some of us don't have time to die.
 
-**— Yuuko Ichihara**  
-*xxxHOLiC*
+**— Ganta Igarashi**  
+*Deadman Wonderland*
 
 <!--END_ANIME_QUOTE-->
 

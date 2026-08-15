@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b187-lVR0ljQSeP1K.png" width="180" /></p>
 
-> There is a meaning for wings that cannot fly! It's a precious memory of when you once flew in the sky.
 
-**— Yukito Kunisaki**  
-*Air*
+> So, who should we hold responsible? Compensation. Punishment. If you didn't want any problems you shouldn't have taken risks.
+
+**— Watashi**  
+*Humanity Has Declined*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> She should want to see me. If I had said how I feel about her, she would miss me even more. All this time, I've been breaking her heart by keeping her wait, yet I can't still appear before her eyes. I never want to see her cry anymore. Even if it means I no longer exist in her heart. How immature of me, right?
+> I don't think I'll learn anything if I don't try to do something about it on my own.
 
-**— Shinichi Kudou**  
-*Case Closed*
+**— Hishiro Chizuru**  
+*ReLIFE*
 
 <!--END_ANIME_QUOTE-->
 

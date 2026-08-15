@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b242-8UFjfO1koc8F.png" width="180" /></p>
 
-> I don't trust anyone, so no one trusts me
 
-**— Tsume**  
-*Wolf's Rain*
+> All things shine at their most brilliant when they're being broken.
+
+**— Urisu**  
+*selector spread WIXOSS*
 
 <!--END_ANIME_QUOTE-->
 

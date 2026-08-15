@@ -53,10 +53,10 @@
 
 
 
-> People get corrupted. Not even saints and heroes are safe. There's nothing you can do to prevent it. That's our salvation.
+> The Kuchiki clan is one of the four noble houses. We must set the standard for all shinigami. If we do not abide by the code...then who will uphold it?
 
-**— Yuuki Shinjuurou**  
-*Un-Go*
+**— Kuchiki Byakuya**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

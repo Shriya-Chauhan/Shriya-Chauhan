@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/88343.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png" width="180" /></p>
 
-> Once you expect something in return, your good deed is no longer just a good deed.
+> [To Lan Fan] Brat, quit blabbering on about trifling topics such as love and sadness. Don't underestimate us. She's the woman I chose. A will is unnecessary between us. That's usually how it is between a King and his companion.
 
-**— Kayo Senju**  
-*Black Bullet*
+**— King Bradley**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

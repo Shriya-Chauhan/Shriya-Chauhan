@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> My motivation might seem trivial compared to yours, but I can’t lose, either. I have to live up to the hopes of those who supported me.
+> When there is evil in this world that justice cannot defeat, would you taint your hands with evil to defeat evil? Or would you remain steadfast and righteous even if it means surrendering to evil?
 
-**— Izuku Midoriya**  
-*My Hero Academia*
+**— Lelouch Lamperouge**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

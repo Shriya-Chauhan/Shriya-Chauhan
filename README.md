@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
 
-> We ran through our school that was filled with noises, screams, life and death.
+> My legend dates back to the 12th Century thank you very much.
 
-**— Takashi Komuro**  
-*Highschool Of The Dead*
+**— Excalibur**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

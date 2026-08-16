@@ -53,10 +53,10 @@
 
 
 
-> A hero must be tough, strong and beautiful... As well as able to promptly and splendidly eradicate evil.
+> How can androids have babies?
 
-**— Sweet Mask**  
-*One Punch Man*
+**— Son Goku**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

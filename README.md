@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png" width="180" /></p>
 
+> My motivation might seem trivial compared to yours, but I can’t lose, either. I have to live up to the hopes of those who supported me.
 
-> Once you taste poison, you might as well finish the meal. If it comes to that you would make as fine a dish as any.
-
-**— Horo**  
-*Spice and Wolf*
+**— Izuku Midoriya**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

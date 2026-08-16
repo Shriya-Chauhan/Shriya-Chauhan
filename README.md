@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b43814-M0nlr2AP7vY0.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png" width="180" /></p>
 
-> I know that I have no strengths to offer. It irritates me how weak I am. But let me protect them!
+> I am a complete opposite of Ryuk.
 
-**— Yona**  
-*Yona of the Dawn*
+**— Rem (Death Note)**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5167-DreoKnv7XdOS.jpg" width="180" /></p>
 
+> Don't let yourself be blinded by fear or anger.  Everything is only as it is.
 
-> You came without fear. Don't have any regrets, no matter what happens. This is the duel you wanted.
-
-**— Monkey D. Luffy**  
-*One Piece*
+**— Nui**  
+*Mushi-Shi*
 
 <!--END_ANIME_QUOTE-->
 

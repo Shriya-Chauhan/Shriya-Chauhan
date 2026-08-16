@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5167-DreoKnv7XdOS.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
 
-> Don't let yourself be blinded by fear or anger.  Everything is only as it is.
+> I don't like it, the dark circles under my eyes will come back and I don't know how to deal with the dark circles!
 
-**— Nui**  
-*Mushi-Shi*
+**— Crona**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

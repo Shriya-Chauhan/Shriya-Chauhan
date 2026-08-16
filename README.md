@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6977-rCtlFRoYgE07.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg" width="180" /></p>
 
-> There's no knowing how others are feeling unless you ask them. And your feelings can't get through to others unless you tell them directly.
+> We ran through our school that was filled with noises, screams, life and death.
 
-**— Sawako Kuronuma**  
-*Kimi ni Todoke: From Me to You*
+**— Takashi Komuro**  
+*Highschool Of The Dead*
 
 <!--END_ANIME_QUOTE-->
 

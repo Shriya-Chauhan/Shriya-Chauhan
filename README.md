@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b43814-M0nlr2AP7vY0.png" width="180" /></p>
 
-> My legend dates back to the 12th Century thank you very much.
+> I know that I have no strengths to offer. It irritates me how weak I am. But let me protect them!
 
-**— Excalibur**  
-*Soul Eater*
+**— Yona**  
+*Yona of the Dawn*
 
 <!--END_ANIME_QUOTE-->
 

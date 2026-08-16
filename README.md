@@ -53,10 +53,10 @@
 
 
 
-> Fight with all your might. With those young kids, give your mind and heart a solid workout. Let your heart, which had dried up and gotten stiff, beat once more.
+> If you want to know what others think, you first have to say what you think.
 
-**— Yoake Ryou**  
-*ReLIFE*
+**— Akise Aru**  
+*The Future Diary*
 
 <!--END_ANIME_QUOTE-->
 

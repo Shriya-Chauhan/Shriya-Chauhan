@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6977-rCtlFRoYgE07.png" width="180" /></p>
 
+> There's no knowing how others are feeling unless you ask them. And your feelings can't get through to others unless you tell them directly.
 
-> Emotions? Nope, I've got nothin' like that. I told you when we first met, didn't I? I'm a snake. With cold skin, no emotions, that slithers around searching for prey with its tongue, swallowing down whatever looks tasty.
-
-**— Ichimaru Gin**  
-*Bleach*
+**— Sawako Kuronuma**  
+*Kimi ni Todoke: From Me to You*
 
 <!--END_ANIME_QUOTE-->
 

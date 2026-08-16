@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
 
-> I don't like it, the dark circles under my eyes will come back and I don't know how to deal with the dark circles!
 
-**— Crona**  
-*Soul Eater*
+> There is nothing shameful about running away. Some things are just out of people's hands. If you think you're gonna die, just run.
+
+**— Broken Blade**  
+*Broken Blade*
 
 <!--END_ANIME_QUOTE-->
 

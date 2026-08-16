@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png" width="180" /></p>
 
-> Rejection is a part of any man’s life. If you can’t accept and move past rejection, or at least use it as writing material - you’re not a real man.
 
-**— Jiraiya**  
-*Naruto*
+> Emotions? Nope, I've got nothin' like that. I told you when we first met, didn't I? I'm a snake. With cold skin, no emotions, that slithers around searching for prey with its tongue, swallowing down whatever looks tasty.
+
+**— Ichimaru Gin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

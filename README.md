@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1280.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png" width="180" /></p>
 
-> May those who accept their fate be granted Happiness, may those who defy their fate be granted Glory.
+> Look, even if we were enemies in the world you were before, right now I’m your only ally. Even if the whole world turned against you, I would continue to be your only ally.
 
-**— Edel**  
-*Princess Tutu*
+**— Moeka Kiryuu**  
+*Steins Gate*
 
 <!--END_ANIME_QUOTE-->
 

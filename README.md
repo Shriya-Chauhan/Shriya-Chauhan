@@ -53,10 +53,10 @@
 
 
 
-> If you want to know what others think, you first have to say what you think.
+> A hero must be tough, strong and beautiful... As well as able to promptly and splendidly eradicate evil.
 
-**— Akise Aru**  
-*The Future Diary*
+**— Sweet Mask**  
+*One Punch Man*
 
 <!--END_ANIME_QUOTE-->
 

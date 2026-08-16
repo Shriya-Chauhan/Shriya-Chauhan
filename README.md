@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6212-qrYJ0Ef78aoJ.png" width="180" /></p>
 
-> There's a limit to the strength of people who are isolated. If we do the best we can we should be fine. We don't grab a hold of the entire future. Let's just think about grabbing tomorrow. I think that's plenty for us, don't you?
 
-**— Kouji Aiba**  
-*Infinite Ryvius*
+> Fight with all your might. With those young kids, give your mind and heart a solid workout. Let your heart, which had dried up and gotten stiff, beat once more.
+
+**— Yoake Ryou**  
+*ReLIFE*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1280.jpg" width="180" /></p>
 
+> May those who accept their fate be granted Happiness, may those who defy their fate be granted Glory.
 
-> How can androids have babies?
-
-**— Son Goku**  
-*Dragon Ball*
+**— Edel**  
+*Princess Tutu*
 
 <!--END_ANIME_QUOTE-->
 

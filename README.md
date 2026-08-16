@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png" width="180" /></p>
 
-> I am a complete opposite of Ryuk.
 
-**— Rem (Death Note)**  
-*Death Note*
+> Loyalty to someone is different from depending on them.
+
+**— Zaraki Kenpachi**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

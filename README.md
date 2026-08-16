@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png" width="180" /></p>
 
-> Look, even if we were enemies in the world you were before, right now I’m your only ally. Even if the whole world turned against you, I would continue to be your only ally.
 
-**— Moeka Kiryuu**  
-*Steins Gate*
+> People die when they are killed.
+
+**— Emiya Shirou**  
+*Fate/stay night*
 
 <!--END_ANIME_QUOTE-->
 

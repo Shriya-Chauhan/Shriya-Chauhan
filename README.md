@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png" width="180" /></p>
 
+> Rejection is a part of any man’s life. If you can’t accept and move past rejection, or at least use it as writing material - you’re not a real man.
 
-> There is nothing shameful about running away. Some things are just out of people's hands. If you think you're gonna die, just run.
-
-**— Broken Blade**  
-*Broken Blade*
+**— Jiraiya**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

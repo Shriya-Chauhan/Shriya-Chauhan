@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30494.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png" width="180" /></p>
 
-> I wanted to hurt you, make you suffer, and make sure that you'd never forget me.
+> The last time I let you do my eyebrows it took you a month.
 
-**— Miu Asakura**  
-*Bungaku Shoujo*
+**— Elizabeth Thompson**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/121156-mdgNfil9ds8N.png" width="180" /></p>
 
-> Smiles are what connect people! It allows them to communicate through their souls! Connected souls will never lose to the strength that only relies on control! Dueling is the same! Only strength alone doesn't speak to anyone's soul!
 
-**— Yuzu Hiiragi**  
-*Yu-Gi-Oh! Arc-V*
+> I think I would like someone else to kill me. I want someone else to interfere with my life. Is that not what wanting to be loved means, Saikawa-sensei? No life is born of it's own volition. Isn't the instinctive desire of beings, born not of their own volition, for their lives to be taken in the same way?
+
+**— Magata Shiki**  
+*The Perfect Insider*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/121156-mdgNfil9ds8N.png" width="180" /></p>
 
+> Smiles are what connect people! It allows them to communicate through their souls! Connected souls will never lose to the strength that only relies on control! Dueling is the same! Only strength alone doesn't speak to anyone's soul!
 
-> Eat righteous Ponyta dust!
-
-**— Ash Ketchum**  
-*Pokémon*
+**— Yuzu Hiiragi**  
+*Yu-Gi-Oh! Arc-V*
 
 <!--END_ANIME_QUOTE-->
 

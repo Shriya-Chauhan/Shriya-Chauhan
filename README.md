@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b356-Ww7F14AJZzID.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14959-2laidx8k0blk.jpg" width="180" /></p>
 
-> I put my hopes in it that maybe I could turn your heart just a little. Why do I end up dreaming over and over again without getting tired of it as if that's all I know.
+> Poetry over philosophy. Embroidery rather than cooking. Dance instead of chess. Be an unknowing angel. Every girl born in the country of roses is raised by these three words.
 
-**— Ayumi Yamada**  
-*Honey and Clover*
+**— Elizabeth Midford**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

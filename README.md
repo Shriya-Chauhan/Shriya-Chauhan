@@ -53,10 +53,10 @@
 
 
 
-> Steal one, get one free!
+> The countless dragons that rained down were less significant threats than the humans in the sky.
 
-**— Kojirou**  
-*Pokémon*
+**— The Narrator**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

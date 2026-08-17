@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/870-cOM7ZETTLZxi.png" width="180" /></p>
 
-> My legend dates back to the 12th Century thank you very much.
+> There is only a fine line separating art from madness.
 
-**— Excalibur**  
-*Soul Eater*
+**— Nathan Mahler**  
+*Blood+*
 
 <!--END_ANIME_QUOTE-->
 

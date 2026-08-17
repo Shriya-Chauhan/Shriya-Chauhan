@@ -53,10 +53,10 @@
 
 
 
-> The countless dragons that rained down were less significant threats than the humans in the sky.
+> Well, there's this one hopeless idiot... who'll probably end up crying if I see you again.
 
-**— The Narrator**  
-*Hunter x Hunter*
+**— Atsushi Otani**  
+*Lovely Complex*
 
 <!--END_ANIME_QUOTE-->
 

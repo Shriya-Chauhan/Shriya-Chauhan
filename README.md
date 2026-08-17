@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png" width="180" /></p>
 
-> The last time I let you do my eyebrows it took you a month.
 
-**— Elizabeth Thompson**  
-*Soul Eater*
+> Seekfreedom, and it will stretched out before your eyes. If the endlessdreamguides your restless spirit, seize it! Raise your flag, and stand tall!
+
+**— Gol D. Roger**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

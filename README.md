@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41139-IZKR3qngS1Lf.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b731-cv0jfjVrD09V.jpg" width="180" /></p>
 
-> Life is like a playground swing, the higher and farther forward you go as you swing, it carries the risk of falling just as far back.
+> I think Monster Beast Doughnut is a perfect name.
 
-**— Jiro**  
-*Toriko*
+**— Kurama**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

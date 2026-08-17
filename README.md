@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/870-cOM7ZETTLZxi.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png" width="180" /></p>
 
-> There is only a fine line separating art from madness.
+> Stop coming after the jewel. I do not wish to waste more arrows.
 
-**— Nathan Mahler**  
-*Blood+*
+**— Kikyo**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

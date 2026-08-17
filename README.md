@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14552-l5hN8i6wFfTl.png" width="180" /></p>
 
-> I don't mind the regret, if I fail in attempt to achieve my dreams. What I don't wanna regret is not chasing those dreams.
 
-**— Akito Takagi**  
-*Bakuman.*
+> Eat righteous Ponyta dust!
+
+**— Ash Ketchum**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

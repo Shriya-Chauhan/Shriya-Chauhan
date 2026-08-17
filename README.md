@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png" width="180" /></p>
 
-> Stop coming after the jewel. I do not wish to waste more arrows.
 
-**— Kikyo**  
-*InuYasha*
+> A wound of a heart is different from a flesh wound. Unlike a flesh wound, there are no ointments to heal it, and there are times when they never heal.
+
+**— Yashamaru**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

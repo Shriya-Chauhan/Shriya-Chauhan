@@ -53,10 +53,10 @@
 
 
 
-> Seekfreedom, and it will stretched out before your eyes. If the endlessdreamguides your restless spirit, seize it! Raise your flag, and stand tall!
+> For the right price, you can buy not only treasures, but dreams, hearts and even people's lives!
 
-**— Gol D. Roger**  
-*One Piece*
+**— Leorio Paladiknight**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

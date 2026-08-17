@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b731-cv0jfjVrD09V.jpg" width="180" /></p>
 
-> I think Monster Beast Doughnut is a perfect name.
 
-**— Kurama**  
-*Yu Yu Hakusho*
+> Steal one, get one free!
+
+**— Kojirou**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

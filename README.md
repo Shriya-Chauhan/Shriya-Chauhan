@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30494.jpg" width="180" /></p>
 
+> I wanted to hurt you, make you suffer, and make sure that you'd never forget me.
 
-> There certainly are things that cannot be told in words, but that can only be said by people who have exhausted their use of words. Words are like icebergs that are floating on the ocean called "heart". The parts that show above the sea surface are small, but they still let us perceive the larger parts that are hidden below the water. Use words deliberately. If you do, you'll be able to convey more things more accurately than if you were to keep silent. Right judgement can only be made with right information and right analyses.
-
-**— Yang Wenli**  
-*Legend of the Galactic Heroes*
+**— Miu Asakura**  
+*Bungaku Shoujo*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b356-Ww7F14AJZzID.png" width="180" /></p>
 
+> I put my hopes in it that maybe I could turn your heart just a little. Why do I end up dreaming over and over again without getting tired of it as if that's all I know.
 
-> Well, there's this one hopeless idiot... who'll probably end up crying if I see you again.
-
-**— Atsushi Otani**  
-*Lovely Complex*
+**— Ayumi Yamada**  
+*Honey and Clover*
 
 <!--END_ANIME_QUOTE-->
 

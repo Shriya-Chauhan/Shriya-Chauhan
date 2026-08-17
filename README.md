@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41139-IZKR3qngS1Lf.png" width="180" /></p>
 
-> If they're not given a problem, if they're unable to find a reason, some people can't bring themselves to act. Maybe I got something wrong somewhere. Only that bit of doubt stayed with me.
+> Life is like a playground swing, the higher and farther forward you go as you swing, it carries the risk of falling just as far back.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU TOO!*
+**— Jiro**  
+*Toriko*
 
 <!--END_ANIME_QUOTE-->
 

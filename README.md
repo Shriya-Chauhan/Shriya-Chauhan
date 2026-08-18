@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
-> Feelings can be controlled, but tears never lie.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+> They thirsted for knowledge! They sought to fulfill their desires! And ultimately, they forgot why they were doing it. Even as they proclaimed their reverence for human life, they began toying with it, and then they began destroying it!
+
+**— Rau Le Creuset**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

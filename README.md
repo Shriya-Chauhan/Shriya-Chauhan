@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b158220-HEGJeedD9tBX.jpg" width="180" /></p>
 
-> The piano is meant to be played like you're embracing it, right?
+> I'm sure it's not wrong for people to want to understand each other. And even if it is, I want us to understand each other.
 
-**— Kousei Arima**  
-*Your Lie in April*
+**— Chiyuki**  
+*Death Parade*
 
 <!--END_ANIME_QUOTE-->
 

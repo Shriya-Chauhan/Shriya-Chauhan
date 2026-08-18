@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/75750.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2734-aglO8RKNVxnn.jpg" width="180" /></p>
 
-> There are times like that music can convey more than words.
+> There is nothing left to believe in.
 
-**— Kunio Yaobi**  
-*Tamako Market*
+**— Vicious**  
+*Cowboy Bebop*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
 
-> I... don't know why I'm alive. I have no reason to live. I have no interest in others. Living without concern for others... That's the way to live. Working a job that earns me just enough to eat... A life like that was enough...
 
-**— Yuzuru Otonashi**  
-*Angel Beats!*
+> Fear isn't evil, it only allows us to learn our own weaknesses. When we learn our weakness, people can grow stronger and kinder.
+
+**— Gildarts Clive**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

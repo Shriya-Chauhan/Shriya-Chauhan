@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b158220-HEGJeedD9tBX.jpg" width="180" /></p>
 
-> I'm sure it's not wrong for people to want to understand each other. And even if it is, I want us to understand each other.
 
-**— Chiyuki**  
-*Death Parade*
+> I HATE LEEKS!!!
+
+**— Sohma Kyo**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

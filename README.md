@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12960-TU6by6WTq5By.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1965.jpg" width="180" /></p>
 
-> Look what happens when you're not fast enough! You get CUT! It's more fun when it hurts a little bit though, isn't it?
+> I’m saying that love is not something that you’re only supposed to give to a single person and not another. Love is something you’re supposed to give equally to everyone.
 
-**— Grell Sutcliff**  
-*Black Butler*
+**— Yuuri Shibuya**  
+*Kyo kara Maoh!*
 
 <!--END_ANIME_QUOTE-->
 

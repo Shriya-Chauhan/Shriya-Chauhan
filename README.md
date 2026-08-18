@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
 
-> I was feeling down, but you distracted me by subjecting me to your selfish whims. There are times when selfishness can save a person.
 
-**— Yuuji Kazami**  
-*The Fruit of Grisaia*
+> I never like to work based on trust. It takes hard work to build up trust, but only an instant to lose it. There's no less profitable investment.
+
+**— Ushiromiya Kyrie**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

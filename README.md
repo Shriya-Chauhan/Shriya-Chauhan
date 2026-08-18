@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b15164-BPfYcnNR3PwN.png" width="180" /></p>
 
+> I have no parents, and I'm not a product of love. Therefore, I can't understand what a 'good wife' is. Even so... the love he gave me is my entire world. No one can humiliate that.
 
-> Listen to your seniors once in a while or I will kill you.
-
-**— Hyuuga Junpei**  
-*Kuroko's Basketball - duplicate*
+**— Irisviel von Einzbern**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

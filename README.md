@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg" width="180" /></p>
 
-> Nezuko is a human ever since the time she was born.
+> I was feeling down, but you distracted me by subjecting me to your selfish whims. There are times when selfishness can save a person.
 
-**— Nezuko Kamado**  
-*Demon Slayer: Kimetsu no Yaiba*
+**— Yuuji Kazami**  
+*The Fruit of Grisaia*
 
 <!--END_ANIME_QUOTE-->
 

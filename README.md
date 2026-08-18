@@ -53,10 +53,10 @@
 
 
 
-> I never like to work based on trust. It takes hard work to build up trust, but only an instant to lose it. There's no less profitable investment.
+> Listen to your seniors once in a while or I will kill you.
 
-**— Ushiromiya Kyrie**  
-*Umineko: When They Cry*
+**— Hyuuga Junpei**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

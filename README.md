@@ -53,10 +53,10 @@
 
 
 
-> Fear isn't evil, it only allows us to learn our own weaknesses. When we learn our weakness, people can grow stronger and kinder.
+> We can't waste time worrying about the what-if's. Rukia's execution date has been changed to noon tomorrow. So what? If the deadline has been changed to tomorrow... I'll just have to finish today!
 
-**— Gildarts Clive**  
-*Fairy Tail*
+**— Kurosaki Ichigo**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

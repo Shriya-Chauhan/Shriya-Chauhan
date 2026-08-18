@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12960-TU6by6WTq5By.png" width="180" /></p>
 
-> Any kind of life can go wrong, or sicken or suffer. Lives get old, decay, and finally die. Disliking that fact because it hurts, isn't any different than disliking life itself.
+> Look what happens when you're not fast enough! You get CUT! It's more fun when it hurts a little bit though, isn't it?
 
-**— Nyanta**  
-*Log Horizon*
+**— Grell Sutcliff**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

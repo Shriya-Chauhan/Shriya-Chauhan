@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png" width="180" /></p>
 
+> In this world, you either burn or get burned. Go ahead and pray to the God of salvation you favor so much.
 
-> We can't waste time worrying about the what-if's. Rukia's execution date has been changed to noon tomorrow. So what? If the deadline has been changed to tomorrow... I'll just have to finish today!
-
-**— Kurosaki Ichigo**  
-*Bleach*
+**— Hibana**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b15164-BPfYcnNR3PwN.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg" width="180" /></p>
 
-> I have no parents, and I'm not a product of love. Therefore, I can't understand what a 'good wife' is. Even so... the love he gave me is my entire world. No one can humiliate that.
+> Any kind of life can go wrong, or sicken or suffer. Lives get old, decay, and finally die. Disliking that fact because it hurts, isn't any different than disliking life itself.
 
-**— Irisviel von Einzbern**  
-*Fate/Zero*
+**— Nyanta**  
+*Log Horizon*
 
 <!--END_ANIME_QUOTE-->
 

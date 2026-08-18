@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png" width="180" /></p>
 
+> Nezuko is a human ever since the time she was born.
 
-> I HATE LEEKS!!!
-
-**— Sohma Kyo**  
-*Fruits Basket*
+**— Nezuko Kamado**  
+*Demon Slayer: Kimetsu no Yaiba*
 
 <!--END_ANIME_QUOTE-->
 

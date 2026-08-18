@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6047-mkDdsaQHjFng.png" width="180" /></p>
 
-> Now you're suddenly in a big rush to go? What's the point in hurrying, we're already three hours late.
+> Humans don’t see what they don’t want to see. No one wants to be put down. That’s why people do nothing even when they do know something is happening.
 
-**— Elizabeth Thompson**  
-*Soul Eater*
+**— Kouta Hirano**  
+*Highschool Of The Dead*
 
 <!--END_ANIME_QUOTE-->
 

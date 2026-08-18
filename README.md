@@ -53,10 +53,10 @@
 
 
 
-> They thirsted for knowledge! They sought to fulfill their desires! And ultimately, they forgot why they were doing it. Even as they proclaimed their reverence for human life, they began toying with it, and then they began destroying it!
+> Well, life is like the weather. It can be sunny or cloudy. Sometimes it rains, and sometimes it storms.
 
-**— Rau Le Creuset**  
-*Mobile Suit Gundam SEED*
+**— Deneil Young**  
+*Space Brothers*
 
 <!--END_ANIME_QUOTE-->
 

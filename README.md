@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14959-2laidx8k0blk.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png" width="180" /></p>
 
-> Poetry over philosophy. Embroidery rather than cooking. Dance instead of chess. Be an unknowing angel. Every girl born in the country of roses is raised by these three words.
+> Now you're suddenly in a big rush to go? What's the point in hurrying, we're already three hours late.
 
-**— Elizabeth Midford**  
-*Black Butler*
+**— Elizabeth Thompson**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

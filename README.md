@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2734-aglO8RKNVxnn.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
 
-> There is nothing left to believe in.
+> The piano is meant to be played like you're embracing it, right?
 
-**— Vicious**  
-*Cowboy Bebop*
+**— Kousei Arima**  
+*Your Lie in April*
 
 <!--END_ANIME_QUOTE-->
 

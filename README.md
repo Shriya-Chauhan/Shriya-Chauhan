@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/75750.jpg" width="180" /></p>
 
+> There are times like that music can convey more than words.
 
-> Well, life is like the weather. It can be sunny or cloudy. Sometimes it rains, and sometimes it storms.
-
-**— Deneil Young**  
-*Space Brothers*
+**— Kunio Yaobi**  
+*Tamako Market*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4235-l9MD9NawK39E.png" width="180" /></p>
 
-> You got two legs and a heart beat. What's stopping you?
+> The only thing you can change about the past is how you feel about it in the present.
 
-**— Inuyasha**  
-*InuYasha*
+**— Lockon Stratos**  
+*Mobile Suit Gundam 00*
 
 <!--END_ANIME_QUOTE-->
 

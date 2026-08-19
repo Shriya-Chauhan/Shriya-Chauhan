@@ -53,9 +53,9 @@
 
 
 
-> Over the nine mountains, across the eight seas, there is nothing I cannot cut.
+> All for one, one for all! There are times when a man has no choice but to act!
 
-**— Roronoa Zoro**  
+**— Brook**  
 *One Piece*
 
 <!--END_ANIME_QUOTE-->

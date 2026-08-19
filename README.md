@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14841-FzkLkEq41cJ3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
 
-> Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do.
+> All people have sanctuary which mustn't be touched. A scar of sadness which mustn't be entered. The living confront each other to achieve their ideals. In a quiet voice, the man in the white coat told me... that he had finally found me, that he wanted my life. That man smiled a smile deeper than darkness. Legato Bluesummers, a man fascinated by Death...
 
-**— Hakuren Oak**  
-*07-Ghost*
+**— Vash the Stampede**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

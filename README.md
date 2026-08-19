@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
 
-> All people have sanctuary which mustn't be touched. A scar of sadness which mustn't be entered. The living confront each other to achieve their ideals. In a quiet voice, the man in the white coat told me... that he had finally found me, that he wanted my life. That man smiled a smile deeper than darkness. Legato Bluesummers, a man fascinated by Death...
 
-**— Vash the Stampede**  
-*Trigun*
+> Over the nine mountains, across the eight seas, there is nothing I cannot cut.
+
+**— Roronoa Zoro**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

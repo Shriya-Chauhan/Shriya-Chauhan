@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4235-l9MD9NawK39E.png" width="180" /></p>
 
-> The only thing you can change about the past is how you feel about it in the present.
 
-**— Lockon Stratos**  
-*Mobile Suit Gundam 00*
+> A past will chase you if you try to escape from it, but once you confront it, it's just an old memory inside you.
+
+**— Saiyuki**  
+*Saiyuki*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg" width="180" /></p>
 
-> Your darkness...I will...seal it...
+> If you want to get to know someone, find out what makes them angry.
 
-**— Gray Fullbuster**  
-*Fairy Tail*
+**— Gon Freecss**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

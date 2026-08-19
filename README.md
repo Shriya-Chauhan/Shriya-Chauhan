@@ -53,10 +53,10 @@
 
 
 
-> All for one, one for all! There are times when a man has no choice but to act!
+> Live well, Ichigo. Live well, age well, go bald well, and die after me. And... if you can, die smiling.
 
-**— Brook**  
-*One Piece*
+**— Kurosaki Isshin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> A past will chase you if you try to escape from it, but once you confront it, it's just an old memory inside you.
+> All creatures want to believe in something bigger than themselves. They cannot live without blind obedience. And to escape the pressure of that trust, those in whom faith is placed in turn look for someone higher than themselves. And then those people in turn look for someone even stronger. That is how all Kings are born. That is how all Gods are born.
 
-**— Saiyuki**  
-*Saiyuki*
+**— Aizen Sousuke**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

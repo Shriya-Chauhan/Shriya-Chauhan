@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
 
-> I don't want to get so caught up in searching for what I can't see, that I lose sight of what I can.
+> Your darkness...I will...seal it...
 
-**— Minori Kushieda**  
-*Toradora!*
+**— Gray Fullbuster**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1965.jpg" width="180" /></p>
 
-> I’m saying that love is not something that you’re only supposed to give to a single person and not another. Love is something you’re supposed to give equally to everyone.
 
-**— Yuuri Shibuya**  
-*Kyo kara Maoh!*
+> That's right! Whatever the tragedy or the blunder is, only the things that actually happened are written in stone!
+
+**— Donquixote Doflamingo**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

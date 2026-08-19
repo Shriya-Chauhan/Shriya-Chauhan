@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> Mom, you're embarrassing me! In front of all these people? Don't you know I'm a big kid now?
+
+**— Ash Ketchum**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

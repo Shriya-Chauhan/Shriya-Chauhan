@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg" width="180" /></p>
 
-> If you want to get to know someone, find out what makes them angry.
 
-**— Gon Freecss**  
-*Hunter x Hunter*
+> If I'm going to disappear no matter what, I at least want to leave them having fun and smiling.
+
+**— Yoake Ryou**  
+*ReLIFE*
 
 <!--END_ANIME_QUOTE-->
 

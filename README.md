@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b86343-ON7NT40WRNRh.png" width="180" /></p>
 
+> We simply cannot see the world as it is. The world people see is nothing more than how our brains translate it. In other words, it's subjective.
 
-> Mom, you're embarrassing me! In front of all these people? Don't you know I'm a big kid now?
-
-**— Ash Ketchum**  
-*Pokémon*
+**— Alis Color**  
+*Sunday Without God*
 
 <!--END_ANIME_QUOTE-->
 

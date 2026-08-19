@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14841-FzkLkEq41cJ3.png" width="180" /></p>
 
-> All I need is the power to be able to protect my comrades. So long as I can have the strength to do that, I don't care if I'm weaker than everyone else in the world.
+> Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+**— Hakuren Oak**  
+*07-Ghost*
 
 <!--END_ANIME_QUOTE-->
 

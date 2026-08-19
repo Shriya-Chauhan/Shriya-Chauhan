@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
+> Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn.
 
-> All creatures want to believe in something bigger than themselves. They cannot live without blind obedience. And to escape the pressure of that trust, those in whom faith is placed in turn look for someone higher than themselves. And then those people in turn look for someone even stronger. That is how all Kings are born. That is how all Gods are born.
-
-**— Aizen Sousuke**  
-*Bleach*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

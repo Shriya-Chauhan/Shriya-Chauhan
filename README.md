@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg" width="180" /></p>
 
-> If you truly desire greatness, you must first know what makes you weak!
+> I don't want to get so caught up in searching for what I can't see, that I lose sight of what I can.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+**— Minori Kushieda**  
+*Toradora!*
 
 <!--END_ANIME_QUOTE-->
 

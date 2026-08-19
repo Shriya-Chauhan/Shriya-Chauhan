@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png" width="180" /></p>
 
+> You got two legs and a heart beat. What's stopping you?
 
-> If I'm going to disappear no matter what, I at least want to leave them having fun and smiling.
-
-**— Yoake Ryou**  
-*ReLIFE*
+**— Inuyasha**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

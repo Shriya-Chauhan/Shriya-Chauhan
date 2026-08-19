@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b86343-ON7NT40WRNRh.png" width="180" /></p>
 
-> We simply cannot see the world as it is. The world people see is nothing more than how our brains translate it. In other words, it's subjective.
 
-**— Alis Color**  
-*Sunday Without God*
+> Little man! Don't talk small , and say your goal is to become like me. You should become a master of your own game.
+
+**— Masahiro**  
+*Whistle!*
 
 <!--END_ANIME_QUOTE-->
 

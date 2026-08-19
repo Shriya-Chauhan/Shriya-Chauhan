@@ -53,10 +53,10 @@
 
 
 
-> Live well, Ichigo. Live well, age well, go bald well, and die after me. And... if you can, die smiling.
+> To be sure, love can kill, but always remember, hate can never save. Never!
 
-**— Kurosaki Isshin**  
-*Bleach*
+**— Odette Bouquet**  
+*Noir*
 
 <!--END_ANIME_QUOTE-->
 

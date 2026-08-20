@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b147-miunGYp6fkzb.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17888-QdKtNNZ1B5HU.png" width="180" /></p>
 
-> You'll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It's the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper.
+> *to Duke Nightray* You've let your own son die for the honor of your household and other such rubbish. You've lost almost all of your family, and yet all you can think of is your own interests.
 
-**— Kenshin Himura**  
-*Rurouni Kenshin*
+**— Vincent Nightray**  
+*Pandora Hearts*
 
 <!--END_ANIME_QUOTE-->
 

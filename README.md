@@ -53,10 +53,10 @@
 
 
 
-> But don't forget... as long as you're in my division, I'm on your side until death and beyond.
+> Haven't you already lifted your foot, preparing to step forward? Then you only have one option! Finish taking that step!
 
-**— Shiba Kaien**  
-*Bleach*
+**— Sumire Kanō**  
+*Toradora!*
 
 <!--END_ANIME_QUOTE-->
 

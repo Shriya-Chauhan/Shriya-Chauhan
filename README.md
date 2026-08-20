@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17888-QdKtNNZ1B5HU.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> *to Duke Nightray* You've let your own son die for the honor of your household and other such rubbish. You've lost almost all of your family, and yet all you can think of is your own interests.
+> There is no such thing as luck in this world. Rules, prerequisites, psychological states... There are any number of invisible factors that combine to produce an unpredictable, but inevitable result. The winner of each game is decided before it even begins. Chance is never a factor.
 
-**— Vincent Nightray**  
-*Pandora Hearts*
+**— Sora**  
+*No Game, No Life*
 
 <!--END_ANIME_QUOTE-->
 

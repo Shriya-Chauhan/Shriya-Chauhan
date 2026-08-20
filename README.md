@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n2455-V9tLMS3TIgJW.png" width="180" /></p>
 
-> We ran through our school that was filled with noises, screams, life and death.
+> There probably isn't any meaning in life. Perhaps you can find something interesting to do while you are alive. Like how you found that flower. Like how I found you.
 
-**— Takashi Komuro**  
-*Highschool Of The Dead*
+**— Orochimaru**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

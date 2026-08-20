@@ -53,10 +53,10 @@
 
 
 
-> All of the connections we encounter in this world serve as teachers who nurture us.
+> [To Orihime, when she refuses to eat] Shall I force it down your throat? Or would you rather be strapped down and given IV's?
 
-**— Korosensei**  
-*Assassination Classroom 2nd Season*
+**— Ulquiorra Schiffer**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

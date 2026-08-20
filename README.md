@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n2455-V9tLMS3TIgJW.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/169.jpg" width="180" /></p>
 
-> There probably isn't any meaning in life. Perhaps you can find something interesting to do while you are alive. Like how you found that flower. Like how I found you.
+> I will stay by your side, my friend. Know that I am here, and that I am sorry. I am sorry that... I failed you. After waiting 600 years I made a beginner's mistake. I underestimated my enemy.
 
-**— Orochimaru**  
-*Naruto*
+**— Amidamaru**  
+*Shaman King*
 
 <!--END_ANIME_QUOTE-->
 

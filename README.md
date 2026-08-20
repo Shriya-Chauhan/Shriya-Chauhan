@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n9174-CPRMKOTp5SJv.png" width="180" /></p>
 
+> The trees cry out as they die, but you cannot hear them. I lie here. I listen to the pain of the forest and feel the ache of the bullet in my chest and dream of the day when I will finally crunch that gun woman's head in my jaws... She is my daughter. One of the wolf tribe. When the forest dies, so does she. I caught her human parents defiling my forest. They threw their baby at my feet as they ran away. Instead of eating her, I raised her as my own. Now my poor, ugly, beautiful daughter is neither human nor wolf.
 
-> Little man! Don't talk small , and say your goal is to become like me. You should become a master of your own game.
-
-**— Masahiro**  
-*Whistle!*
+**— Moro**  
+*Princess Mononoke*
 
 <!--END_ANIME_QUOTE-->
 

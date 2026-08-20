@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> There is no such thing as luck in this world. Rules, prerequisites, psychological states... There are any number of invisible factors that combine to produce an unpredictable, but inevitable result. The winner of each game is decided before it even begins. Chance is never a factor.
 
-**— Sora**  
-*No Game, No Life*
+> All of the connections we encounter in this world serve as teachers who nurture us.
+
+**— Korosensei**  
+*Assassination Classroom 2nd Season*
 
 <!--END_ANIME_QUOTE-->
 

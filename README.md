@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67323-yFbLDAfJ5ysG.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/4232.jpg" width="180" /></p>
 
-> We'll never win if we don't believe we can.
+> A guy with only a cat for a friend won't look attractive by playing cool.
 
-**— Daichi Sawamura**  
-*Haikyu!!*
+**— Saya Minatsuki**  
+*Black Cat*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
-> I don't care if it's a girl, a baby or someone's grandma. I'm gonna fight her anyway.
 
-**— Yuusuke Urameshi**  
-*Yu Yu Hakusho*
+> But that's enough. If there is overwhelming power and speed, there is no room for technique. Techniques are something humans invented to compensate for their weaknesses.
+
+**— Emiya Shirou**  
+*Fate/stay night*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b56157-UmLhSFREXcme.png" width="180" /></p>
 
-> No amount of passion can overcome a lack of technical expertise.
 
-**— Fuyumi Irisu**  
-*Hyouka*
+> Never show your weapons in front of the next of kin. if you can't do that, then I don't want you in my unit.
+
+**— Akitaru Obi**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

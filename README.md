@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/169.jpg" width="180" /></p>
 
-> I will stay by your side, my friend. Know that I am here, and that I am sorry. I am sorry that... I failed you. After waiting 600 years I made a beginner's mistake. I underestimated my enemy.
 
-**— Amidamaru**  
-*Shaman King*
+> Stupid ocean!!! Ya want me to kill you? Huh??
+
+**— Sohma Kyo**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

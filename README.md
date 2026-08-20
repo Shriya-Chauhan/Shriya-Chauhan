@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg" width="180" /></p>
 
-> People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder.
+> We ran through our school that was filled with noises, screams, life and death.
 
-**— Ai Haibara**  
-*Case Closed*
+**— Takashi Komuro**  
+*Highschool Of The Dead*
 
 <!--END_ANIME_QUOTE-->
 

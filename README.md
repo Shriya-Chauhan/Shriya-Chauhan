@@ -53,10 +53,10 @@
 
 
 
-> Never show your weapons in front of the next of kin. if you can't do that, then I don't want you in my unit.
+> Don't touch the poster at the Game Corner! There's no secret switch behind it!
 
-**— Akitaru Obi**  
-*Fire Force*
+**— Rocket Grunt**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

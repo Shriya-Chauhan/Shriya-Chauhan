@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67323-yFbLDAfJ5ysG.png" width="180" /></p>
 
+> We'll never win if we don't believe we can.
 
-> Don't touch the poster at the Game Corner! There's no secret switch behind it!
-
-**— Rocket Grunt**  
-*Pokémon*
+**— Daichi Sawamura**  
+*Haikyu!!*
 
 <!--END_ANIME_QUOTE-->
 

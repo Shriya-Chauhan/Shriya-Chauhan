@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b147-miunGYp6fkzb.png" width="180" /></p>
 
+> You'll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It's the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper.
 
-> But that's enough. If there is overwhelming power and speed, there is no room for technique. Techniques are something humans invented to compensate for their weaknesses.
-
-**— Emiya Shirou**  
-*Fate/stay night*
+**— Kenshin Himura**  
+*Rurouni Kenshin*
 
 <!--END_ANIME_QUOTE-->
 

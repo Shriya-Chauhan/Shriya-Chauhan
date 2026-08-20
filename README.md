@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b56157-UmLhSFREXcme.png" width="180" /></p>
 
+> No amount of passion can overcome a lack of technical expertise.
 
-> Stupid ocean!!! Ya want me to kill you? Huh??
-
-**— Sohma Kyo**  
-*Fruits Basket*
+**— Fuyumi Irisu**  
+*Hyouka*
 
 <!--END_ANIME_QUOTE-->
 

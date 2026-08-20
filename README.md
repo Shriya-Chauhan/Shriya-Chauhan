@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
-> You men. All of you, you're horrible. Cheating on every woman. But you, you I actually decided to trust. I put my faith in you. I can't believe this. I wish that all of you would just die!
+> I don't care if it's a girl, a baby or someone's grandma. I'm gonna fight her anyway.
 
-**— Maka Albarn**  
-*Soul Eater*
+**— Yuusuke Urameshi**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

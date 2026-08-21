@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13917-160NVNDNgywA.png" width="180" /></p>
 
+> Listen up, kid. There's one thing you need to understand. Human life is a fragile thing. So weak that I can destroy it with a touch of my finger. So watch what you say. If you don't, I may break something I shouldn't.
 
-> I'm an apple for a day and I need a doctor right away...
-
-**— Ash Ketchum**  
-*Pokémon*
+**— Accelerator**  
+*A Certain Magical Index*
 
 <!--END_ANIME_QUOTE-->
 

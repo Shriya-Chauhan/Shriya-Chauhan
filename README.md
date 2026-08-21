@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
 
-> Is there truly any human who is not arrogant?
 
-**— Ciel Phantomhive**  
-*Black Butler*
+> There are liars who only lie when there’s a reason to, and there are liars who also lie without a reason.
+
+**— Biscuit Krueger**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

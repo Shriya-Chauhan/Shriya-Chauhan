@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1911.jpg" width="180" /></p>
 
+> I'm still very very young. I want to go shopping, and I want to eats lots more of all kinds of yummy foods, you know? And of course... Of course... have a wonderful romance too. If I could have something like that, it would be the best. Yeah... That really would be the best.
 
-> What would you have me say? "Don't worry, I'm sure he's still alive."? Ridiculous. I am not here to comfort you. I don't understand why are you so fixated on life and death? At any rate, your friends will soon be annihilated. So what if that's one step closer? They should have seen this coming from the start. If they couldn't see it coming, the fault lies in their own foolishness. Laughing them off as a group of idiots would be sufficient. Why can't you do that? If it were me, and my friends entered Hueco Mundo without first gauging their strength, I'd be infuriated by their stupidity.
-
-**— Ulquiorra Schiffer**  
-*Bleach*
+**— Anemone**  
+*Eureka Seven*
 
 <!--END_ANIME_QUOTE-->
 

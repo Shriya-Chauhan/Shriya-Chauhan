@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
 
-> I'll do what I want till the end. Cut me down if you want.
+> We all have to die when our time comes, but if we do our duty we don't got regrets. So taste a little piece of my sword, Toguro!
 
-**— Gray Fullbuster**  
-*Fairy Tail*
+**— Kazuma Kuwabara**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

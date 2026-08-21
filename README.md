@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png" width="180" /></p>
 
-> Me personally, I like to work and train.
 
-**— Goku**  
-*Dragon Ball Z*
+> Kindness can sometime translate to hostility.
+
+**— Senjougahara Hitagi**  
+*Bakemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

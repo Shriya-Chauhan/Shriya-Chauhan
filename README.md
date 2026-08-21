@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
 
-> I can’t shake the feeling that I’ve met you before, but I can’t remember where.
 
-**— Masamune Takano**  
-*Sekai Ichi Hatsukoi - World's Greatest First Love*
+> I'm an apple for a day and I need a doctor right away...
+
+**— Ash Ketchum**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

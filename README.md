@@ -53,10 +53,10 @@
 
 
 
-> You've fought a valiant duel, my friend, and this is the hardest move I've ever had to make. But this ends now!
+> I'm pathetic. I was observing the world from a safe distance. I was just scared of being hurt. I was lonely.
 
-**— Yami Yugi**  
-*Yu-Gi-Oh!*
+**— Amano Yukiteru**  
+*The Future Diary*
 
 <!--END_ANIME_QUOTE-->
 

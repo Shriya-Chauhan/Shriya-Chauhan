@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11924-wDxD5PjqMmpf.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/246-wsRRr6z1kii8.png" width="180" /></p>
 
-> It will be alright, have faith in yourself. Crona, you will be a Kishin.
+> Me personally, I like to work and train.
 
-**— Medusa Gorgon**  
-*Soul Eater*
+**— Goku**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

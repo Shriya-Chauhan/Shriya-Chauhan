@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png" width="180" /></p>
 
-> Please don't tell people our bakery's motorbike ran you over.
 
-**— Haruko Haruhara**  
-*FLCL*
+> You've fought a valiant duel, my friend, and this is the hardest move I've ever had to make. But this ends now!
+
+**— Yami Yugi**  
+*Yu-Gi-Oh!*
 
 <!--END_ANIME_QUOTE-->
 

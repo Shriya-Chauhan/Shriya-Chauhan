@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2394-GUDUtsYhi2CC.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b728-zHw77BzLzQKT.jpg" width="180" /></p>
 
-> Don't bother coming to the darkness that you don't need to see... I don't want to show you the darkness that doesn't belong to you... Don't let yourself be hurt so much anymore... Rather, let me be your strength.
+> His soul was as pure as snow.
 
-**— Natsume Hyuuga**  
-*Gakuen Alice*
+**— Zabuza Momochi**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

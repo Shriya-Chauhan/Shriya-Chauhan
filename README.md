@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
 
-> Kakarot… please… destroy Frieza… He made me what I am. Don’t… let him… do it… to anyone else. Whatever it take… Stop him… Please.
+> I'll do what I want till the end. Cut me down if you want.
 
-**— Vegeta**  
-*Dragon Ball Z*
+**— Gray Fullbuster**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

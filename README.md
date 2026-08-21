@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png" width="180" /></p>
 
+> Kakarot… please… destroy Frieza… He made me what I am. Don’t… let him… do it… to anyone else. Whatever it take… Stop him… Please.
 
-> I now see that the circumstances of birth are irrelevant. It is what you do with the gift of life that determines who you are.
-
-**— Mewtwo**  
-*Pokémon*
+**— Vegeta**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

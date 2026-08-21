@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b728-zHw77BzLzQKT.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
 
-> His soul was as pure as snow.
+> I can’t shake the feeling that I’ve met you before, but I can’t remember where.
 
-**— Zabuza Momochi**  
-*Naruto*
+**— Masamune Takano**  
+*Sekai Ichi Hatsukoi - World's Greatest First Love*
 
 <!--END_ANIME_QUOTE-->
 

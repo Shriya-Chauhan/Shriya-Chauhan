@@ -53,10 +53,10 @@
 
 
 
-> Kindness can sometime translate to hostility.
+> I now see that the circumstances of birth are irrelevant. It is what you do with the gift of life that determines who you are.
 
-**— Senjougahara Hitagi**  
-*Bakemonogatari*
+**— Mewtwo**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

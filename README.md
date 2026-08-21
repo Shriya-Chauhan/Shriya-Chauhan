@@ -53,10 +53,10 @@
 
 
 
-> I'm pathetic. I was observing the world from a safe distance. I was just scared of being hurt. I was lonely.
+> If you don't risk your life, you can't create a future. Right?
 
-**— Amano Yukiteru**  
-*The Future Diary*
+**— Monkey D. Luffy**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

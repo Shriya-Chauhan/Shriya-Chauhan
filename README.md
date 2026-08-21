@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12531-joBTjTP3fonc.png" width="180" /></p>
 
+> Is there truly any human who is not arrogant?
 
-> If you don't risk your life, you can't create a future. Right?
-
-**— Monkey D. Luffy**  
-*One Piece*
+**— Ciel Phantomhive**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

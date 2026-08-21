@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png" width="180" /></p>
 
-> We all have to die when our time comes, but if we do our duty we don't got regrets. So taste a little piece of my sword, Toguro!
+> Please don't tell people our bakery's motorbike ran you over.
 
-**— Kazuma Kuwabara**  
-*Yu Yu Hakusho*
+**— Haruko Haruhara**  
+*FLCL*
 
 <!--END_ANIME_QUOTE-->
 

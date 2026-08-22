@@ -53,10 +53,10 @@
 
 
 
-> I... don't know why I'm alive. I have no reason to live. I have no interest in others. Living without concern for others... That's the way to live. Working a job that earns me just enough to eat... A life like that was enough...
+> You're you. "To be like you..." - it's not so ambiguous as that. No matter what you do, no matter how you change, it doesn't mean a thing. you're just you, no matter what.
 
-**— Yuzuru Otonashi**  
-*Angel Beats!*
+**— Kaori Miyazono**  
+*Your Lie in April*
 
 <!--END_ANIME_QUOTE-->
 

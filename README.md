@@ -53,10 +53,10 @@
 
 
 
-> The amount of money one owns ultimately decides the victor. This doesn't stop within the walls of a casino, or it's cash flow. It's a rule that forms the basis for a capitalist society!
+> I... don't know why I'm alive. I have no reason to live. I have no interest in others. Living without concern for others... That's the way to live. Working a job that earns me just enough to eat... A life like that was enough...
 
-**— Jabami Yumeko**  
-*Kakegurui*
+**— Yuzuru Otonashi**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

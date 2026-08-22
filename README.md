@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b272-PAyS6eeHE4v9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
 
-> I don't have any regrets. I'm glad I met you, Sousuke Sagara.
+> Don't use a serious tone. Don't breathe on me. Your face is too close. Freaking me out.
 
-**— Kaname Chidori**  
-*Full Metal Panic!*
+**— Kyon**  
+*The Melancholy of Haruhi Suzumiya*
 
 <!--END_ANIME_QUOTE-->
 

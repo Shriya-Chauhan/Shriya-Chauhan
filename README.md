@@ -53,10 +53,10 @@
 
 
 
-> If you hurt someone, you must be prepared to receive the same amount in return.
+> I'm not stupid. I'm just too lazy to show how smart I am.
 
-**— Mana Ouma**  
-*Guilty Crown*
+**— Oreki Houtarou**  
+*Hyouka*
 
 <!--END_ANIME_QUOTE-->
 

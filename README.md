@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b51593-4DuJdXIhmz4d.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b272-PAyS6eeHE4v9.png" width="180" /></p>
 
-> That’s important, isn’t it? Whether you look good or pathetic in your own eyes.
+> I don't have any regrets. I'm glad I met you, Sousuke Sagara.
 
-**— Reiko Mikami**  
-*Another*
+**— Kaname Chidori**  
+*Full Metal Panic!*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Symmetry is key everything must be esthetically pleasing. That's why I use the two of you as twin pistols in order to preserve symmetry. When I hold you both I'm completely balanced on the right and left. It isn't perfect because your human forms are so different from each other though. Your hair styles and height for example. Even your boobs are different sizes!
+> I wonder if there really is a God... If such an entity really existed, wouldn't all honest, hard-working people be happy?
 
-**— Death the Kid**  
-*Soul Eater*
+**— Vermouth**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning? You'll regret that you didn't choose to harvest it the previous day instead of complaining. That regret really hurts. It'll make you crawl through hell.
+> Humans continue to live in a cycle of death and destruction. Guns can't change anything. It merely creates an infinite chain of hatred and retribution.
 
-**— Ushiromiya Kyrie**  
-*Umineko: When They Cry*
+**— TimeKeeper**  
+*Gunslinger Stratos: The Animation*
 
 <!--END_ANIME_QUOTE-->
 

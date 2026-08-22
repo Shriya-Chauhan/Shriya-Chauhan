@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png" width="180" /></p>
 
-> *referring to Armstrong taking off his shirt* Did he have to strip?..
 
-**— Riza Hawkeye**  
-*Fullmetal Alchemist*
+> If you hurt someone, you must be prepared to receive the same amount in return.
+
+**— Mana Ouma**  
+*Guilty Crown*
 
 <!--END_ANIME_QUOTE-->
 

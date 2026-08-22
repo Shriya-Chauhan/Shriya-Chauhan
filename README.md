@@ -53,10 +53,10 @@
 
 
 
-> You're you. "To be like you..." - it's not so ambiguous as that. No matter what you do, no matter how you change, it doesn't mean a thing. you're just you, no matter what.
+> Symmetry is key everything must be esthetically pleasing. That's why I use the two of you as twin pistols in order to preserve symmetry. When I hold you both I'm completely balanced on the right and left. It isn't perfect because your human forms are so different from each other though. Your hair styles and height for example. Even your boobs are different sizes!
 
-**— Kaori Miyazono**  
-*Your Lie in April*
+**— Death the Kid**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

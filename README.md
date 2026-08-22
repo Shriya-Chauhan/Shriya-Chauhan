@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b701-gNKbnxT6dbrf.png" width="180" /></p>
 
+> Even though it's painful sometimes, if you keep on living then good things can happen.
 
-> If you become perplexed or make errors, in the end have the kind of life that you can have pride in living. The kind where you can say, "I persevered." Repeating delightful things and sad things. And in that way keep getting older. I persevered.
-
-**— Kyoko Honda**  
-*Fruits Basket*
+**— Nana Komatsu**  
+*Nana*
 
 <!--END_ANIME_QUOTE-->
 

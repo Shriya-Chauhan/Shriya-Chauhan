@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b701-gNKbnxT6dbrf.png" width="180" /></p>
 
-> Even though it's painful sometimes, if you keep on living then good things can happen.
 
-**— Nana Komatsu**  
-*Nana*
+> *To Haruhi Fujioka about him helping her search for her wallet in water* A little water never hurt anyone. Besides, people are always telling me that I'm dripping with good looks.
+
+**— Suoh Tamaki**  
+*Ouran High School Host Club*
 
 <!--END_ANIME_QUOTE-->
 

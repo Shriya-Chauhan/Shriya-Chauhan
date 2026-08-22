@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b42501-BKURFIipvE1C.png" width="180" /></p>
 
+> No matter how crazy it may be, or how dangerous it may be, even if it's something personal, it doesn't matter! Anything that you're worried about, I'll worry right along with you and think of a solution! Just like you did for me all those times!
 
-> It's amazing how every time you open your mouth, you manage to prove you're an idiot.
-
-**— Vegeta**  
-*Dragon Ball*
+**— Alibaba Saluja**  
+*Magi: The Kingdom of Magic*
 
 <!--END_ANIME_QUOTE-->
 

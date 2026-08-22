@@ -53,10 +53,10 @@
 
 
 
-> I wonder if there really is a God... If such an entity really existed, wouldn't all honest, hard-working people be happy?
+> I have nosympathyfor criminals but for my family, I do.
 
-**— Vermouth**  
-*Case Closed*
+**— Monkey D. Garp**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

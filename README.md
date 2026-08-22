@@ -53,10 +53,10 @@
 
 
 
-> I have nosympathyfor criminals but for my family, I do.
+> What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning? You'll regret that you didn't choose to harvest it the previous day instead of complaining. That regret really hurts. It'll make you crawl through hell.
 
-**— Monkey D. Garp**  
-*One Piece*
+**— Ushiromiya Kyrie**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

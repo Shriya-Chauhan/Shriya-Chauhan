@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png" width="180" /></p>
 
+> *referring to Armstrong taking off his shirt* Did he have to strip?..
 
-> It's just that I'm fighting the pain of lost love. I guess it's what you'd call a rude awakening... or, maybe... the weight of responsibility? But I'm fine. I'm fine. Caring for someone isn't based on logic. You can't really rationalize emotions. Once I think "I like him"... it's all over.
-
-**— Sohma Kagura**  
-*Fruits Basket*
+**— Riza Hawkeye**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

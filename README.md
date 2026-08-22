@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b51593-4DuJdXIhmz4d.png" width="180" /></p>
 
+> That’s important, isn’t it? Whether you look good or pathetic in your own eyes.
 
-> I'm not stupid. I'm just too lazy to show how smart I am.
-
-**— Oreki Houtarou**  
-*Hyouka*
+**— Reiko Mikami**  
+*Another*
 
 <!--END_ANIME_QUOTE-->
 

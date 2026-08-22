@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
 
-> Don't use a serious tone. Don't breathe on me. Your face is too close. Freaking me out.
 
-**— Kyon**  
-*The Melancholy of Haruhi Suzumiya*
+> It's amazing how every time you open your mouth, you manage to prove you're an idiot.
+
+**— Vegeta**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

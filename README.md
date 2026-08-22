@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b32458-LTnU8CCcCaOu.jpg" width="180" /></p>
 
+> Are you talking to me, scum? I'm God.
 
-> I am your weapon partner Maka! That means I'm always prepared to die for my Meister!
-
-**— Soul Evans**  
-*Soul Eater*
+**— Ayato Naoi**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

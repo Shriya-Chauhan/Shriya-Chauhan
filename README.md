@@ -53,10 +53,10 @@
 
 
 
-> *To Haruhi Fujioka about him helping her search for her wallet in water* A little water never hurt anyone. Besides, people are always telling me that I'm dripping with good looks.
+> I am your weapon partner Maka! That means I'm always prepared to die for my Meister!
 
-**— Suoh Tamaki**  
-*Ouran High School Host Club*
+**— Soul Evans**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

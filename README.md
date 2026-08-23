@@ -53,10 +53,10 @@
 
 
 
-> Chasing your dreams means there’s always someone out there who’s beating you at the thing you care about most.
+> *to Rei Miyamoto* I'd be an actor if I could look happy right now.
 
-**— Kafka Hibino**  
-*Kaiju No. 8*
+**— Takashi Komuro**  
+*Highschool Of The Dead*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png" width="180" /></p>
 
-> People cannot win against their loneliness.
 
-**— Gaara**  
-*Naruto*
+> Getting kicked out of school won't kill me, but losing my way of life most certainly will.
+
+**— Shikishima Kiriko**  
+*Ultimate Otaku Teacher*
 
 <!--END_ANIME_QUOTE-->
 

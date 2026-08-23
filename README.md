@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b192604-nCLfRMfEHh7c.jpg" width="180" /></p>
 
-> Knocking others down to gain an advantage is a fruitless endeavor. It means they've given up on winning any other way.
 
-**— Saiki Michiru**  
-*ReLIFE*
+> Even if a question has a proper answer, sometimes one cannot simply give it away.
+
+**— Horo**  
+*Spice and Wolf*
 
 <!--END_ANIME_QUOTE-->
 

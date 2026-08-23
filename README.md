@@ -53,10 +53,10 @@
 
 
 
-> Humans continue to live in a cycle of death and destruction. Guns can't change anything. It merely creates an infinite chain of hatred and retribution.
+> There's no need to worry about trivial things like vocal rights or working together. If nobody's going to accept me, I'll make them obey me, whether it's by threat or by assassination. This is my-- our F class modus operandi.
 
-**— TimeKeeper**  
-*Gunslinger Stratos: The Animation*
+**— Sakamoto Yuuji**  
+*Baka & Test - Summon the Beasts*
 
 <!--END_ANIME_QUOTE-->
 

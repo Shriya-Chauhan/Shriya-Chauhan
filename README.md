@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png" width="180" /></p>
 
+> People cannot win against their loneliness.
 
-> I knew it. You can't even ask your own zanpakutō its name.
-
-**— Abarai Renji**  
-*Bleach*
+**— Gaara**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

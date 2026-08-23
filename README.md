@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png" width="180" /></p>
 
-> I’ve… been protecting it… because you… said that… this thing is more important to you… than your own life.
 
-**— Zenitsu Agatsuma**  
-*Demon Slayer: Kimetsu no Yaiba*
+> I knew it. You can't even ask your own zanpakutō its name.
+
+**— Abarai Renji**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

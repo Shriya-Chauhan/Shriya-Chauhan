@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127-tRCK37wzJyGh.png" width="180" /></p>
 
-> You are the most important person to me in the whole wide world.
 
-**— Sakura Kinomoto**  
-*Tsubasa RESERVoir CHRoNiCLE*
+> Even if I was someone, people couldn't comprehend me. And even if they could, they wouldn't be able to communicate it to those around them. I do not belong to the world. That is the world's limit, the boundary between the world and the self.
+
+**— Ergo Proxy**  
+*Ergo Proxy*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png" width="180" /></p>
 
+> I’ve… been protecting it… because you… said that… this thing is more important to you… than your own life.
 
-> Compared to the "righteous" greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born.
-
-**— Eustass Kid**  
-*One Piece*
+**— Zenitsu Agatsuma**  
+*Demon Slayer: Kimetsu no Yaiba*
 
 <!--END_ANIME_QUOTE-->
 

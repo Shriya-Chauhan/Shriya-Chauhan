@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png" width="180" /></p>
 
+> I won't give up, I will fight til the bitter end, cause there's no way I will back down after what you did to my friends. They are what made me the person I am today, that's why I'll keep fighting... For my friends!
 
-> We don't have time to waste asking for the things we don’t have, we can only look for the best way to fight with the things we do have.
-
-**— Hiruma Youichi**  
-*Eyeshield 21*
+**— Lucy Heartfilia**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

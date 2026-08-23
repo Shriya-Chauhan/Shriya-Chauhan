@@ -53,10 +53,10 @@
 
 
 
-> Even if a question has a proper answer, sometimes one cannot simply give it away.
+> We don't have time to waste asking for the things we don’t have, we can only look for the best way to fight with the things we do have.
 
-**— Horo**  
-*Spice and Wolf*
+**— Hiruma Youichi**  
+*Eyeshield 21*
 
 <!--END_ANIME_QUOTE-->
 

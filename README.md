@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg" width="180" /></p>
 
+> Even when the sky's so dark you can't see a thing, there are still stars shining out there. So if she can learn to shine brighter, we'll be able to see her.
 
-> Getting kicked out of school won't kill me, but losing my way of life most certainly will.
-
-**— Shikishima Kiriko**  
-*Ultimate Otaku Teacher*
+**— Minori Kushieda**  
+*Toradora!*
 
 <!--END_ANIME_QUOTE-->
 

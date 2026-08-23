@@ -53,10 +53,10 @@
 
 
 
-> Even if I was someone, people couldn't comprehend me. And even if they could, they wouldn't be able to communicate it to those around them. I do not belong to the world. That is the world's limit, the boundary between the world and the self.
+> In the end, L is indeed the greatest detective on earth...
 
-**— Ergo Proxy**  
-*Ergo Proxy*
+**— Light Yagami**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

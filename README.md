@@ -53,10 +53,10 @@
 
 
 
-> To sum up, that is what led to number 679 of the 1,000 provisions you must observe. Always place a dehumidifier in your room.
+> Chasing your dreams means there’s always someone out there who’s beating you at the thing you care about most.
 
-**— Excalibur**  
-*Soul Eater*
+**— Kafka Hibino**  
+*Kaiju No. 8*
 
 <!--END_ANIME_QUOTE-->
 

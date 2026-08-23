@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
 
-> I won't give up, I will fight til the bitter end, cause there's no way I will back down after what you did to my friends. They are what made me the person I am today, that's why I'll keep fighting... For my friends!
+> Even in the depths of the darkest oceans, some light always pierces through.
 
-**— Lucy Heartfilia**  
-*Fairy Tail*
+**— Kousei Arima**  
+*Your Lie in April*
 
 <!--END_ANIME_QUOTE-->
 

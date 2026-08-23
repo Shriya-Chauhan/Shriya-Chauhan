@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b43088-Vrm5VEY5SqKN.png" width="180" /></p>
 
+> If you still love her, I can't help that, but don't meddle with her half-heartedly. If you can surpress your feelings, then leave it.
 
-> There's no need to worry about trivial things like vocal rights or working together. If nobody's going to accept me, I'll make them obey me, whether it's by threat or by assassination. This is my-- our F class modus operandi.
-
-**— Sakamoto Yuuji**  
-*Baka & Test - Summon the Beasts*
+**— Shuuko Murao**  
+*Blue Spring Ride*
 
 <!--END_ANIME_QUOTE-->
 

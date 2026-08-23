@@ -53,10 +53,10 @@
 
 
 
-> In the end, L is indeed the greatest detective on earth...
+> To sum up, that is what led to number 679 of the 1,000 provisions you must observe. Always place a dehumidifier in your room.
 
-**— Light Yagami**  
-*Death Note*
+**— Excalibur**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

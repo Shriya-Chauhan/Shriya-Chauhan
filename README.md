@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b43088-Vrm5VEY5SqKN.png" width="180" /></p>
 
-> If you still love her, I can't help that, but don't meddle with her half-heartedly. If you can surpress your feelings, then leave it.
 
-**— Shuuko Murao**  
-*Blue Spring Ride*
+> Compared to the "righteous" greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born.
+
+**— Eustass Kid**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

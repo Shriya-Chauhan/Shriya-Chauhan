@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127-tRCK37wzJyGh.png" width="180" /></p>
 
-> Even in the depths of the darkest oceans, some light always pierces through.
+> You are the most important person to me in the whole wide world.
 
-**— Kousei Arima**  
-*Your Lie in April*
+**— Sakura Kinomoto**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

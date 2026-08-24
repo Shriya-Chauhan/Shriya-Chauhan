@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n477-NvR2RtpSYSis.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2379-WutNL90IxIgh.jpg" width="180" /></p>
 
-> Whoever said one's first love is bittersweet, is a liar. It is only bitter.
+> Enough. I've had enough. I'm dropping out.
 
-**— Renton Thurston**  
-*Eureka Seven*
+**— Risa Koizumi**  
+*Lovely Complex*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Other people’s life choices have nothing to do with me. But when you talked about giving up, you looked sad.
+> Every individual human affects the surrounding environment. But humans do not exist for the things and people around them. Often, they mistakenly think that they wish to exist for the sake of others, or to help everyone. They can not accept that they don't know why they exist, yes? They always want an answer. That is the nature of the animals called "humans".
 
-**— Leno Ichikawa**  
-*Kaiju No. 8*
+**— Magata Shiki**  
+*The Perfect Insider*
 
 <!--END_ANIME_QUOTE-->
 

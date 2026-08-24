@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
 
+> We are searching for a place where we can live our lives in peaceful days. No wars, no stealing; a place that isn’t run by fear; a place where people can live, and actually trust other human beings.
 
-> Cut off a wolf's head and it still has the power to bite.
-
-**— Lady Eboshi**  
-*Princess Mononoke*
+**— Vash the Stampede**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

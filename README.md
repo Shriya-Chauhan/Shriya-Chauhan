@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41949-LaoaHJ2tJxBw.png" width="180" /></p>
 
-> The bonds we have with those close to us, keep us connected always.
 
-**— Aladdin**  
-*Magi: The Labyrinth of Magic*
+> Pain is the way to bring peace.
+
+**— Pain**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

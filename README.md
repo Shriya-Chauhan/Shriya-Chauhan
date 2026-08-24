@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
 
+> Sasuke! Sasuke! Sasuke! What does he have that I don't have?!
 
-> Educating a heterosexual person about anime, is a joy for an otaku.
-
-**— Kagami Junichirou**  
-*Ultimate Otaku Teacher*
+**— Naruto Uzumaki**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

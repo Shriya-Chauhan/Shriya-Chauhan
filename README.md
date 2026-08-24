@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1557.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png" width="180" /></p>
 
-> A long time there... There was a balloon man, right? When I first heard that story, I was so stupid that I actually enjoyed it... But really, the story was horrible. Driven solely by his dreams he used his balloons to disapear into the sky. The people watching made a big fuss about it... But no one really tried to stop it. There's no telling where the wind will take you. And he knew that one day his fuel, his ''freedom'' would run out, and he'd fall into the black ocean. To fly... that feeling is the most important thing. But instead of the dark clouds that drive people from the sky... There must be a chain to keep them grounded. The time will come, for those with the ability to fly away, while everyone else can only watch. Using their own wings, their own power... soaring as far as they can without aid. Because... Because that is what it means to fly.
+> When you live, your life will end sooner or later. The body will return to the earth. Grass and flowers will grow on top of it. The soul will nourish the hearts... and it will live on in the hearts of other people. Everything in this world flows around and circulates. That goes for human lives too.
 
-**— Itsuki Minami**  
-*Air Gear*
+**— Izumi Curtis**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

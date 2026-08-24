@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
 
-> Who wants their life planned out for them.
 
-**— Killua Zoldyck**  
-*Hunter x Hunter*
+> Educating a heterosexual person about anime, is a joy for an otaku.
+
+**— Kagami Junichirou**  
+*Ultimate Otaku Teacher*
 
 <!--END_ANIME_QUOTE-->
 

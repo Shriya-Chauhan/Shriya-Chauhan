@@ -53,10 +53,10 @@
 
 
 
-> Every individual human affects the surrounding environment. But humans do not exist for the things and people around them. Often, they mistakenly think that they wish to exist for the sake of others, or to help everyone. They can not accept that they don't know why they exist, yes? They always want an answer. That is the nature of the animals called "humans".
+> If you love someone, they could make you sad. They could even make you feel lonely sometimes. But, that someone can also make you happier than you'll ever be.
 
-**— Magata Shiki**  
-*The Perfect Insider*
+**— Sohma Kyo**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

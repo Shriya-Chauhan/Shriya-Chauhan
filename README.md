@@ -53,10 +53,10 @@
 
 
 
-> Seriously, enslavement is funny...
+> Cut off a wolf's head and it still has the power to bite.
 
-**— Near**  
-*Death Note*
+**— Lady Eboshi**  
+*Princess Mononoke*
 
 <!--END_ANIME_QUOTE-->
 

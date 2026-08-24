@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2379-WutNL90IxIgh.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png" width="180" /></p>
 
-> Enough. I've had enough. I'm dropping out.
+> So, you would question me, you filthy mongrel? Me, the one true king? If you cannot now discern my identity in the presence of my magnificent glory, then you’re ignorant blindness will serve to seal your doom!
 
-**— Risa Koizumi**  
-*Lovely Complex*
+**— Gilgamesh**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,11 +51,11 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> When you live, your life will end sooner or later. The body will return to the earth. Grass and flowers will grow on top of it. The soul will nourish the hearts... and it will live on in the hearts of other people. Everything in this world flows around and circulates. That goes for human lives too.
+> The power of one man doesn't amount to much. But, however little strength I'm capable of, I'll do everything humanly possible to protect the people I love, and in turn they will protect the ones they love. It seems like the least we tiny humans can do for each other.
 
-**— Izumi Curtis**  
+**— Roy Mustang**  
 *Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> The power of one man doesn't amount to much. But, however little strength I'm capable of, I'll do everything humanly possible to protect the people I love, and in turn they will protect the ones they love. It seems like the least we tiny humans can do for each other.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+> Other people’s life choices have nothing to do with me. But when you talked about giving up, you looked sad.
+
+**— Leno Ichikawa**  
+*Kaiju No. 8*
 
 <!--END_ANIME_QUOTE-->
 

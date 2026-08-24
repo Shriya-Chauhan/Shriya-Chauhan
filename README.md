@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg" width="180" /></p>
 
-> We are searching for a place where we can live our lives in peaceful days. No wars, no stealing; a place that isn’t run by fear; a place where people can live, and actually trust other human beings.
+> Who wants their life planned out for them.
 
-**— Vash the Stampede**  
-*Trigun*
+**— Killua Zoldyck**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png" width="180" /></p>
 
+> *points to Jet*Don't give me that art of war crap! And you!*points to the other man*You take too long to take a sh*t!
 
-> He told me...that which is incomplete seeks completion... yet...that which is incomplete is no better than that which is complete. Do you understand?
-
-**— Argentine**  
-*D.N.Angel*
+**— Spike Spiegel**  
+*Cowboy Bebop*
 
 <!--END_ANIME_QUOTE-->
 

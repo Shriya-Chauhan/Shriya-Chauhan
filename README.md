@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41949-LaoaHJ2tJxBw.png" width="180" /></p>
 
-> *points to Jet*Don't give me that art of war crap! And you!*points to the other man*You take too long to take a sh*t!
+> The bonds we have with those close to us, keep us connected always.
 
-**— Spike Spiegel**  
-*Cowboy Bebop*
+**— Aladdin**  
+*Magi: The Labyrinth of Magic*
 
 <!--END_ANIME_QUOTE-->
 

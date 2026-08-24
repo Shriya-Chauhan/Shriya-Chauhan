@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/49065.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n477-NvR2RtpSYSis.jpg" width="180" /></p>
 
-> Do you think you're the main character of some kind of sob story? You don't want to see people get hurt, so you cover your eyes and ears. Using your grief to hide the suffering is the easiest path to take. But I won't forgive you if you do. You're a Brave aren't you? Do you intend to live as someone who's always protected by others!? Fight! What will you solve by running away? The ability to keep going forward is strength as well! Physical strength is not all there is to it!
+> Whoever said one's first love is bittersweet, is a liar. It is only bitter.
 
-**— Anastasia**  
-*Brave 10*
+**— Renton Thurston**  
+*Eureka Seven*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b324-PEf2pMfTqx96.png" width="180" /></p>
 
+> Mada mada dane.
 
-> If you love someone, they could make you sad. They could even make you feel lonely sometimes. But, that someone can also make you happier than you'll ever be.
-
-**— Sohma Kyo**  
-*Fruits Basket*
+**— Ryoma Echizen**  
+*Prince Of Tennis*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
-> People's thoughts don't always mirror how they feel. That's why they sometimes make decisions that seem nonsensical.
+> A strong person is not the one who doesn't cry. A strong person is the one who cries and sheds tears for a moment, then gets up and fights again.
 
-**— Shizuka Hiratsuka**  
-*My Teen Romantic Comedy SNAFU TOO!*
+**— Erza Scarlet**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

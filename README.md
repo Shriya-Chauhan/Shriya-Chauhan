@@ -53,10 +53,10 @@
 
 
 
-> Well, there's this one hopeless idiot... who'll probably end up crying if I see you again.
+> I won't come to hate you! Never! Regardless of what happens in the future!
 
-**— Atsushi Otani**  
-*Lovely Complex*
+**— Tachibana Marika**  
+*Nisekoi: False Love*
 
 <!--END_ANIME_QUOTE-->
 

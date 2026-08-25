@@ -51,15 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40196-5KM70eeMhGK6.png" width="180" /></p>
 
-> Even if I’m not perfect… Even if I’m not the ideal me… He says that I’m still my own person.
-The point of life isn’t to be perfect.
-It’s to do want you want to do, to be who you want to be.
-That’s how I should be trying to live.
 
-**— Iori Nagase**  
-*Kokoro Connect*
+> If the dark sky is me, then the sparkling stars are Tsubaki.
+
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

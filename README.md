@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png" width="180" /></p>
 
-> They say time and a people’s heart are inversely proportional. The more it passes, the more they grow apart. It seems there are some rare exceptions though.
 
-**— Ai Haibara**  
-*Case Closed*
+> For there to be pain, there has to be kindness. For darkness to stand out, there has to be the sun.
+
+**— Kyoko Honda**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

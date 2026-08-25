@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png" width="180" /></p>
 
-> A friend would not just follow another's dream... a friend would find his own reason to live.
+> You have no enemies. No one...Has any enemies. There is no one...That you should hurt
 
-**— Griffith**  
-*Berserk*
+**— Thors**  
+*Vinland Saga*
 
 <!--END_ANIME_QUOTE-->
 

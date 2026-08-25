@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b324-PEf2pMfTqx96.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/21031.jpg" width="180" /></p>
 
-> Mada mada dane.
+> Humans lose focus of the big picture when they’re drunken in the midst of their feelings.
 
-**— Ryoma Echizen**  
-*Prince Of Tennis*
+**— Tojuro Hattori**  
+*Nabari no Ou*
 
 <!--END_ANIME_QUOTE-->
 

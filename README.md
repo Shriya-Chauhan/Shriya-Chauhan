@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png" width="180" /></p>
 
+> A friend would not just follow another's dream... a friend would find his own reason to live.
 
-> You reject your femininity... yet at the end here you are using it.
-
-**— Sohma Shigure**  
-*Fruits Basket*
+**— Griffith**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Maybe life has no equal trade, maybe you can give up all you got, and get nothing back. Even if I can't prove it's true, I have to try, for your sake, Al.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> You reject your femininity... yet at the end here you are using it.
+
+**— Sohma Shigure**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png" width="180" /></p>
 
-> A world where everyone is equal and receives the same treatment. No such place exists. If there was a world of equality, where talent and aptitude didn't matter, we would all be equally snubbed there.
 
-**— Tatsuya Shiba**  
-*The Irregular at Magic High School*
+> Well, there's this one hopeless idiot... who'll probably end up crying if I see you again.
+
+**— Atsushi Otani**  
+*Lovely Complex*
 
 <!--END_ANIME_QUOTE-->
 

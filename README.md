@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/21031.jpg" width="180" /></p>
 
-> Humans lose focus of the big picture when they’re drunken in the midst of their feelings.
 
-**— Tojuro Hattori**  
-*Nabari no Ou*
+> You probably weren't wrong, but you went about it the wrong way.
+
+**— Akatsuki Kojou**  
+*Strike the Blood*
 
 <!--END_ANIME_QUOTE-->
 

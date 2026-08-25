@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
 
-> You're not the first person I went out with... But you're my first love.
 
-**— Masamune Takano**  
-*Sekai Ichi Hatsukoi - World's Greatest First Love*
+> But I have a fear stronger than the fear of losing. It's the fear of boredom. I fear those days full of boredom.
+
+**— Berserker**  
+*KenIchi: The Mightiest Disciple*
 
 <!--END_ANIME_QUOTE-->
 

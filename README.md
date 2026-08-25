@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png" width="180" /></p>
 
+> They say time and a people’s heart are inversely proportional. The more it passes, the more they grow apart. It seems there are some rare exceptions though.
 
-> But I have a fear stronger than the fear of losing. It's the fear of boredom. I fear those days full of boredom.
-
-**— Berserker**  
-*KenIchi: The Mightiest Disciple*
+**— Ai Haibara**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

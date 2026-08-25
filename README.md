@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/30050.jpg" width="180" /></p>
 
+> You're not the first person I went out with... But you're my first love.
 
-> If the dark sky is me, then the sparkling stars are Tsubaki.
-
-**— Black Star**  
-*Soul Eater*
+**— Masamune Takano**  
+*Sekai Ichi Hatsukoi - World's Greatest First Love*
 
 <!--END_ANIME_QUOTE-->
 

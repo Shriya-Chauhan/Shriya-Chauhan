@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8446-uTTlVv5DRQnr.png" width="180" /></p>
 
-> There's something wrong with people who seek reality in fiction.
+> I think I'd like to dissect you now!
 
-**— Kyon**  
-*The Melancholy of Haruhi Suzumiya*
+**— Franken Stein**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5189-GR1xdok9SFsN.jpg" width="180" /></p>
 
-> A strong person is not the one who doesn't cry. A strong person is the one who cries and sheds tears for a moment, then gets up and fights again.
 
-**— Erza Scarlet**  
-*Fairy Tail*
+> There's one good thing about being an idiot. When they really get into something, they can simple-mindedly devote all of their attention to it. I guess some people would just call them obsessed, but to them, that's high praise!
+
+**— Sakamoto Yuuji**  
+*Baka & Test - Summon the Beasts*
 
 <!--END_ANIME_QUOTE-->
 

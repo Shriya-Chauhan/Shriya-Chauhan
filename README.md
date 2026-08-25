@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14841-FzkLkEq41cJ3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b252-2V9wYXSAktsX.png" width="180" /></p>
 
-> Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do.
+> There's something wrong with people who seek reality in fiction.
 
-**— Hakuren Oak**  
-*07-Ghost*
+**— Kyon**  
+*The Melancholy of Haruhi Suzumiya*
 
 <!--END_ANIME_QUOTE-->
 

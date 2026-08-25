@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
+> Maybe life has no equal trade, maybe you can give up all you got, and get nothing back. Even if I can't prove it's true, I have to try, for your sake, Al.
 
-> There's one good thing about being an idiot. When they really get into something, they can simple-mindedly devote all of their attention to it. I guess some people would just call them obsessed, but to them, that's high praise!
-
-**— Sakamoto Yuuji**  
-*Baka & Test - Summon the Beasts*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

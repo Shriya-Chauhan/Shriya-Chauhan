@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14841-FzkLkEq41cJ3.png" width="180" /></p>
 
+> Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do.
 
-> For there to be pain, there has to be kindness. For darkness to stand out, there has to be the sun.
-
-**— Kyoko Honda**  
-*Fruits Basket*
+**— Hakuren Oak**  
+*07-Ghost*
 
 <!--END_ANIME_QUOTE-->
 

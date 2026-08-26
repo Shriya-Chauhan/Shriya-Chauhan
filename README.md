@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b116-DV0Kf8F2vSsW.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> [to Athrun] What is it you believe in? What is it you're fighting for now? Is it for that medal you received? Or your father's orders?
+> A life that lives without doing anything is the same as a slow death.
 
-**— Lacus Clyne**  
-*Mobile Suit Gundam SEED*
+**— Lelouch Lamperouge**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

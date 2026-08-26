@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg" width="180" /></p>
 
-> A life that lives without doing anything is the same as a slow death.
+> Keeheehe. I like him. I'm going to make him my cat.
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+**— Gajeel Redfox**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

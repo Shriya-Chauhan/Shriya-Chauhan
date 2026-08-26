@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> Hughes, just a bit of advice. The soldiers who never shut up about their girls back home... They don't make it.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+> Strive to consistently maintain the proper flow. That is the Tohsaka family motto. It means always remaining reserved and elegant.
+
+**— Tohsaka Tokiomi**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3462-ZioJaI3rJjsJ.png" width="180" /></p>
 
-> Shining brightly even for a split second is better than living a dull-grey life for eternity.
 
-**— Jing**  
-*Jing: King of Bandits*
+> Life perpetuates itself through diversity, and this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration until one day they die, obliterating an entire set of memory and information. Only genes remain. Why continually repeat this cycle? Simply to survive by avoiding the weaknesses of an unchanging system.
+
+**— Puppet Master**  
+*Ghost in the Shell*
 
 <!--END_ANIME_QUOTE-->
 

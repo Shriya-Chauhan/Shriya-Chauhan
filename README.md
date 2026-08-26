@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png" width="180" /></p>
 
-> I finally get a bouquet and it's a goodbye present. That's depressing.
 
-**— Chihiro Ogino**  
-*Spirited Away*
+> No matter how strong a defense, a stronger offense will always shatter it.
+
+**— Kuchiki Byakuya**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

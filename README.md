@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14653-F1N1NOAwvUkp.jpg" width="180" /></p>
 
-> Keeheehe. I like him. I'm going to make him my cat.
+> God doesn't give us trials we can't surmount. So someday all your wounds will heal and the day will come when you've surmounted all your pain.
 
-**— Gajeel Redfox**  
-*Fairy Tail*
+**— Mikage Celestine**  
+*07-Ghost*
 
 <!--END_ANIME_QUOTE-->
 

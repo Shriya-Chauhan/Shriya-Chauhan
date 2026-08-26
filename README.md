@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
 
-> You have no enemies. No one...Has any enemies. There is no one...That you should hurt
+> Even in the depths of the darkest oceans, some light always pierces through.
 
-**— Thors**  
-*Vinland Saga*
+**— Kousei Arima**  
+*Your Lie in April*
 
 <!--END_ANIME_QUOTE-->
 

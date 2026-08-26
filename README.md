@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Even in the depths of the darkest oceans, some light always pierces through.
+> DON'T CALL ME SMALL! I'LL BREAK DOWN YOUR FEET AND STICK THEM ON YOUR HEAD!!
 
-**— Kousei Arima**  
-*Your Lie in April*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

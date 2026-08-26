@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3462-ZioJaI3rJjsJ.png" width="180" /></p>
 
+> Shining brightly even for a split second is better than living a dull-grey life for eternity.
 
-> No matter how strong a defense, a stronger offense will always shatter it.
-
-**— Kuchiki Byakuya**  
-*Bleach*
+**— Jing**  
+*Jing: King of Bandits*
 
 <!--END_ANIME_QUOTE-->
 

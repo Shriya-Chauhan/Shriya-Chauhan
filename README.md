@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b116-DV0Kf8F2vSsW.png" width="180" /></p>
 
+> [to Athrun] What is it you believe in? What is it you're fighting for now? Is it for that medal you received? Or your father's orders?
 
-> Strive to consistently maintain the proper flow. That is the Tohsaka family motto. It means always remaining reserved and elegant.
-
-**— Tohsaka Tokiomi**  
-*Fate/Zero*
+**— Lacus Clyne**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

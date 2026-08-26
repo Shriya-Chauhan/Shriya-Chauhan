@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14653-F1N1NOAwvUkp.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg" width="180" /></p>
 
-> God doesn't give us trials we can't surmount. So someday all your wounds will heal and the day will come when you've surmounted all your pain.
+> In exchange for gaining strength, have I lost something more important as a human being? Emotions used to swirl within me when I fought. Fear, impatience, anger... But now... Day after day, after one punch I go home unharmed and wash my gloves.
 
-**— Mikage Celestine**  
-*07-Ghost*
+**— Saitama**  
+*One Punch Man*
 
 <!--END_ANIME_QUOTE-->
 

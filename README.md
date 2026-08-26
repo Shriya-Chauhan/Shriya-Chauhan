@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24595-GIy3ql42WQfY.png" width="180" /></p>
 
+> You just went for my head, didn't you? You know you could kill someone by hitting a vital spot in their head, right? If you know this, then you were trying to kill me, right? So whatever I do next is what you deserve, right?
 
-> Life perpetuates itself through diversity, and this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration until one day they die, obliterating an entire set of memory and information. Only genes remain. Why continually repeat this cycle? Simply to survive by avoiding the weaknesses of an unchanging system.
-
-**— Puppet Master**  
-*Ghost in the Shell*
+**— Shizuo Heiwajima**  
+*Durarara!!*
 
 <!--END_ANIME_QUOTE-->
 

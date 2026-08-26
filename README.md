@@ -51,11 +51,11 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> DON'T CALL ME SMALL! I'LL BREAK DOWN YOUR FEET AND STICK THEM ON YOUR HEAD!!
+> Hughes, just a bit of advice. The soldiers who never shut up about their girls back home... They don't make it.
 
-**— Edward Elric**  
+**— Roy Mustang**  
 *Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->

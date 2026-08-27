@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24595-GIy3ql42WQfY.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
 
-> You just went for my head, didn't you? You know you could kill someone by hitting a vital spot in their head, right? If you know this, then you were trying to kill me, right? So whatever I do next is what you deserve, right?
+> It's quite basic actually, perhaps the simplest of tricks there is. True it may not seem so simple from an ordinary persons point of view, some people may even consider it a baffling, utterly perplexing problem. Things will often appear complicated on the outside while in truth they are simplicity itself. Of course how one sees these things depends on the person, many people find there is a fine line separating the complex to the very simple.
 
-**— Shizuo Heiwajima**  
-*Durarara!!*
+**— Excalibur**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

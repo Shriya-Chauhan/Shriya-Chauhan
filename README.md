@@ -53,10 +53,10 @@
 
 
 
-> I'm not stupid. I'm just too lazy to show how smart I am.
+> I live every day of my life like there’s no tomorrow so that when my number’s up, I can check out with no regrets! No way this horde of zombies is gonna end Mirko the Hero.
 
-**— Oreki Houtarou**  
-*Hyouka*
+**— Rumi Usagiyama**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

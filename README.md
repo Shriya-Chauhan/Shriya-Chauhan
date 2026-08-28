@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b115-wOR0jAKl5GY7.png" width="180" /></p>
 
-> I knew it. The Earth Forces' new mobile weapons. Father, I knew you'd betray us all!
 
-**— Cagalli Yula Athha**  
-*Mobile Suit Gundam SEED*
+> I'm not stupid. I'm just too lazy to show how smart I am.
+
+**— Oreki Houtarou**  
+*Hyouka*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Fighting's fine, but losing looks like it'll hurt... so that'd suck.
+> The world just exists to hurt people and to be conquered. To survive, you mow down your enemies and take what you want.
 
-**— Fay D. Flourite**  
-*Tsubasa RESERVoir CHRoNiCLE*
+**— Livius Orvinus Ifrikia**  
+*The World is Still Beautiful*
 
 <!--END_ANIME_QUOTE-->
 

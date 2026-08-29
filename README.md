@@ -53,10 +53,10 @@
 
 
 
-> People... are not born equal. That's the hard truth I learned at age four. But that... was my first and last setback.
+> Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya.
 
-**— Midoriya Izuku**  
-*My Hero Academia*
+**— Tohsaka Tokiomi**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

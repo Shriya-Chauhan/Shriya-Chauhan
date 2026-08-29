@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png" width="180" /></p>
 
+> Please don't tell people our bakery's motorbike ran you over.
 
-> Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya.
-
-**— Tohsaka Tokiomi**  
-*Fate/Zero*
+**— Haruko Haruhara**  
+*FLCL*
 
 <!--END_ANIME_QUOTE-->
 

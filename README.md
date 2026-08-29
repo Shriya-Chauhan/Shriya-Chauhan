@@ -53,10 +53,10 @@
 
 
 
-> The world just exists to hurt people and to be conquered. To survive, you mow down your enemies and take what you want.
+> People... are not born equal. That's the hard truth I learned at age four. But that... was my first and last setback.
 
-**— Livius Orvinus Ifrikia**  
-*The World is Still Beautiful*
+**— Midoriya Izuku**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

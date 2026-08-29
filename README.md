@@ -53,10 +53,10 @@
 
 
 
-> I live every day of my life like there’s no tomorrow so that when my number’s up, I can check out with no regrets! No way this horde of zombies is gonna end Mirko the Hero.
+> Fighting's fine, but losing looks like it'll hurt... so that'd suck.
 
-**— Rumi Usagiyama**  
-*My Hero Academia*
+**— Fay D. Flourite**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

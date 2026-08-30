@@ -53,10 +53,10 @@
 
 
 
-> [to Momo on Aizen's final letter] As a vice-captain, I think it's a great honor to be the receiver of her captain's final words. Read it well.
+> What exactly is the end? The end. The end. The end. I've seen the end over and over. What is the end?
 
-**— Matsumoto Rangiku**  
-*Bleach*
+**— Johann Liebert**  
+*Monster*
 
 <!--END_ANIME_QUOTE-->
 

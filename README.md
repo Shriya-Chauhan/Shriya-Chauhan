@@ -53,10 +53,10 @@
 
 
 
-> I want to believe that life isn't full of darkness. Even if storms come to pass, the sun will shine again. No matter how painful and hard the rain my beat down on me.
+> Don't touch the poster at the Game Corner! There's no secret switch behind it!
 
-**— Akito Sohma**  
-*Fruits Basket*
+**— Rocket Grunt**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

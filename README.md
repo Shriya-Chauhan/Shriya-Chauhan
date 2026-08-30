@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40197-We1zbfXwnVFf.png" width="180" /></p>
 
+> If I show people how weak I am, they won't need me anymore.
 
-> What exactly is the end? The end. The end. The end. I've seen the end over and over. What is the end?
-
-**— Johann Liebert**  
-*Monster*
+**— Himeko Inaba**  
+*Kokoro Connect*
 
 <!--END_ANIME_QUOTE-->
 

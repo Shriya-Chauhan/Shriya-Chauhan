@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b627-VkiKQwzH1c8S.png" width="180" /></p>
 
-> Please don't tell people our bakery's motorbike ran you over.
 
-**— Haruko Haruhara**  
-*FLCL*
+> When pressured, people tend to choose the decision that is best fitted to the situation, but they usually realize later on, that it was a mistake.
+
+**— Tezuka Kunimitsu**  
+*Prince Of Tennis*
 
 <!--END_ANIME_QUOTE-->
 

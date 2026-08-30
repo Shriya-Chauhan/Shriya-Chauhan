@@ -53,10 +53,10 @@
 
 
 
-> When pressured, people tend to choose the decision that is best fitted to the situation, but they usually realize later on, that it was a mistake.
+> [to Momo on Aizen's final letter] As a vice-captain, I think it's a great honor to be the receiver of her captain's final words. Read it well.
 
-**— Tezuka Kunimitsu**  
-*Prince Of Tennis*
+**— Matsumoto Rangiku**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

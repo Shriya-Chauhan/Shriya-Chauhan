@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40197-We1zbfXwnVFf.png" width="180" /></p>
 
-> If I show people how weak I am, they won't need me anymore.
 
-**— Himeko Inaba**  
-*Kokoro Connect*
+> I want to believe that life isn't full of darkness. Even if storms come to pass, the sun will shine again. No matter how painful and hard the rain my beat down on me.
+
+**— Akito Sohma**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

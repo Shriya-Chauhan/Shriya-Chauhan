@@ -53,10 +53,10 @@
 
 
 
-> Don't touch the poster at the Game Corner! There's no secret switch behind it!
+> People can face tomorrow because they can see reality and accept it. By denying reality, you cloud up the present, and tomorrow will never come. No, you can cloud it up, but your tomorrow will be that much crueler.
 
-**— Rocket Grunt**  
-*Pokémon*
+**— Kurokawa Mari**  
+*GATE*
 
 <!--END_ANIME_QUOTE-->
 

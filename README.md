@@ -53,10 +53,10 @@
 
 
 
-> If it’s possible for one person to be hurt by another, then it’s possible for that person to be healed by another.
+> Do you think everyone can make their dreams come true through hard work? Hard work isn't always rewarded.
 
-**— Sohma Hatori**  
-*Fruits Basket*
+**— Atsushi Murasakibara**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

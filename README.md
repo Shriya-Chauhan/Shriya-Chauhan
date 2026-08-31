@@ -53,10 +53,10 @@
 
 
 
-> People can face tomorrow because they can see reality and accept it. By denying reality, you cloud up the present, and tomorrow will never come. No, you can cloud it up, but your tomorrow will be that much crueler.
+> If it’s possible for one person to be hurt by another, then it’s possible for that person to be healed by another.
 
-**— Kurokawa Mari**  
-*GATE*
+**— Sohma Hatori**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2031-XqDT3pRdwGNi.jpg" width="180" /></p>
 
+> My obvious charms and god-like powers always dazzle the simple, ordinary folk.
 
-> Sadistic? I don't mind you calling me that. If you don't want to get hurt, don't attack me when I say not to.
-
-**— Inoue Orihime**  
-*Bleach*
+**— Dark Schneider**  
+*Bastard!!*
 
 <!--END_ANIME_QUOTE-->
 

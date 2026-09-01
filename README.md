@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Life is like a pencil that will surely run out, but will leave the beautiful writing of life.
+> Whoever invented stew is brilliant! It has milk in it and it still tastes good.
 
-**— Nami**  
-*One Piece*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

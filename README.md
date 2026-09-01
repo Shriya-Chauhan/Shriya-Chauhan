@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4631-eakox9LKfmbX.png" width="180" /></p>
 
-> Whoever invented stew is brilliant! It has milk in it and it still tastes good.
+> A peaceful every day life hides its fragility. Fear and violence aren't just something in another world, completely unrelated to us. If a disaster happens, we can't change it. But as long as we small gears are linked together, we can keep moving forward, even if it's only one small step at a time.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+**— Kyousuke Natsume**  
+*Little Busters!*
 
 <!--END_ANIME_QUOTE-->
 

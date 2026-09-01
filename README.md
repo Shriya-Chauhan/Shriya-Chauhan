@@ -53,10 +53,10 @@
 
 
 
-> If someone went the wrong way, the other two would beat him up until he got back on track. That's how it always been. That's why we'll always stay on the right path!
+> Sadistic? I don't mind you calling me that. If you don't want to get hurt, don't attack me when I say not to.
 
-**— Isao Kondō**  
-*Gintama*
+**— Inoue Orihime**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

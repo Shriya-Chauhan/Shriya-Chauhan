@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2031-XqDT3pRdwGNi.jpg" width="180" /></p>
 
-> My obvious charms and god-like powers always dazzle the simple, ordinary folk.
 
-**— Dark Schneider**  
-*Bastard!!*
+> These days, there are angry ghosts all around us. Dead from wars, sickness, starvation, and nobody cares. So - you say you're under a curse. So what, so's the whole damn world.
+
+**— Jigo**  
+*Princess Mononoke*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png" width="180" /></p>
 
+> Life is like a pencil that will surely run out, but will leave the beautiful writing of life.
 
-> These days, there are angry ghosts all around us. Dead from wars, sickness, starvation, and nobody cares. So - you say you're under a curse. So what, so's the whole damn world.
-
-**— Jigo**  
-*Princess Mononoke*
+**— Nami**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

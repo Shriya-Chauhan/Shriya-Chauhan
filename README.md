@@ -53,10 +53,10 @@
 
 
 
-> I believe that some truths should never be known.
+> I would rather be a brainless monkey than a heartless monster.
 
-**— Konoha Inoue**  
-*Bungaku Shoujo*
+**— Goku**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

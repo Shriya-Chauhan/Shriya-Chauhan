@@ -53,10 +53,10 @@
 
 
 
-> You don’t need something from someone else. What you need is to make your heart stronger. If you act naturally, people will naturally like you. And I’d like you more that way too.
+> Sorry, I saw an opening that just screamed 'ATTACK,' so I did, ha!
 
-**— Yokodera Youto**  
-*The "Hentai" Prince and the Stony Cat.*
+**— Son Goku**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/26799.jpg" width="180" /></p>
 
-> Quit acting like a spoiled child. What's important, the memories? The keys? The feelings of guilt? No. It's the power to save your friends. That's the power of a celestial spirit wizard.
 
-**— Aquarius**  
-*Fairy Tail*
+> I believe that some truths should never be known.
+
+**— Konoha Inoue**  
+*Bungaku Shoujo*
 
 <!--END_ANIME_QUOTE-->
 

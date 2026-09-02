@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4631-eakox9LKfmbX.png" width="180" /></p>
 
-> A peaceful every day life hides its fragility. Fear and violence aren't just something in another world, completely unrelated to us. If a disaster happens, we can't change it. But as long as we small gears are linked together, we can keep moving forward, even if it's only one small step at a time.
 
-**— Kyousuke Natsume**  
-*Little Busters!*
+> You don’t need something from someone else. What you need is to make your heart stronger. If you act naturally, people will naturally like you. And I’d like you more that way too.
+
+**— Yokodera Youto**  
+*The "Hentai" Prince and the Stony Cat.*
 
 <!--END_ANIME_QUOTE-->
 

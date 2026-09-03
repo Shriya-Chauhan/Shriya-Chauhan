@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Hey! I'm totally an adult! I bitch and whine, lie through my teeth, and do things that are unfair.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+> If you want to know what others think, you first have to say what you think.
+
+**— Akise Aru**  
+*The Future Diary*
 
 <!--END_ANIME_QUOTE-->
 

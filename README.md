@@ -53,10 +53,10 @@
 
 
 
-> If you want to know what others think, you first have to say what you think.
+> A sinner once passed away will never return, but sins will never vanish and the love will never die.
 
-**— Akise Aru**  
-*The Future Diary*
+**— Les Soldats**  
+*Noir*
 
 <!--END_ANIME_QUOTE-->
 

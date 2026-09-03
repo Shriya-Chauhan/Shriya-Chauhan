@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b19939-BcCasRAV9SEJ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> In this world, there's no such thing as "failure" in the first place. The one who knows the "ways to win" more than anyone is also the one who's experienced the most "mistakes". In other words... You could say "failure" is equal to "success"... Couldn't you?
+> Hey! I'm totally an adult! I bitch and whine, lie through my teeth, and do things that are unfair.
 
-**— Toriko**  
-*Toriko*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

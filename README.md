@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/169.jpg" width="180" /></p>
 
+> I will stay by your side, my friend. Know that I am here, and that I am sorry. I am sorry that... I failed you. After waiting 600 years I made a beginner's mistake. I underestimated my enemy.
 
-> Love requires no reason. That is what makes it love!
-
-**— Kyousuke Natsume**  
-*Little Busters!*
+**— Amidamaru**  
+*Shaman King*
 
 <!--END_ANIME_QUOTE-->
 

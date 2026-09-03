@@ -53,10 +53,10 @@
 
 
 
-> I would rather be a brainless monkey than a heartless monster.
+> Love requires no reason. That is what makes it love!
 
-**— Goku**  
-*Dragon Ball Z*
+**— Kyousuke Natsume**  
+*Little Busters!*
 
 <!--END_ANIME_QUOTE-->
 

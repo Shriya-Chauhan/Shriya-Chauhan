@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/169.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b19939-BcCasRAV9SEJ.png" width="180" /></p>
 
-> I will stay by your side, my friend. Know that I am here, and that I am sorry. I am sorry that... I failed you. After waiting 600 years I made a beginner's mistake. I underestimated my enemy.
+> In this world, there's no such thing as "failure" in the first place. The one who knows the "ways to win" more than anyone is also the one who's experienced the most "mistakes". In other words... You could say "failure" is equal to "success"... Couldn't you?
 
-**— Amidamaru**  
-*Shaman King*
+**— Toriko**  
+*Toriko*
 
 <!--END_ANIME_QUOTE-->
 

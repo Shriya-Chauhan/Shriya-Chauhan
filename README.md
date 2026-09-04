@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40196-5KM70eeMhGK6.png" width="180" /></p>
 
-> With kindness comes naivete. Courage becomes foolhardiness. And dedication has no reward. If you can't accept any of that, you are not fit to be a magical girl.
+> I don't care what normal people do anymore. I'm going to live my life the way that I want to.
 
-**— Homura Akemi**  
-*Puella Magi Madoka Magica*
+**— Iori Nagase**  
+*Kokoro Connect*
 
 <!--END_ANIME_QUOTE-->
 

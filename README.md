@@ -51,12 +51,13 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
+> As they say about the vulgar masses, the more people flock to a group, the more foolish they become. No matter how prominent an individual is, no, it’s because he is prominent that he would be blotted out by the sheer force of numbers when thrown into that lump of people. Individual will, qualifications, and personality, let alone emotions aren’t considered at all.
+We see only what we want to see, listen only to what we want to listen to, but for the things we want to say, we aren’t able to. This is the society that we’re living in right now.
 
-> The days I spent with you were a lot of fun. I realized for the first time that it makes me so happy to be needed by others. I thought I'd get along well with you like this. But I can't. I was being a jerk. While I was with you, I was looking at someone else. I kept it to myself even after realizing that. I was taking advantage of your kindness.
-
-**— Okazaki Tomoya**  
-*Clannad: After Story*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

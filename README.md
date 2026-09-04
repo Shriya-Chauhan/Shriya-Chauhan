@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b40196-5KM70eeMhGK6.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1272-qhupzmxUXlYG.png" width="180" /></p>
 
-> I don't care what normal people do anymore. I'm going to live my life the way that I want to.
+> No guy is worth your tears. When you find one that is, he won't make you cry.
 
-**— Iori Nagase**  
-*Kokoro Connect*
+**— Mai Taniyama**  
+*Ghost Hunt*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b9003-lzIbaEXjTjNi.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
 
-> I used to think that eating was only consuming needed nutrients. I never thought it could fill the emptiness in me.
+> With kindness comes naivete. Courage becomes foolhardiness. And dedication has no reward. If you can't accept any of that, you are not fit to be a magical girl.
 
-**— Teito Klein**  
-*07-Ghost*
+**— Homura Akemi**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

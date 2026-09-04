@@ -51,13 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b9003-lzIbaEXjTjNi.jpg" width="180" /></p>
 
-> As they say about the vulgar masses, the more people flock to a group, the more foolish they become. No matter how prominent an individual is, no, it’s because he is prominent that he would be blotted out by the sheer force of numbers when thrown into that lump of people. Individual will, qualifications, and personality, let alone emotions aren’t considered at all.
-We see only what we want to see, listen only to what we want to listen to, but for the things we want to say, we aren’t able to. This is the society that we’re living in right now.
+> I used to think that eating was only consuming needed nutrients. I never thought it could fill the emptiness in me.
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU*
+**— Teito Klein**  
+*07-Ghost*
 
 <!--END_ANIME_QUOTE-->
 

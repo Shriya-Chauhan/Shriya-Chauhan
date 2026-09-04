@@ -53,10 +53,10 @@
 
 
 
-> A sinner once passed away will never return, but sins will never vanish and the love will never die.
+> The days I spent with you were a lot of fun. I realized for the first time that it makes me so happy to be needed by others. I thought I'd get along well with you like this. But I can't. I was being a jerk. While I was with you, I was looking at someone else. I kept it to myself even after realizing that. I was taking advantage of your kindness.
 
-**— Les Soldats**  
-*Noir*
+**— Okazaki Tomoya**  
+*Clannad: After Story*
 
 <!--END_ANIME_QUOTE-->
 

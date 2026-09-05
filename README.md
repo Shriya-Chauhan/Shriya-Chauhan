@@ -53,10 +53,10 @@
 
 
 
-> *to Araragi* A creature like you having a brain residing in his skull...is already a miracle in and of itself.
+> From now on, Lacus Clyne will be singing the song of peace.
 
-**— Senjougahara Hitagi**  
-*Bakemonogatari*
+**— Lacus Clyne**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

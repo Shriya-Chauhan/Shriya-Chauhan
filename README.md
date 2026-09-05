@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n40874-q9PGS5w94zV8.png" width="180" /></p>
 
+> To have a name. To remove one layer of the unknown. To be painted in reality. If you have your feet firmly planted to the ground, you may have a chance to pull someone down.
 
-> From now on, Lacus Clyne will be singing the song of peace.
-
-**— Lacus Clyne**  
-*Mobile Suit Gundam SEED*
+**— Makoto Niwa**  
+*Ground Control to Psychoelectric Girl*
 
 <!--END_ANIME_QUOTE-->
 

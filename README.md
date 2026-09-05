@@ -53,10 +53,10 @@
 
 
 
-> Well, who you love depends on the person. Isn't everything fine as long as it's someone who's fun to be with? Being with someone doesn't require any permission as long as the two people accept each other. If you worry about your parents or your family, then you lose. Don't forget that. You can't go out with someone with incomplete feelings.
+> You wanted revenge? You're just making other people as miserable as you. Revenge is just the path you took to escape your suffering.
 
-**— Ushiromiya Battler**  
-*Umineko: When They Cry*
+**— Kurosaki Ichigo**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

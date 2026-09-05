@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png" width="180" /></p>
 
+> If you pray with all your heart, you can find comfort, and people have been saved by it.
 
-> [To Tohru] Ever since you left I've been getting pissed off about everything, and because I couldn't understand why, it just pissed me off even more!
-
-**— Sohma Kyo**  
-*Fruits Basket*
+**— Iris**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> You wanted revenge? You're just making other people as miserable as you. Revenge is just the path you took to escape your suffering.
+> *to Araragi* A creature like you having a brain residing in his skull...is already a miracle in and of itself.
 
-**— Kurosaki Ichigo**  
-*Bleach*
+**— Senjougahara Hitagi**  
+*Bakemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

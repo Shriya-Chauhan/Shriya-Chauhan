@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png" width="180" /></p>
 
-> If you pray with all your heart, you can find comfort, and people have been saved by it.
 
-**— Iris**  
-*Fire Force*
+> Well, who you love depends on the person. Isn't everything fine as long as it's someone who's fun to be with? Being with someone doesn't require any permission as long as the two people accept each other. If you worry about your parents or your family, then you lose. Don't forget that. You can't go out with someone with incomplete feelings.
+
+**— Ushiromiya Battler**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

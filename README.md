@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
-> So maybe I can't defend against attacks from multiple angles, but sometimes a good defense is just kicking ass!
 
-**— Yuusuke Urameshi**  
-*Yu Yu Hakusho*
+> [To Tohru] Ever since you left I've been getting pissed off about everything, and because I couldn't understand why, it just pissed me off even more!
+
+**— Sohma Kyo**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

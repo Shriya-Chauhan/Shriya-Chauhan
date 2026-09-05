@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1272-qhupzmxUXlYG.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
-> No guy is worth your tears. When you find one that is, he won't make you cry.
+> So maybe I can't defend against attacks from multiple angles, but sometimes a good defense is just kicking ass!
 
-**— Mai Taniyama**  
-*Ghost Hunt*
+**— Yuusuke Urameshi**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

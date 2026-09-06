@@ -53,10 +53,10 @@
 
 
 
-> Bye-Bye now.
+> I lost my pawns, my knight, my rook, my bishop, and even my queen. But, it's not checkmate, just yet.
 
-**— Ichimaru Gin**  
-*Bleach*
+**— Roy Mustang**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

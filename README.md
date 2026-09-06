@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png" width="180" /></p>
 
+> So you call me Melty, too.
 
-> When you are feeling sad... smile, even if you have to force yourself... If you cry when it gets painful... it will only get more painful.
-
-**— Chie**  
-*Brynhildr in the Darkness*
+**— Melty Q Melromarc**  
+*The Rising of the Shield Hero*
 
 <!--END_ANIME_QUOTE-->
 

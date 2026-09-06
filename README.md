@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png" width="180" /></p>
 
-> To rule time is to rule the world.
 
-**— Suzuha Amane**  
-*Steins;Gate*
+> Bye-Bye now.
+
+**— Ichimaru Gin**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

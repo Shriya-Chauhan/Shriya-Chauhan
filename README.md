@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png" width="180" /></p>
 
-> So you call me Melty, too.
+> Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!
 
-**— Melty Q Melromarc**  
-*The Rising of the Shield Hero*
+**— Izuku Midoriya**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

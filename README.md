@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png" width="180" /></p>
 
-> Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!
+> To rule time is to rule the world.
 
-**— Izuku Midoriya**  
-*My Hero Academia*
+**— Suzuha Amane**  
+*Steins;Gate*
 
 <!--END_ANIME_QUOTE-->
 

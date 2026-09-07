@@ -53,10 +53,10 @@
 
 
 
-> Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn.
+> For murderers, there is no good or evil. I know that.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+**— Light Yagami**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

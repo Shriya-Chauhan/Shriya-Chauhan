@@ -53,10 +53,10 @@
 
 
 
-> For murderers, there is no good or evil. I know that.
+> I'll always love you. (To Yuki)
 
-**— Light Yagami**  
-*Death Note*
+**— Sohma Hatsuharu**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

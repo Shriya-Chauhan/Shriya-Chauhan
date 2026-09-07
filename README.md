@@ -53,10 +53,10 @@
 
 
 
-> I'll always love you. (To Yuki)
+> Hate is a place, where a man who can't stand sadness, goes.
 
-**— Sohma Hatsuharu**  
-*Fruits Basket*
+**— Godo**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Hate is a place, where a man who can't stand sadness, goes.
+> In a way, the supernatural is what's behind the curtain. Normally, you only need to see what's happening on stage. That's how reality works. If you don't know, it's best that you don't. Actually, learning about the supernatural only increases the number of things you don't know.
 
-**— Godo**  
-*Berserk*
+**— Mayoi Hachikuji**  
+*Nisemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

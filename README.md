@@ -53,9 +53,9 @@
 
 
 
-> I lost my pawns, my knight, my rook, my bishop, and even my queen. But, it's not checkmate, just yet.
+> Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn.
 
-**— Roy Mustang**  
+**— Edward Elric**  
 *Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->

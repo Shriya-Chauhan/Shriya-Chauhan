@@ -53,10 +53,10 @@
 
 
 
-> You can never win if you're afraid to lose so much that you refuse to put up a fight.
+> The moment you find the courage to give up your life for someone... Would be the moment you understand love.
 
-**— Furude Rika**  
-*Higurashi: When They Cry*
+**— Kenshin Himura**  
+*Rurouni Kenshin*
 
 <!--END_ANIME_QUOTE-->
 

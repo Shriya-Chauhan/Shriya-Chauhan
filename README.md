@@ -53,10 +53,10 @@
 
 
 
-> No matter where you are, you have to have the energy to keep on doing the things that you like until the final moment.
+> As expected, the world is full of nasty egos. You're the best, Kaiser. I'll crush you~
 
-**— Kagami Junichirou**  
-*Ultimate Otaku Teacher*
+**— Meguru Bachira**  
+*Blue Lock*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Courage is being scared to death, but doing it anyways.
+> You can never win if you're afraid to lose so much that you refuse to put up a fight.
 
-**— Muguruma Kensei**  
-*Bleach*
+**— Furude Rika**  
+*Higurashi: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

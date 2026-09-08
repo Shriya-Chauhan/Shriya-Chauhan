@@ -53,10 +53,10 @@
 
 
 
-> Nothing less from you, Azusagawa. Such a rascal.
+> Courage is being scared to death, but doing it anyways.
 
-**— Rio Futaba**  
-*Rascal Does Not Dream of Bunny Girl Senpai*
+**— Muguruma Kensei**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

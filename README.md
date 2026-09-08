@@ -53,10 +53,10 @@
 
 
 
-> In a way, the supernatural is what's behind the curtain. Normally, you only need to see what's happening on stage. That's how reality works. If you don't know, it's best that you don't. Actually, learning about the supernatural only increases the number of things you don't know.
+> Nothing less from you, Azusagawa. Such a rascal.
 
-**— Mayoi Hachikuji**  
-*Nisemonogatari*
+**— Rio Futaba**  
+*Rascal Does Not Dream of Bunny Girl Senpai*
 
 <!--END_ANIME_QUOTE-->
 

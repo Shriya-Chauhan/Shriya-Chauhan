@@ -53,10 +53,10 @@
 
 
 
-> The moment you find the courage to give up your life for someone... Would be the moment you understand love.
+> No matter where you are, you have to have the energy to keep on doing the things that you like until the final moment.
 
-**— Kenshin Himura**  
-*Rurouni Kenshin*
+**— Kagami Junichirou**  
+*Ultimate Otaku Teacher*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Those who willing to fight beside me in the battle forfreedom, come aboard my ship, I will change this world someday, I swear it.
+> Fool… I belong among the heavens? Yet you would have me trod upon the ground?! Your impudence has guaranteed your death! Mongrel! When I am through with you, nothing will remain of your corpse!
 
-**— Monkey D. Dragon**  
-*One Piece*
+**— Gilgamesh**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

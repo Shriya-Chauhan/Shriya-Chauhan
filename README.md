@@ -53,10 +53,10 @@
 
 
 
-> Row, row, row your boat, gently down the stream. Merrily, merrily, merrily, merrily, life is but a dream.
+> If you’ve got time to point fingers, then how about using your head to figure out what you want to do about it?
 
-**— Patricia Thompson**  
-*Soul Eater*
+**— Karma Akabane**  
+*Assassination Classroom*
 
 <!--END_ANIME_QUOTE-->
 

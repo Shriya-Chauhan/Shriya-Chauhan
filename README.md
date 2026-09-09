@@ -53,10 +53,10 @@
 
 
 
-> As expected, the world is full of nasty egos. You're the best, Kaiser. I'll crush you~
+> A left... and then a right. Or is it a right and then a left? Hmm... maybe the postcard's upside-down.
 
-**— Meguru Bachira**  
-*Blue Lock*
+**— Hikari**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

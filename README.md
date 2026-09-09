@@ -53,10 +53,10 @@
 
 
 
-> If you’ve got time to point fingers, then how about using your head to figure out what you want to do about it?
+> You’ve underestimated me, snow woman. When you thought you couldn’t beat me, you should have run.
 
-**— Karma Akabane**  
-*Assassination Classroom*
+**— Roronoa Zoro**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

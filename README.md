@@ -53,9 +53,9 @@
 
 
 
-> You’ve underestimated me, snow woman. When you thought you couldn’t beat me, you should have run.
+> Those who willing to fight beside me in the battle forfreedom, come aboard my ship, I will change this world someday, I swear it.
 
-**— Roronoa Zoro**  
+**— Monkey D. Dragon**  
 *One Piece*
 
 <!--END_ANIME_QUOTE-->

@@ -53,10 +53,10 @@
 
 
 
-> I must find a place to pawn this off.
+> I'm the only one who can bear the full brunt of your hate! It's my job, no one else's! I'll bear the burden of your hatred... and we'll die together!
 
-**— Miroku**  
-*InuYasha*
+**— Naruto Uzumaki**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

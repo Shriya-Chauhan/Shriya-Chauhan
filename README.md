@@ -53,10 +53,10 @@
 
 
 
-> I'm the only one who can bear the full brunt of your hate! It's my job, no one else's! I'll bear the burden of your hatred... and we'll die together!
+> Is it so strange to do something for someone else? If the people I love can stay smiling tomorrow... then you can call me foolish or whatever you want.
 
-**— Naruto Uzumaki**  
-*Naruto*
+**— Takatori Kotori**  
+*Brynhildr in the Darkness*
 
 <!--END_ANIME_QUOTE-->
 

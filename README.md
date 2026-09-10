@@ -53,9 +53,9 @@
 
 
 
-> There was no place for me, so I had to make one for myself, and then I realized, I had a place, but I was the only one in it. I didn't know any other way to live.
+> I must find a place to pawn this off.
 
-**— Inuyasha**  
+**— Miroku**  
 *InuYasha*
 
 <!--END_ANIME_QUOTE-->

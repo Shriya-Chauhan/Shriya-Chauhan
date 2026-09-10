@@ -53,10 +53,10 @@
 
 
 
-> Fool… I belong among the heavens? Yet you would have me trod upon the ground?! Your impudence has guaranteed your death! Mongrel! When I am through with you, nothing will remain of your corpse!
+> No matter how big the place is, we'll eventually reach the edge if we keep moving forward!
 
-**— Gilgamesh**  
-*Fate/Zero*
+**— Edward Elric**  
+*Fullmetal Alchemist: Brotherhood*
 
 <!--END_ANIME_QUOTE-->
 

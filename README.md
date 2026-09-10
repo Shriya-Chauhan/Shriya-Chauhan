@@ -53,10 +53,10 @@
 
 
 
-> Is it so strange to do something for someone else? If the people I love can stay smiling tomorrow... then you can call me foolish or whatever you want.
+> While it takes time to recover from the loss of a loved one, having an opportunity to take your mind off things helps too.
 
-**— Takatori Kotori**  
-*Brynhildr in the Darkness*
+**— Yogi**  
+*Karneval*
 
 <!--END_ANIME_QUOTE-->
 

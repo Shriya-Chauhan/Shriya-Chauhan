@@ -53,10 +53,10 @@
 
 
 
-> No matter how big the place is, we'll eventually reach the edge if we keep moving forward!
+> There was no place for me, so I had to make one for myself, and then I realized, I had a place, but I was the only one in it. I didn't know any other way to live.
 
-**— Edward Elric**  
-*Fullmetal Alchemist: Brotherhood*
+**— Inuyasha**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

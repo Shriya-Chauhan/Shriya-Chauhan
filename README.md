@@ -53,10 +53,10 @@
 
 
 
-> I think I would like someone else to kill me. I want someone else to interfere with my life. Is that not what wanting to be loved means, Saikawa-sensei? No life is born of it's own volition. Isn't the instinctive desire of beings, born not of their own volition, for their lives to be taken in the same way?
+> There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection.
 
-**— Magata Shiki**  
-*The Perfect Insider*
+**— Kurapika**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

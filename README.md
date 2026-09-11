@@ -53,12 +53,10 @@
 
 
 
-> In the end, mustering the courage to confess is up to the people 
+> [to Sesshoumaru after he steals the Tetsuaiga] Blah, blah, blah. A guy gets his hands on a new sword, and already he's lookin' for a soap box to stand on and preach it to the world!
 
-concerned.
-
-**— Maiko Shuu**  
-*Nisekoi: False Love*
+**— Inuyasha**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

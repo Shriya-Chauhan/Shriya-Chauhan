@@ -53,10 +53,12 @@
 
 
 
-> While it takes time to recover from the loss of a loved one, having an opportunity to take your mind off things helps too.
+> In the end, mustering the courage to confess is up to the people 
 
-**— Yogi**  
-*Karneval*
+concerned.
+
+**— Maiko Shuu**  
+*Nisekoi: False Love*
 
 <!--END_ANIME_QUOTE-->
 

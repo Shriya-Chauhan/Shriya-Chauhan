@@ -53,10 +53,10 @@
 
 
 
-> There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection.
+> When you're on a bike, the ocean's a lot closer than you think. The autumn salt wind went right through to the back of my nose. And maybe it's because, like Haruko said, my head was empty.
 
-**— Kurapika**  
-*Hunter x Hunter*
+**— Naota Nandaba**  
+*FLCL*
 
 <!--END_ANIME_QUOTE-->
 

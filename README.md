@@ -53,10 +53,10 @@
 
 
 
-> [to Sesshoumaru after he steals the Tetsuaiga] Blah, blah, blah. A guy gets his hands on a new sword, and already he's lookin' for a soap box to stand on and preach it to the world!
+> I think I would like someone else to kill me. I want someone else to interfere with my life. Is that not what wanting to be loved means, Saikawa-sensei? No life is born of it's own volition. Isn't the instinctive desire of beings, born not of their own volition, for their lives to be taken in the same way?
 
-**— Inuyasha**  
-*InuYasha*
+**— Magata Shiki**  
+*The Perfect Insider*
 
 <!--END_ANIME_QUOTE-->
 

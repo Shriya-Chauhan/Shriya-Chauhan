@@ -53,10 +53,10 @@
 
 
 
-> I guess I'm a girl who lacks self-awareness as one, or just too manly, eh?
+> The weak don't get to decide anything, not even how they die.
 
-**— Misaki Ayuzawa**  
-*Maid Sama!*
+**— Trafalgar Law**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> When you're on a bike, the ocean's a lot closer than you think. The autumn salt wind went right through to the back of my nose. And maybe it's because, like Haruko said, my head was empty.
+> I guess I'm a girl who lacks self-awareness as one, or just too manly, eh?
 
-**— Naota Nandaba**  
-*FLCL*
+**— Misaki Ayuzawa**  
+*Maid Sama!*
 
 <!--END_ANIME_QUOTE-->
 

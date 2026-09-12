@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/715.jpg" width="180" /></p>
 
-> It must be the way you look, Vash the Stampede. Your very existence seems to cause me undue irritation.
 
-**— Legato Bluesummers**  
-*Trigun*
+> What does it feel like, having your own death right before your eyes? That grand kaleidoscope glimpsed in the moments before death... What could be flashing through that perfect mind of yours?
+
+**— Korosensei**  
+*Assassination Classroom 2nd Season*
 
 <!--END_ANIME_QUOTE-->
 

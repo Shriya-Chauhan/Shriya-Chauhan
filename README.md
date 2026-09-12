@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/715.jpg" width="180" /></p>
 
+> It must be the way you look, Vash the Stampede. Your very existence seems to cause me undue irritation.
 
-> The weak don't get to decide anything, not even how they die.
-
-**— Trafalgar Law**  
-*One Piece*
+**— Legato Bluesummers**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

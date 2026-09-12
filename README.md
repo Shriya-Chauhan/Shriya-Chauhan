@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b113-Yktf6UssgjD4.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png" width="180" /></p>
 
-> I may be able to operate the mobile suit... but that doesn't mean I know how to fight a battle!
+> Glad you're okay *wink* I kinda like you.
 
-**— Kira Yamato**  
-*Mobile Suit Gundam SEED*
+**— Hideki Hinata**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

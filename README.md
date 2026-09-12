@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b113-Yktf6UssgjD4.jpg" width="180" /></p>
 
+> I may be able to operate the mobile suit... but that doesn't mean I know how to fight a battle!
 
-> What does it feel like, having your own death right before your eyes? That grand kaleidoscope glimpsed in the moments before death... What could be flashing through that perfect mind of yours?
-
-**— Korosensei**  
-*Assassination Classroom 2nd Season*
+**— Kira Yamato**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

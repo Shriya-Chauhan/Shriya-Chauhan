@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b9443-BGQMa3ODBF35.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b243-jhiLxDUpBKu4.png" width="180" /></p>
 
-> The strength of life lies in the possibility of dying.
+> Can you do me a favor? Could you kill me with your fangs? Can you still not forgive me? Am I still a traitor?
 
-**— Kouichi Aizawa**  
-*Nabari no Ou*
+**— Hige**  
+*Wolf's Rain*
 
 <!--END_ANIME_QUOTE-->
 

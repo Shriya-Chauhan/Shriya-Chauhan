@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24503-aMw9BnXmEVrP.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b9443-BGQMa3ODBF35.jpg" width="180" /></p>
 
-> Glad you're okay *wink* I kinda like you.
+> The strength of life lies in the possibility of dying.
 
-**— Hideki Hinata**  
-*Angel Beats!*
+**— Kouichi Aizawa**  
+*Nabari no Ou*
 
 <!--END_ANIME_QUOTE-->
 

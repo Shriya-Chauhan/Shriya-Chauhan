@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14489-WgGsdlQJka65.jpg" width="180" /></p>
 
+> You believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotions and emotions can be manifested.
 
-> If there are people you would call naturals, because they were gifted with talent, and if my two rivals (Florence Alicia and Glory Athena) are such naturals, then I just need to have a talent that exceeds theirs, through hard work. Yes, I just have to become a prodigy.
-
-**— Ferrari Akira E.**  
-*Aria the Origination*
+**— Isaac Netero**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> But the mass we call "world" keeps turning, ignoring our individual desires.
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+> If there are people you would call naturals, because they were gifted with talent, and if my two rivals (Florence Alicia and Glory Athena) are such naturals, then I just need to have a talent that exceeds theirs, through hard work. Yes, I just have to become a prodigy.
+
+**— Ferrari Akira E.**  
+*Aria the Origination*
 
 <!--END_ANIME_QUOTE-->
 

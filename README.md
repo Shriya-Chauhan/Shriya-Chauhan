@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b243-jhiLxDUpBKu4.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
 
-> Can you do me a favor? Could you kill me with your fangs? Can you still not forgive me? Am I still a traitor?
+> The pain of being alone is completely out of this world, isn't it? I don't know why, but I understand your feelings so much, it actually hurts.
 
-**— Hige**  
-*Wolf's Rain*
+**— Naruto Uzumaki**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14489-WgGsdlQJka65.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1164-lmlb9gx6nFSO.jpg" width="180" /></p>
 
-> You believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotions and emotions can be manifested.
+> I wonder why people make promises they won't be able to keep.
 
-**— Isaac Netero**  
-*Hunter x Hunter*
+**— Nanami Takahashi**  
+*We Were There*
 
 <!--END_ANIME_QUOTE-->
 

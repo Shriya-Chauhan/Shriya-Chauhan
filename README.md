@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
-> Hey, mutt! I need exercise, so I'll play with you!
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+> Does she understand what she's doing, this stupid woman?
+
+**— Near**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

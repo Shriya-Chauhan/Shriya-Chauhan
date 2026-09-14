@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
 
+> Of all the nerve, assault me and then ask for a meal, you're getting squat!
 
-> Does she understand what she's doing, this stupid woman?
-
-**— Near**  
-*Death Note*
+**— Kazuma Kuwabara**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

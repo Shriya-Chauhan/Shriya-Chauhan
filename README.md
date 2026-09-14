@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1164-lmlb9gx6nFSO.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
 
-> I wonder why people make promises they won't be able to keep.
+> Being alone is better than being with the wrong person.
 
-**— Nanami Takahashi**  
-*We Were There*
+**— L Lawliet**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

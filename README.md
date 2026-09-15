@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg" width="180" /></p>
 
+> Care to little, you lose them. Care too much, you get hurt.
 
-> The only times we're fated to lose are in fictional stories. This is our drama! We decide what the plot will be!
-
-**— Taiga Kagami**  
-*Kuroko's Basketball - duplicate*
+**— Gajeel Redfox**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

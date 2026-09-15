@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n730-H6SRWfoiFjBR.jpg" width="180" /></p>
 
-> Of all the nerve, assault me and then ask for a meal, you're getting squat!
 
-**— Kazuma Kuwabara**  
-*Yu Yu Hakusho*
+> The only times we're fated to lose are in fictional stories. This is our drama! We decide what the plot will be!
+
+**— Taiga Kagami**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

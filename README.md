@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg" width="180" /></p>
 
+> Knowledge is the greatest weapon. Without it, you are just a beast waiting to be slaughtered.
 
-> The only one who should decide which path to follow is yourself.
-
-**— Zen Wistalia**  
-*Snow White with the Red Hair*
+**— Diablo**  
+*That Time I Got Reincarnated as a Slime*
 
 <!--END_ANIME_QUOTE-->
 

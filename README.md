@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b131033-0LguIALHCBEH.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> Knowledge is the greatest weapon. Without it, you are just a beast waiting to be slaughtered.
+> Guys are simple creatures. Just by talking to them, they get the wrong idea.
 
-**— Diablo**  
-*That Time I Got Reincarnated as a Slime*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

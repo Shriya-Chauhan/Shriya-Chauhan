@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b16893-l9HhHQ8j09H5.jpg" width="180" /></p>
 
-> Care to little, you lose them. Care too much, you get hurt.
 
-**— Gajeel Redfox**  
-*Fairy Tail*
+> The only one who should decide which path to follow is yourself.
+
+**— Zen Wistalia**  
+*Snow White with the Red Hair*
 
 <!--END_ANIME_QUOTE-->
 

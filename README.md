@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b21-anlrcOlyRHgO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/65233-f8RXB4LQiNh0.png" width="180" /></p>
 
-> Every time you hurt others, you're the one who end up being hurt.
+> No matter how many good deeds you perform, your past sins cannot be erased.
 
-**— Takashi Morinozuka**  
-*Ouran High School Host Club*
+**— Sheele**  
+*Akame ga Kill!*
 
 <!--END_ANIME_QUOTE-->
 

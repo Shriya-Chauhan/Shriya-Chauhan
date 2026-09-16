@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/65233-f8RXB4LQiNh0.png" width="180" /></p>
 
-> No matter how many good deeds you perform, your past sins cannot be erased.
 
-**— Sheele**  
-*Akame ga Kill!*
+> If you let yourself get depressed, you'd be making light of the people who trust and follow you.
+
+**— Ogami Rei**  
+*Code:Breaker*
 
 <!--END_ANIME_QUOTE-->
 

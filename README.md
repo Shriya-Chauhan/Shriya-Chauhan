@@ -51,11 +51,11 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b79591-8MdS89u5RVye.png" width="180" /></p>
 
-> Guys are simple creatures. Just by talking to them, they get the wrong idea.
+> When you pick the only option you have to choose from, can you really call that your own decision?
 
-**— Hachiman Hikigaya**  
+**— Hayato Hayama**  
 *My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->

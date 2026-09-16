@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png" width="180" /></p>
 
+> Success is harder than failure for many things in this world.
 
-> If you let yourself get depressed, you'd be making light of the people who trust and follow you.
-
-**— Ogami Rei**  
-*Code:Breaker*
+**— Osamu Dazai**  
+*Bungo Stray Dogs 2*
 
 <!--END_ANIME_QUOTE-->
 

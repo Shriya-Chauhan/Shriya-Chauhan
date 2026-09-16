@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b79591-8MdS89u5RVye.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b21-anlrcOlyRHgO.png" width="180" /></p>
 
-> When you pick the only option you have to choose from, can you really call that your own decision?
+> Every time you hurt others, you're the one who end up being hurt.
 
-**— Hayato Hayama**  
-*My Teen Romantic Comedy SNAFU*
+**— Takashi Morinozuka**  
+*Ouran High School Host Club*
 
 <!--END_ANIME_QUOTE-->
 

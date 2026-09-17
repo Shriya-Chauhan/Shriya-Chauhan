@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b147-miunGYp6fkzb.png" width="180" /></p>
 
-> We shouldn't blame ourselves for bad things that happened to us. Sometimes, no matter what we do, we are victims of the circumstances. We should just have to pull ourselves out.
 
-**— Kenshin Himura**  
-*Rurouni Kenshin*
+> I do intend to pay you for your services.
+
+**— Sohma Shigure**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

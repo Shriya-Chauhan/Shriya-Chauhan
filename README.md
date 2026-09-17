@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
 
+> When I look at their kind smiles and thought that I was supposed to be there smiling too... I couldn't stop crying. It hurt so much that I wanted to forget.
 
-> I do intend to pay you for your services.
-
-**— Sohma Shigure**  
-*Fruits Basket*
+**— Takashi Natsume**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

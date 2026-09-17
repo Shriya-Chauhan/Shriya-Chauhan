@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
 
-> Success is harder than failure for many things in this world.
+> Even if it's small, take a step forward.
 
-**— Osamu Dazai**  
-*Bungo Stray Dogs 2*
+**— Takashi Natsume**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

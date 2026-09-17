@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b65559-FZEHEfO374x9.png" width="180" /></p>
 
-> Even if it's small, take a step forward.
+> No matter how sturdy something appears, it should have some weakness.
 
-**— Takashi Natsume**  
-*Natsume Yuujinchou*
+**— Susanoo**  
+*Akame ga Kill!*
 
 <!--END_ANIME_QUOTE-->
 

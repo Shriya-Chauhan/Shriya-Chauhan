@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg" width="180" /></p>
 
-> When I look at their kind smiles and thought that I was supposed to be there smiling too... I couldn't stop crying. It hurt so much that I wanted to forget.
+> There are people in this world who prefer solitude. But there is no one who can withstand it.
 
-**— Takashi Natsume**  
-*Natsume Yuujinchou*
+**— Makarov Dreyar**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

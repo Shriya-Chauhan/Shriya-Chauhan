@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1280.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png" width="180" /></p>
 
-> Truth is a shy little thing. If you approach it, it will hide. Truth is a lonesome little thing. If you move away from it, it will give chase.
+> Your honor isn’t worth your life.
 
-**— Edel**  
-*Princess Tutu*
+**— Shanks**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/1280.jpg" width="180" /></p>
 
-> There are people in this world who prefer solitude. But there is no one who can withstand it.
+> Truth is a shy little thing. If you approach it, it will hide. Truth is a lonesome little thing. If you move away from it, it will give chase.
 
-**— Makarov Dreyar**  
-*Fairy Tail*
+**— Edel**  
+*Princess Tutu*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b564-a6LJitrjSfKC.jpg" width="180" /></p>
 
-> Fear. That is what we live with. And we live it everyday. Only in death are we free of it.
+> [lying about coming to save Rukia] Just passing by. No big deal.... Well, if you must know, I felt a sudden urge to go to Sunflower Seams, that 24-hour dressmaking shop. There's a branch near here. That's where I was headed at this late hour. I certainly didn't bring this bag with me just so I would have an excuse for suddenly leaving the house because I sensed the spirit energy of a shinigami, all right?
 
-**— Neji Hyuuga**  
-*Naruto*
+**— Uryuu Ishida**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b126-CG9rp6dE0DKo.png" width="180" /></p>
 
-> If I can protect, I want to protect.
 
-**— Syaoran Li**  
-*Tsubasa RESERVoir CHRoNiCLE*
+> Being rivals does not mean being an enemy.
+
+**— Kaizaki Arata**  
+*ReLIFE*
 
 <!--END_ANIME_QUOTE-->
 

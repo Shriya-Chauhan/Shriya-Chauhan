@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b115-wOR0jAKl5GY7.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b126-CG9rp6dE0DKo.png" width="180" /></p>
 
-> One guy's killed for killing another and then he's killed for killing him. How is that kind of twisted thinking ever gonna bring us peace?
+> If I can protect, I want to protect.
 
-**— Cagalli Yula Athha**  
-*Mobile Suit Gundam SEED*
+**— Syaoran Li**  
+*Tsubasa RESERVoir CHRoNiCLE*
 
 <!--END_ANIME_QUOTE-->
 

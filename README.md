@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg" width="180" /></p>
 
+> Fear. That is what we live with. And we live it everyday. Only in death are we free of it.
 
-> Being rivals does not mean being an enemy.
-
-**— Kaizaki Arata**  
-*ReLIFE*
+**— Neji Hyuuga**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png" width="180" /></p>
 
-> I finally get a bouquet and it's a goodbye present. That's depressing.
 
-**— Chihiro Ogino**  
-*Spirited Away*
+> Soul! Soul! Are you okay?! You are going to be alright - Black Star is here for you now!! Open your eyes! One look at my big handsome face and you'll be cured for sure!
+
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

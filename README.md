@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24509-5PH1LI0pluva.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n40874-q9PGS5w94zV8.png" width="180" /></p>
 
-> Hurry up! You can make it! Oh, run to her and hug her tight!
+> To have a name. To remove one layer of the unknown. To be painted in reality. If you have your feet firmly planted to the ground, you may have a chance to pull someone down.
 
-**— TK**  
-*Angel Beats!*
+**— Makoto Niwa**  
+*Ground Control to Psychoelectric Girl*
 
 <!--END_ANIME_QUOTE-->
 

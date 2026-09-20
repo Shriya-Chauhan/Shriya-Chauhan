@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b384-AoWCsQyG0WI7.png" width="180" /></p>
 
-> I meditate diligently every morning. The subject is Life and Love. I quit after three seconds.
+> I finally get a bouquet and it's a goodbye present. That's depressing.
 
-**— Vash the Stampede**  
-*Trigun*
+**— Chihiro Ogino**  
+*Spirited Away*
 
 <!--END_ANIME_QUOTE-->
 

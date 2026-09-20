@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24509-5PH1LI0pluva.jpg" width="180" /></p>
 
-> Let's show him...that the good guys always win.
+> Hurry up! You can make it! Oh, run to her and hug her tight!
 
-**— L Lawliet**  
-*Death Note*
+**— TK**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

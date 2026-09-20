@@ -53,7 +53,7 @@
 
 <p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162-kfdfqsX7Xjf0.png" width="180" /></p>
 
-> Hey, "Thou Shalt Not Kill", remember? What kind of church man are you?
+> I meditate diligently every morning. The subject is Life and Love. I quit after three seconds.
 
 **— Vash the Stampede**  
 *Trigun*

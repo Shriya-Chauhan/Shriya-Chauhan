@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
 
+> Let's show him...that the good guys always win.
 
-> Soul! Soul! Are you okay?! You are going to be alright - Black Star is here for you now!! Open your eyes! One look at my big handsome face and you'll be cured for sure!
-
-**— Black Star**  
-*Soul Eater*
+**— L Lawliet**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

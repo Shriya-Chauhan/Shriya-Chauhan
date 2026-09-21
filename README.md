@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2552-KCehpCmmitMV.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13414.jpg" width="180" /></p>
 
-> People who neglect to make efforts or who don't take any actions at all are always the ones who dream that someday they will suddenly become wildly successful.
+> Swords exists for just judging and killing. They can never save others.
 
-**— Misaki Nakahara**  
-*Welcome to the N.H.K.*
+**— Kourin Shimizu**  
+*Nabari no Ou*
 
 <!--END_ANIME_QUOTE-->
 

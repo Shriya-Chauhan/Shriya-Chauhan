@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13414.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg" width="180" /></p>
 
-> Swords exists for just judging and killing. They can never save others.
+> You're all grown up, so you won't feel dirty looking at my body, right?
 
-**— Kourin Shimizu**  
-*Nabari no Ou*
+**— Nadeko Sengoku**  
+*Bakemonogatari*
 
 <!--END_ANIME_QUOTE-->
 

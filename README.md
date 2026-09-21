@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg" width="180" /></p>
 
-> You're all grown up, so you won't feel dirty looking at my body, right?
 
-**— Nadeko Sengoku**  
-*Bakemonogatari*
+> You've really got to hold on to what's important to you.
+
+**— Kazuya Kujō**  
+*Gosick*
 
 <!--END_ANIME_QUOTE-->
 

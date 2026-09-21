@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2552-KCehpCmmitMV.jpg" width="180" /></p>
 
+> People who neglect to make efforts or who don't take any actions at all are always the ones who dream that someday they will suddenly become wildly successful.
 
-> I'll make you so in love with me, that every time our lips touch you'll die a little.
-
-**— Koizumi George**  
-*Paradise Kiss*
+**— Misaki Nakahara**  
+*Welcome to the N.H.K.*
 
 <!--END_ANIME_QUOTE-->
 

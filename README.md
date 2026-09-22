@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png" width="180" /></p>
 
-> They say the tongue is the root of all misfortune.
 
-**— Rukia Kuchiki**  
-*Bleach*
+> It doesn´t matter what day it is as long as you are happy.
+
+**— Juvia Loxar**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

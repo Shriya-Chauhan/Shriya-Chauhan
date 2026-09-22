@@ -53,10 +53,10 @@
 
 
 
-> You've really got to hold on to what's important to you.
+> If I can, I'd prefer nobody to be sad.
 
-**— Kazuya Kujō**  
-*Gosick*
+**— Emiya Kiritsugu**  
+*Fate/stay night*
 
 <!--END_ANIME_QUOTE-->
 

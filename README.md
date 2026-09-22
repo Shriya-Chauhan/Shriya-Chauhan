@@ -53,10 +53,10 @@
 
 
 
-> It doesn´t matter what day it is as long as you are happy.
+> So long as I don't give up, the possibility of winning will never fall to zero.
 
-**— Juvia Loxar**  
-*Fairy Tail*
+**— Tetsuya Kuroko**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

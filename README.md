@@ -53,10 +53,10 @@
 
 
 
-> If I can, I'd prefer nobody to be sad.
+> No one knows what the future holds in life.  We must take that endless bit of darkness and turn it to our advantage.
 
-**— Emiya Kiritsugu**  
-*Fate/stay night*
+**— Higuchi Seitarou**  
+*The Tatami Galaxy*
 
 <!--END_ANIME_QUOTE-->
 

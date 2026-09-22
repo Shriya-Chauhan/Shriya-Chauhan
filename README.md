@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png" width="180" /></p>
 
+> They say the tongue is the root of all misfortune.
 
-> No one knows what the future holds in life.  We must take that endless bit of darkness and turn it to our advantage.
-
-**— Higuchi Seitarou**  
-*The Tatami Galaxy*
+**— Rukia Kuchiki**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

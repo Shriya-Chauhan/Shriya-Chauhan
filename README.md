@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png" width="180" /></p>
 
-> There are still times when our different ways of thinking make me hesitate but I feel like there are ways we can balance each other because we're different.
+> {TO NARUTO} Oh, by the way... I'm a boy
 
-**— Takashi Natsume**  
-*Natsume Yuujinchou*
+**— Haku**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

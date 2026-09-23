@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17438-NwyOSMxycmck.png" width="180" /></p>
 
-> There are no guarantees. But if there’s a chance it could help everyone avoid the calamity, isn’t it worth it? It’s sad when people die.
+> The world...God's divine creation...Is so brimming with love...Yet there is no love in the hearts of men.
 
-**— Mei Misaki**  
-*Another*
+**— Canute**  
+*Vinland Saga*
 
 <!--END_ANIME_QUOTE-->
 

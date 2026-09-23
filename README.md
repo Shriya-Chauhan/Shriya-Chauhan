@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17438-NwyOSMxycmck.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13783-FvmhRaCOKzKQ.png" width="180" /></p>
 
-> The world...God's divine creation...Is so brimming with love...Yet there is no love in the hearts of men.
+> There are still times when our different ways of thinking make me hesitate but I feel like there are ways we can balance each other because we're different.
 
-**— Canute**  
-*Vinland Saga*
+**— Takashi Natsume**  
+*Natsume Yuujinchou*
 
 <!--END_ANIME_QUOTE-->
 

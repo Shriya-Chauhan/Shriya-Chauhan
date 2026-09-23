@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5109.jpg" width="180" /></p>
 
-> It's so much easier to believe that only your own thoughts and beliefs are absolutely correct.
 
-**— Guy Cecil**  
-*Tales of the Abyss*
+> You should quake in fear of your impending death.
+
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

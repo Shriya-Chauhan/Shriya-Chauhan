@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41402-uMQLbpd8uwKH.png" width="180" /></p>
 
+> There are no guarantees. But if there’s a chance it could help everyone avoid the calamity, isn’t it worth it? It’s sad when people die.
 
-> You should quake in fear of your impending death.
-
-**— Black Star**  
-*Soul Eater*
+**— Mei Misaki**  
+*Another*
 
 <!--END_ANIME_QUOTE-->
 

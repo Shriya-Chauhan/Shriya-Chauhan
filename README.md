@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5109.jpg" width="180" /></p>
 
+> It's so much easier to believe that only your own thoughts and beliefs are absolutely correct.
 
-> So long as I don't give up, the possibility of winning will never fall to zero.
-
-**— Tetsuya Kuroko**  
-*Kuroko's Basketball - duplicate*
+**— Guy Cecil**  
+*Tales of the Abyss*
 
 <!--END_ANIME_QUOTE-->
 

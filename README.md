@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png" width="180" /></p>
 
-> {TO NARUTO} Oh, by the way... I'm a boy
 
-**— Haku**  
-*Naruto*
+> I'm just a dude who's way ahead of his time you know? Does that mean I was born too early because time can't keep up with me?
+
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14523-yFjXVeK6c6IE.png" width="180" /></p>
 
-> What is the resulting amperage when applying 3.0V to a conductor with 20ohm resistance?
+> I'm actually a hardcore otaku who likes maids more than having three meals a day. And I only read books related to maids. Also, I only visit maid cafes. Of course, I also collect maid figurines. I play games which feature female maids and it turns me on so much. Then I wear maid uniforms and jump in joy. I'll take my leave now.
 
-**— Yuzuru Otonashi**  
-*Angel Beats!*
+**— Takumi Usui**  
+*Maid Sama!*
 
 <!--END_ANIME_QUOTE-->
 

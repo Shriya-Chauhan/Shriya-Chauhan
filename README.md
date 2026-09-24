@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
 
+> What is the resulting amperage when applying 3.0V to a conductor with 20ohm resistance?
 
-> I'm just a dude who's way ahead of his time you know? Does that mean I was born too early because time can't keep up with me?
-
-**— Black Star**  
-*Soul Eater*
+**— Yuzuru Otonashi**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

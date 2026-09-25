@@ -53,10 +53,10 @@
 
 
 
-> [after witnessing a small argument between Inuyasha and Kagome] Inuyasha, your patience with this creature is astonishing to me. You protect her, indulge her, even seem to love her.
+> It's time I started living my own life.
 
-**— Sesshomaru**  
-*InuYasha*
+**— Mello**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

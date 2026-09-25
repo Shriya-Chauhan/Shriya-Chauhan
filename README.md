@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b80-26EhwSsSqQ50.png" width="180" /></p>
 
-> Maybe... just maybe, the light can reach even the bottom of a dark ocean.
+> He was someone who deserved to die.
 
-**— Kousei Arima**  
-*Your Lie in April*
+**— Light Yagami**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

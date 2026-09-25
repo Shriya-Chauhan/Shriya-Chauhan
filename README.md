@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b69407-eyIvpsFPeARS.png" width="180" /></p>
 
+> Maybe... just maybe, the light can reach even the bottom of a dark ocean.
 
-> Love does not hurt when you're loving the right person.
-
-**— Tachibana Marika**  
-*Nisekoi: False Love*
+**— Kousei Arima**  
+*Your Lie in April*
 
 <!--END_ANIME_QUOTE-->
 

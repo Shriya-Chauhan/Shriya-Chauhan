@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png" width="180" /></p>
 
-> [To Lan Fan] Brat, quit blabbering on about trifling topics such as love and sadness. Don't underestimate us. She's the woman I chose. A will is unnecessary between us. That's usually how it is between a King and his companion.
 
-**— King Bradley**  
-*Fullmetal Alchemist*
+> [after witnessing a small argument between Inuyasha and Kagome] Inuyasha, your patience with this creature is astonishing to me. You protect her, indulge her, even seem to love her.
+
+**— Sesshomaru**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

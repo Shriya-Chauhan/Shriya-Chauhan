@@ -53,10 +53,10 @@
 
 
 
-> It's time I started living my own life.
+> Love does not hurt when you're loving the right person.
 
-**— Mello**  
-*Death Note*
+**— Tachibana Marika**  
+*Nisekoi: False Love*
 
 <!--END_ANIME_QUOTE-->
 

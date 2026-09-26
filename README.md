@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png" width="180" /></p>
 
-> That was worth an academy award, Light.
+> I don't need to be like I was back then. What I want most is to win. The time to change is now!
 
-**— Ryuk**  
-*Death Note*
+**— Yoichi Isagi**  
+*Blue Lock*
 
 <!--END_ANIME_QUOTE-->
 

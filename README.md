@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg" width="180" /></p>
 
-> I don't need to be like I was back then. What I want most is to win. The time to change is now!
+> Prophecies don't ever come true.
 
-**— Yoichi Isagi**  
-*Blue Lock*
+**— Saitama**  
+*One Punch Man*
 
 <!--END_ANIME_QUOTE-->
 

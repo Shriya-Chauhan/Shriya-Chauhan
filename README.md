@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/2181.jpg" width="180" /></p>
 
+> If you want to know the truth, you must have the courage to accept it.
 
-> [to Ichigo] You're a Soul Reaper and I'm a Hollow. Whichever side loses will be massacred! It's been that way for over a thousand years! Who needs any more reason than that?! Now bring it! The last man standing gets to go home alive! That's all there is to it!
-
-**— Grimmjow Jeagerjaques**  
-*Bleach*
+**— Bear**  
+*.hack//Sign*
 
 <!--END_ANIME_QUOTE-->
 

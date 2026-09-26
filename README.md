@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/2181.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png" width="180" /></p>
 
-> If you want to know the truth, you must have the courage to accept it.
+> Nothing less from you, Azusagawa. Such a rascal.
 
-**— Bear**  
-*.hack//Sign*
+**— Rio Futaba**  
+*Rascal Does Not Dream of Bunny Girl Senpai*
 
 <!--END_ANIME_QUOTE-->
 

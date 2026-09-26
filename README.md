@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b75-IkEpzO21LgFy.jpg" width="180" /></p>
 
-> Nothing less from you, Azusagawa. Such a rascal.
+> That was worth an academy award, Light.
 
-**— Rio Futaba**  
-*Rascal Does Not Dream of Bunny Girl Senpai*
+**— Ryuk**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

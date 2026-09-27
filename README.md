@@ -53,10 +53,10 @@
 
 
 
-> Who the hell are they? Pedophile yakuza?
+> No matter how much is in your heart, if you don’t tell that person, then it’s meaningless.
 
-**— Shimura Shinpachi**  
-*Gintama*
+**— Junjou Romantica**  
+*Junjo Romantica*
 
 <!--END_ANIME_QUOTE-->
 

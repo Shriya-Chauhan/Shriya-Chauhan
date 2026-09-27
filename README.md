@@ -53,10 +53,10 @@
 
 
 
-> No matter how much is in your heart, if you don’t tell that person, then it’s meaningless.
+> All we can do is live while losing things.
 
-**— Junjou Romantica**  
-*Junjo Romantica*
+**— Renji Yomo**  
+*Tokyo Ghoul*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b41949-LaoaHJ2tJxBw.png" width="180" /></p>
 
-> If you keep lying like that, no one, not even yourself, will believe you anymore.
 
-**— Aladdin**  
-*Magi - The Labyrinth of Magic*
+> Who the hell are they? Pedophile yakuza?
+
+**— Shimura Shinpachi**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

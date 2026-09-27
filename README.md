@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b73935-ON5d0mAcrItd.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b18323-yDl2JX1vF19h.png" width="180" /></p>
 
-> Prophecies don't ever come true.
+> If you're helping someone and expecting something in return, you're doing business not kindness.
 
-**— Saitama**  
-*One Punch Man*
+**— Shirayuki**  
+*Snow White with the Red Hair*
 
 <!--END_ANIME_QUOTE-->
 

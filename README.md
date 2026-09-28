@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/8027.jpg" width="180" /></p>
 
+> Even in the darkness, I’m sure it’s reassuring to have someone there to walk with you.
 
-> Even in the depths of Hell... blooms a beautiful flower of friendship... leaving its petals as mementos... bobbing back and forth on the waves... may it one day bloom once more...the Okama Way.
-
-**— Mr. 2 Bon Clay**  
-*One Piece*
+**— Noe Isurugi**  
+*True Tears*
 
 <!--END_ANIME_QUOTE-->
 

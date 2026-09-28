@@ -53,10 +53,10 @@
 
 
 
-> All we can do is live while losing things.
+> Even in the depths of Hell... blooms a beautiful flower of friendship... leaving its petals as mementos... bobbing back and forth on the waves... may it one day bloom once more...the Okama Way.
 
-**— Renji Yomo**  
-*Tokyo Ghoul*
+**— Mr. 2 Bon Clay**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/8027.jpg" width="180" /></p>
 
-> Even in the darkness, I’m sure it’s reassuring to have someone there to walk with you.
 
-**— Noe Isurugi**  
-*True Tears*
+> I don't like practice. I just hate losing even more.
+
+**— Atsushi Murasakibara**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

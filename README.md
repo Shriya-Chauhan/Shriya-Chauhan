@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png" width="180" /></p>
 
-> Weaklings will stay weak forever. But weakness is not evil, since human beings are weak creatures to begin with. Alone, you feel nothing but insecurity; that's why we form guilds, that's why we have friends. We walk together in order to live a strong life. The clumsy ones will walk into more walls than the others, and it may also take them longer to get there. If you believe in tomorrow and put yourself out there, you can naturally obtain your strength. That's how you will be able to smile and live strong.
+> Whose fault is it that things ended up like this? Coincidence? An accident? Fate? There's no such thing as fate. It's simply a combination of one circumstance and the next. And who is it that creates those circumstances? Who is it? It's you.
 
-**— Makarov Dreyar**  
-*Fairy Tail*
+**— Rize Kamishiro**  
+*Tokyo Ghoul*
 
 <!--END_ANIME_QUOTE-->
 

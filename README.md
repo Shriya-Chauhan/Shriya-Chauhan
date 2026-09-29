@@ -53,10 +53,10 @@
 
 
 
-> Make a contract with me, and become a magical girl!
+> Running away isn’t the same thing as losing. You only truly lose by dying. So as long you’re alive, you win.
 
-**— Kyubee**  
-*Puella Magi Madoka Magica*
+**— Senator Figaro**  
+*Valvrave the Liberator*
 
 <!--END_ANIME_QUOTE-->
 

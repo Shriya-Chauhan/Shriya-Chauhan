@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b22370-pNQxFEv1K7lS.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg" width="180" /></p>
 
-> I only have one chance to have my life, and it's right here. It's the only life I have. This is my life. I can't give it to anyone else, It can't be stolen, I can't force it on anyone, or forget it, or make it disappear, or trample on it, or laugh it away, or beautify it. I have no choice but to accept this one cruel, meaningless life! That's why I will fight, and why I will continue fighting.
+> Weaklings will stay weak forever. But weakness is not evil, since human beings are weak creatures to begin with. Alone, you feel nothing but insecurity; that's why we form guilds, that's why we have friends. We walk together in order to live a strong life. The clumsy ones will walk into more walls than the others, and it may also take them longer to get there. If you believe in tomorrow and put yourself out there, you can naturally obtain your strength. That's how you will be able to smile and live strong.
 
-**— Yuri Nakamura**  
-*Angel Beats!*
+**— Makarov Dreyar**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

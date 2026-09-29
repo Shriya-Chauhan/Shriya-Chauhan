@@ -53,10 +53,10 @@
 
 
 
-> I don't like practice. I just hate losing even more.
+> Make a contract with me, and become a magical girl!
 
-**— Atsushi Murasakibara**  
-*Kuroko's Basketball - duplicate*
+**— Kyubee**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

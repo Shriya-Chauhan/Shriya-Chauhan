@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg" width="180" /></p>
 
-> Papa was only 18 years old when I was born. He used to read a lot of books to me back then.
+> For you, I will remove every obstacle that keeps us apart. One day. Just know that.
 
-**— Maka Albarn**  
-*Soul Eater*
+**— Jinshi**  
+*The Apothecary Diaries*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88413-FmAvV0hGSljG.png" width="180" /></p>
 
-> Whose fault is it that things ended up like this? Coincidence? An accident? Fate? There's no such thing as fate. It's simply a combination of one circumstance and the next. And who is it that creates those circumstances? Who is it? It's you.
 
-**— Rize Kamishiro**  
-*Tokyo Ghoul*
+> [after Naruto does his Shadow Clone Jutsu] Oh, there sure is a lot of garbage scattered around here. But, trash is just trash after all. It simply needs to be cleaned up.
+
+**— Kimimaro**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

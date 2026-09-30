@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
+> I don't know what you're trying to pull, but I'm not into this kinky stuff, and you're WAY too old!
 
-> [after Naruto does his Shadow Clone Jutsu] Oh, there sure is a lot of garbage scattered around here. But, trash is just trash after all. It simply needs to be cleaned up.
-
-**— Kimimaro**  
-*Naruto*
+**— Yuusuke Urameshi**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8439-5TIyWlfClnMs.png" width="180" /></p>
 
-> I don't know what you're trying to pull, but I'm not into this kinky stuff, and you're WAY too old!
+> Papa was only 18 years old when I was born. He used to read a lot of books to me back then.
 
-**— Yuusuke Urameshi**  
-*Yu Yu Hakusho*
+**— Maka Albarn**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

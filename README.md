@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b83463-juPSiLKxkgxD.png" width="180" /></p>
 
+> There's no way of telling what people will do when their entire world gets turned upside down. There are people who selfishly take advantage  of the chaos and nice people who try to help others before even worrying about themselves.
 
-> Men select women based on emotion. Even if there's a reason, it's only secondary. However, women select men based on reason. Either by something like his class ranking or his standing in society.
-
-**— Makina**  
-*Brynhildr in the Darkness*
+**— Rika Suzuki**  
+*The Devil is a Part-Timer!*
 
 <!--END_ANIME_QUOTE-->
 

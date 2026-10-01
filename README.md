@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png" width="180" /></p>
 
+> Don't kid yourself, Mustang. You know how humans love to watch other people suffer while making fools of themselves. I mean, why else would you constantly be at war with each other?
 
-> The only times we're fated to lose are in fictional stories. This is our drama! We decide what the plot will be!
-
-**— Taiga Kagami**  
-*Kuroko's Basketball - duplicate*
+**— Envy**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

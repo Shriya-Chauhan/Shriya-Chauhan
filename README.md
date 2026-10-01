@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg" width="180" /></p>
 
-> For you, I will remove every obstacle that keeps us apart. One day. Just know that.
 
-**— Jinshi**  
-*The Apothecary Diaries*
+> The only times we're fated to lose are in fictional stories. This is our drama! We decide what the plot will be!
+
+**— Taiga Kagami**  
+*Kuroko's Basketball - duplicate*
 
 <!--END_ANIME_QUOTE-->
 

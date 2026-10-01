@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png" width="180" /></p>
 
-> Don't kid yourself, Mustang. You know how humans love to watch other people suffer while making fools of themselves. I mean, why else would you constantly be at war with each other?
 
-**— Envy**  
-*Fullmetal Alchemist*
+> Men select women based on emotion. Even if there's a reason, it's only secondary. However, women select men based on reason. Either by something like his class ranking or his standing in society.
+
+**— Makina**  
+*Brynhildr in the Darkness*
 
 <!--END_ANIME_QUOTE-->
 

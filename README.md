@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b83463-juPSiLKxkgxD.png" width="180" /></p>
 
-> There's no way of telling what people will do when their entire world gets turned upside down. There are people who selfishly take advantage  of the chaos and nice people who try to help others before even worrying about themselves.
 
-**— Rika Suzuki**  
-*The Devil is a Part-Timer!*
+> Is there really a god? If there is one, why does he keep me confined in here?
+
+**— Kimimaro**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

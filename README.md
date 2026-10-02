@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/7369.jpg" width="180" /></p>
 
+> Things learned as a child stay with you forever.
 
-> Is there really a god? If there is one, why does he keep me confined in here?
-
-**— Kimimaro**  
-*Naruto*
+**— Cosette Sara**  
+*Excel Saga*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/7369.jpg" width="180" /></p>
 
-> Things learned as a child stay with you forever.
 
-**— Cosette Sara**  
-*Excel Saga*
+> It was an egg-cident! Get it? 'Egg?
+
+**— Ash Ketchum**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

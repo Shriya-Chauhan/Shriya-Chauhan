@@ -53,10 +53,10 @@
 
 
 
-> It was an egg-cident! Get it? 'Egg?
+> The double grief of a lost bliss is to recall its happy hour in pain.
 
-**— Ash Ketchum**  
-*Pokémon*
+**— Shuichiro Keido**  
+*Guilty Crown*
 
 <!--END_ANIME_QUOTE-->
 

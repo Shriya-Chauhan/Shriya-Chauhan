@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
 
-> Survivability takes priority.
+> You're a team player, a save-the-day superhero... I hate people like you.
 
-**— Misato Katsuragi**  
-*Neon Genesis Evangelion*
+**— Hiei**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

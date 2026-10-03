@@ -53,10 +53,10 @@
 
 
 
-> I thought that, if I could shorten the distance between us, and if you would like me back, then the me that ran away - the dirty me - would be washed away. (To Kyo)
+> Akamaru, what's wrong boy? Have you forgotten my scent? We've always been together haven't we? We grew up together. Akamaru please, somewhere in there, there has to be a part of you that remembers. Show me that you remember. AKAMARU! Forgive me. Can you? I know that I've brought you nothing but pain and suffering. I broke my word. I swore I'd always protect you. Akamaru I'm sorry. Sorry I wasn't a better master. I'm here. Here for you. Forever.
 
-**— Sohma Kagura**  
-*Fruits Basket*
+**— Kiba Inuzuka**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

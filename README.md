@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1169-tIWNE5shc8pF.png" width="180" /></p>
 
+> Give a man a break, and you'll end up broken.
 
-> Akamaru, what's wrong boy? Have you forgotten my scent? We've always been together haven't we? We grew up together. Akamaru please, somewhere in there, there has to be a part of you that remembers. Show me that you remember. AKAMARU! Forgive me. Can you? I know that I've brought you nothing but pain and suffering. I broke my word. I swore I'd always protect you. Akamaru I'm sorry. Sorry I wasn't a better master. I'm here. Here for you. Forever.
-
-**— Kiba Inuzuka**  
-*Naruto*
+**— Lina Inverse**  
+*Slayers*
 
 <!--END_ANIME_QUOTE-->
 

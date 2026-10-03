@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
 
-> You're a team player, a save-the-day superhero... I hate people like you.
 
-**— Hiei**  
-*Yu Yu Hakusho*
+> I thought that, if I could shorten the distance between us, and if you would like me back, then the me that ran away - the dirty me - would be washed away. (To Kyo)
+
+**— Sohma Kagura**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

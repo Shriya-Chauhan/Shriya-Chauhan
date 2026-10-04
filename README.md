@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2033-7N7z59gPWsok.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b32458-LTnU8CCcCaOu.jpg" width="180" /></p>
 
-> Because my time is limited, I don't have any time to waste hesitating. That is why I can walk straight ahead. That is why I never stop.
+> Are you talking to me, scum? I'm God.
 
-**— Rosette Christopher**  
-*Chrono Crusade*
+**— Ayato Naoi**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

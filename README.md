@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1169-tIWNE5shc8pF.png" width="180" /></p>
 
-> Give a man a break, and you'll end up broken.
 
-**— Lina Inverse**  
-*Slayers*
+> People in supervising positions in investigation are supposed to give too much of their opinion, and if they are wrong, all it would take is an apology.
+
+**— Near**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

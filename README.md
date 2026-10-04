@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b32458-LTnU8CCcCaOu.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg" width="180" /></p>
 
-> Are you talking to me, scum? I'm God.
+> They don't call me Greed for nothing! I want money, I want women, status and power! I want everything this world's selling and eternity's topping the list!
 
-**— Ayato Naoi**  
-*Angel Beats!*
+**— Greed**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

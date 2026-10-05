@@ -53,10 +53,10 @@
 
 
 
-> Be thankful for the blood… You are not allowed to spill even a single drop on the ground… for if you do… your torso and head shall have a sorrowful parting.
+> Laziness is the mother of all bad habits. But ultimately she is a mother and we should respect her.
 
-**— Kokushibo**  
-*Demon Slayer: Kimetsu no Yaiba*
+**— Nara Shikamaru**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

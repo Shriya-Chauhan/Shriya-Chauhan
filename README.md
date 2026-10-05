@@ -53,10 +53,10 @@
 
 
 
-> I could go one step farther if I wanted to.
+> All things change in a dynamic environment. Your effort to remain what you are is what limits you.
 
-**— Son Goku**  
-*Dragon Ball*
+**— Puppet Master**  
+*Ghost in the Shell*
 
 <!--END_ANIME_QUOTE-->
 

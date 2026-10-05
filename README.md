@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg" width="180" /></p>
 
-> They don't call me Greed for nothing! I want money, I want women, status and power! I want everything this world's selling and eternity's topping the list!
 
-**— Greed**  
-*Fullmetal Alchemist*
+> Be thankful for the blood… You are not allowed to spill even a single drop on the ground… for if you do… your torso and head shall have a sorrowful parting.
+
+**— Kokushibo**  
+*Demon Slayer: Kimetsu no Yaiba*
 
 <!--END_ANIME_QUOTE-->
 

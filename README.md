@@ -53,10 +53,10 @@
 
 
 
-> Laziness is the mother of all bad habits. But ultimately she is a mother and we should respect her.
+> I don't wanna live a thousand years. If I just live through today, that'll be enough.
 
-**— Nara Shikamaru**  
-*Naruto*
+**— Portgas D. Ace**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

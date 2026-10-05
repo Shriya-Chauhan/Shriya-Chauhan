@@ -53,10 +53,10 @@
 
 
 
-> I don't wanna live a thousand years. If I just live through today, that'll be enough.
+> I could go one step farther if I wanted to.
 
-**— Portgas D. Ace**  
-*One Piece*
+**— Son Goku**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

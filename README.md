@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg" width="180" /></p>
 
+> You’re not a strong person, so you can really understand how weak people feel. I mean… Most humans are weak, including me… But if I got an order from someone who saw things like I do, no matter how tough it was, I’d do my damnedest to carry it out.
 
-> All things change in a dynamic environment. Your effort to remain what you are is what limits you.
-
-**— Puppet Master**  
-*Ghost in the Shell*
+**— Marco Bott**  
+*Attack on Titan*
 
 <!--END_ANIME_QUOTE-->
 

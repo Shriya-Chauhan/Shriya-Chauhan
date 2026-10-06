@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
 
-> You’re not a strong person, so you can really understand how weak people feel. I mean… Most humans are weak, including me… But if I got an order from someone who saw things like I do, no matter how tough it was, I’d do my damnedest to carry it out.
+> I hate, hate, HATE everyone. But that’s okay. I can use my screams to blow them all away. I’m sure dead people are a lot easier to deal with.
 
-**— Marco Bott**  
-*Attack on Titan*
+**— Crona**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

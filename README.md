@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png" width="180" /></p>
 
-> I hate, hate, HATE everyone. But that’s okay. I can use my screams to blow them all away. I’m sure dead people are a lot easier to deal with.
+> Justice is a weapon. It can be used to cause harm, but it cannot protect or save others.
 
-**— Crona**  
-*Soul Eater*
+**— Osamu Dazai**  
+*Bungo Stray Dogs*
 
 <!--END_ANIME_QUOTE-->
 

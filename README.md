@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b89198-qKmRTw4Y3PRC.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png" width="180" /></p>
 
-> Justice is a weapon. It can be used to cause harm, but it cannot protect or save others.
+> Right now, I'm lightheaded in reality, and in my mind, so misguided or not, I can be a hero, too.
 
-**— Osamu Dazai**  
-*Bungo Stray Dogs*
+**— Shinra Kusakabe**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

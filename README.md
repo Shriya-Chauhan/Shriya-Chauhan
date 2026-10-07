@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/24511.jpg" width="180" /></p>
 
-> Right now, I'm lightheaded in reality, and in my mind, so misguided or not, I can be a hero, too.
+> Oh man, my heart is pounding. I'm eating snacks in the middle of class! I ate it! I totally ate it! Boldly eating snacks in the middle of class! I'm being so reckless!
 
-**— Shinra Kusakabe**  
-*Fire Force*
+**— Ooyama**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

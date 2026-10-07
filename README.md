@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png" width="180" /></p>
 
-> The minute you think of giving up, think of the reason why you held on so long.
 
-**— Natsu Dragneel**  
-*Fairy Tail*
+> Even if a question has a proper answer, sometimes one cannot simply give it away.
+
+**— Horo**  
+*Spice and Wolf*
 
 <!--END_ANIME_QUOTE-->
 

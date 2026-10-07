@@ -53,10 +53,10 @@
 
 
 
-> Even if a question has a proper answer, sometimes one cannot simply give it away.
+> Did you know? If a colony of ants gets rid of the laziest one, another one will just start being lazy instead?
 
-**— Horo**  
-*Spice and Wolf*
+**— Itami Youji**  
+*GATE*
 
 <!--END_ANIME_QUOTE-->
 

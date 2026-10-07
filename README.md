@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/24511.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png" width="180" /></p>
 
-> Oh man, my heart is pounding. I'm eating snacks in the middle of class! I ate it! I totally ate it! Boldly eating snacks in the middle of class! I'm being so reckless!
+> The minute you think of giving up, think of the reason why you held on so long.
 
-**— Ooyama**  
-*Angel Beats!*
+**— Natsu Dragneel**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

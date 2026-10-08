@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14941-qh15JS5cEQDL.jpg" width="180" /></p>
 
+> I guess I'm a girl who lacks self-awareness as one, or just too manly, eh?
 
-> Did you know? If a colony of ants gets rid of the laziest one, another one will just start being lazy instead?
-
-**— Itami Youji**  
-*GATE*
+**— Misaki Ayuzawa**  
+*Maid Sama!*
 
 <!--END_ANIME_QUOTE-->
 

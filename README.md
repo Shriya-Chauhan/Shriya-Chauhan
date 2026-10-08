@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> Their mistakes were simple ones. Gouki's mistake was being overconfident and Kurama's... sympathy for his human prey.
+> The "tsun" personality is an armor that protects purity. An iron virgin.
 
-**— Hiei**  
-*Yu Yu Hakusho*
+**— Keima Katsuragi**  
+*The World God Only Knows*
 
 <!--END_ANIME_QUOTE-->
 

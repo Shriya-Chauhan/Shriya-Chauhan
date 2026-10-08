@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14941-qh15JS5cEQDL.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2392-B8yDW1uY2QG7.jpg" width="180" /></p>
 
-> I guess I'm a girl who lacks self-awareness as one, or just too manly, eh?
+> To me, death is not the scariest thing at all.
 
-**— Misaki Ayuzawa**  
-*Maid Sama!*
+**— Mikan Sakura**  
+*Gakuen Alice*
 
 <!--END_ANIME_QUOTE-->
 

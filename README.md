@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2392-B8yDW1uY2QG7.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
 
-> To me, death is not the scariest thing at all.
+> Their mistakes were simple ones. Gouki's mistake was being overconfident and Kurama's... sympathy for his human prey.
 
-**— Mikan Sakura**  
-*Gakuen Alice*
+**— Hiei**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8305-EGm4vAcY75BG.jpg" width="180" /></p>
 
-> You can take control of my mind and my body, but there is one thing a Saiyan always keep… his PRIDE!
+> Nothing that happens is ever forgotten, even if you can't remember it.
 
-**— Vegeta**  
-*Dragon Ball Z*
+**— Zeniba**  
+*Spirited Away*
 
 <!--END_ANIME_QUOTE-->
 

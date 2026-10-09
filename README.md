@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8305-EGm4vAcY75BG.jpg" width="180" /></p>
 
-> Nothing that happens is ever forgotten, even if you can't remember it.
 
-**— Zeniba**  
-*Spirited Away*
+> (thinking) I can't stand up...on my own. I can't go...any further. Not...all by myself.
+
+**— Sohma Rin**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

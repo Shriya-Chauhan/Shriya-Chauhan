@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
 
-> The "tsun" personality is an armor that protects purity. An iron virgin.
+> The doors here only open one way. They open inward.
 
-**— Keima Katsuragi**  
-*The World God Only Knows*
+**— Crona**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

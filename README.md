@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png" width="180" /></p>
 
-> The doors here only open one way. They open inward.
+> You can take control of my mind and my body, but there is one thing a Saiyan always keep… his PRIDE!
 
-**— Crona**  
-*Soul Eater*
+**— Vegeta**  
+*Dragon Ball Z*
 
 <!--END_ANIME_QUOTE-->
 

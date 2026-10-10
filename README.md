@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
 
-> Even as a child, I found tremendous pleasure in spilling my enemy's blood. Their screams of agony were my music. Once I learned that my mother's frozen tear drop was valuable, I began wearing in open sight of everyone, hoping their greed would entice them to challenge me, thus giving me the opportunity for my next kill.
 
-**— Hiei**  
-*Yu Yu Hakusho*
+> I was born alone in this world and alone I will die. If this is my fate, why are tears coming out of my eyes?
+
+**— Alan Humphries**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

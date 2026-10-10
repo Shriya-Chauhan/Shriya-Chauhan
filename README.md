@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png" width="180" /></p>
 
+> There's no way someone who can't even protect himself can protect anyone else, is there?
 
-> I was born alone in this world and alone I will die. If this is my fate, why are tears coming out of my eyes?
-
-**— Alan Humphries**  
-*Black Butler*
+**— Touka Kirishima**  
+*Tokyo Ghoul*
 
 <!--END_ANIME_QUOTE-->
 

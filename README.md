@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg" width="180" /></p>
 
+> We're nothing like God. Not only do we have limited powers, but sometimes we're driven to become the devil himself.
 
-> (thinking) I can't stand up...on my own. I can't go...any further. Not...all by myself.
-
-**— Sohma Rin**  
-*Fruits Basket*
+**— Nicholas D. Wolfwood**  
+*Trigun*
 
 <!--END_ANIME_QUOTE-->
 

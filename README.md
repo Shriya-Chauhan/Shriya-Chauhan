@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b722-Ernx5wHAXugB.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b732-rg4H7yyv3LRo.png" width="180" /></p>
 
-> We're nothing like God. Not only do we have limited powers, but sometimes we're driven to become the devil himself.
+> Even as a child, I found tremendous pleasure in spilling my enemy's blood. Their screams of agony were my music. Once I learned that my mother's frozen tear drop was valuable, I began wearing in open sight of everyone, hoping their greed would entice them to challenge me, thus giving me the opportunity for my next kill.
 
-**— Nicholas D. Wolfwood**  
-*Trigun*
+**— Hiei**  
+*Yu Yu Hakusho*
 
 <!--END_ANIME_QUOTE-->
 

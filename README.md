@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b87277-oUaqrI1iBzu6.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
 
-> There's no way someone who can't even protect himself can protect anyone else, is there?
+> It's all useless.
 
-**— Touka Kirishima**  
-*Tokyo Ghoul*
+**— Homura Akemi**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

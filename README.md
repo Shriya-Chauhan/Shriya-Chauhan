@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png" width="180" /></p>
 
-> I have so many things I want to say, so many things I want to ask you, but... When I see your face... None of that matters anymore!
 
-**— Esdeath**  
-*Akame ga Kill!*
+> [about his deceased friend] I never overcame my shyness and told her that I actually liked clouds.
+
+**— Tousen Kaname**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

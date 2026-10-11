@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b434-Q0K9e4HukawA.png" width="180" /></p>
 
-> It's all useless.
+> We cannot go back to the past, no matter how hard we try. No matter how wonderful it was. The past is nothing but the past.
 
-**— Homura Akemi**  
-*Puella Magi Madoka Magica*
+**— Eikichi Onizuka**  
+*Great Teacher Onizuka*
 
 <!--END_ANIME_QUOTE-->
 

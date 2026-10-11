@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/23208.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b65239-2S3t2vSyUew9.png" width="180" /></p>
 
-> Romance is just trying to convey your feelings to another person.
+> I have so many things I want to say, so many things I want to ask you, but... When I see your face... None of that matters anymore!
 
-**— Tadashi Isogai**  
-*Living for the Day After Tomorrow*
+**— Esdeath**  
+*Akame ga Kill!*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b114-R2qjrrCKVuBk.png" width="180" /></p>
 
+> Using a rescued civilian as a hostage? So do you still feel justified in fighting by their side with these cowards? Kira?
 
-> [about his deceased friend] I never overcame my shyness and told her that I actually liked clouds.
-
-**— Tousen Kaname**  
-*Bleach*
+**— Athrun Zala**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

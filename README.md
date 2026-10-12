@@ -53,10 +53,10 @@
 
 
 
-> Doesn't even think about giving up just because it's useless! The moment you give up is when your life ends.
+> In the long flow of time, living things know nothing of their ancestors, except for the genes they’ve inherited. Only mankind has history. Having a history differentiates mankind from all other living species. That’s why I wanted to be a historian.
 
-**— Ushiromiya Jessica**  
-*Umineko: When They Cry*
+**— Yang Wenli**  
+*Legend of the Galactic Heroes*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b114-R2qjrrCKVuBk.png" width="180" /></p>
 
-> Using a rescued civilian as a hostage? So do you still feel justified in fighting by their side with these cowards? Kira?
 
-**— Athrun Zala**  
-*Mobile Suit Gundam SEED*
+> Doesn't even think about giving up just because it's useless! The moment you give up is when your life ends.
+
+**— Ushiromiya Jessica**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

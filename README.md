@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b114-R2qjrrCKVuBk.png" width="180" /></p>
 
+> Kira... what are you thinking about, now?
 
-> In the long flow of time, living things know nothing of their ancestors, except for the genes they’ve inherited. Only mankind has history. Having a history differentiates mankind from all other living species. That’s why I wanted to be a historian.
-
-**— Yang Wenli**  
-*Legend of the Galactic Heroes*
+**— Athrun Zala**  
+*Mobile Suit Gundam SEED*
 
 <!--END_ANIME_QUOTE-->
 

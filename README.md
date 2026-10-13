@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/88786-toDBw77jbCTx.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> When you say you "can't hear the sound", doesn't it really mean you "aren't restrained by the sound"? Rather than the sound you hear with your ears, an image inside you is boiling up from the depths of yourself and taking over without you even knowing. The sound inside, the landscape in your heart, your wishes, a sound loaded with your thoughts; didn't you feel it, even for a moment? "Not being able to hear the sound." That is a gift.
+> I don't think ignorance is necessarily a bad thing. The more you know, the more problems you have.
 
-**— Hiroko Seto**  
-*Your Lie in April*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU*
 
 <!--END_ANIME_QUOTE-->
 

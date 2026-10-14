@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png" width="180" /></p>
 
-> The minute you think of giving up, think of the reason why you held on so long.
 
-**— Natsu Dragneel**  
-*Fairy Tail*
+> *to Ichigo* So you're the human who got his powers from Rukia?
+
+**— Abarai Renji**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b729-V6GlADOEZv3x.png" width="180" /></p>
 
-> Ugly people shouldn't be allowed to smile that much!
 
-**— Yuusuke Urameshi**  
-*Yu Yu Hakusho*
+> Every time you and I interact...a bit of "heart" is born between us. Heart isn't something inside you. But whenever you think, whenever you remember someone, that's when heart is born. I mean, if you were the only one alive in the whole world, heart wouldn't exist, now would it?
+
+**— Shiba Kaien**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

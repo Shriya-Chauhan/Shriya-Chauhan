@@ -53,10 +53,10 @@
 
 
 
-> *to Ichigo* So you're the human who got his powers from Rukia?
+> *To himself, while fighting Temari* Oh man... those clouds are so lucky. so free. More to the point, I didn't feel like doing this in the first place. And I only became a ninja because I thought life would've been more interesting as one... I suppose things aren't gonna be that simple.
 
-**— Abarai Renji**  
-*Bleach*
+**— Nara Shikamaru**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

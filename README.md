@@ -53,10 +53,10 @@
 
 
 
-> We’ll deal with our problems in our own world.
+> The truth is the truth, regardless of whether it comes out of a genius' mouth or a commoner's.
 
-**— Draken**  
-*Tokyo Revengers*
+**— Tsuchimikado Natsume**  
+*Tokyo Ravens*
 
 <!--END_ANIME_QUOTE-->
 

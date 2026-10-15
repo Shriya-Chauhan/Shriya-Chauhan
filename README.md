@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
+> Alchemy: The science of understanding the structure of matter, breaking it down, then reconstructing it as something else. It can even make gold from lead. But alchemy is a science, so it must follow the natural laws: To create, something of equal value must be lost. This is the principle of Equivalent Exchange. But on that night, I learned the value of some things can't be measured on a simple scale. My brother and I knew the laws of science, of Equivalent Exchange, that gain required sacrifice, that something had to be taken from us. But we thought there was nothing more we could lose. We were wrong.
 
-> *To himself, while fighting Temari* Oh man... those clouds are so lucky. so free. More to the point, I didn't feel like doing this in the first place. And I only became a ninja because I thought life would've been more interesting as one... I suppose things aren't gonna be that simple.
-
-**— Nara Shikamaru**  
-*Naruto*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

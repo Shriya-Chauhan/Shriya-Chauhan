@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
 
+> Thus I found myself carrying the entire weight of the troop as I preformed my dance before a capacity crowd at the opera house.
 
-> The truth is the truth, regardless of whether it comes out of a genius' mouth or a commoner's.
-
-**— Tsuchimikado Natsume**  
-*Tokyo Ravens*
+**— Excalibur**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

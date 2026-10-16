@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13046-tUKfeqS9MNIf.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png" width="180" /></p>
 
-> Thus I found myself carrying the entire weight of the troop as I preformed my dance before a capacity crowd at the opera house.
+> All this time, I seriously thought that it's better to die than to live your life alone.
 
-**— Excalibur**  
-*Soul Eater*
+**— Kazuto Kirigaya**  
+*Sword Art Online*
 
 <!--END_ANIME_QUOTE-->
 

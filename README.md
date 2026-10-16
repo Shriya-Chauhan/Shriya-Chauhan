@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png" width="180" /></p>
 
-> All this time, I seriously thought that it's better to die than to live your life alone.
 
-**— Kazuto Kirigaya**  
-*Sword Art Online*
+> Trunks, I never hugged you as a baby... let me hug you.
+
+**— Vegeta**  
+*Dragon Ball*
 
 <!--END_ANIME_QUOTE-->
 

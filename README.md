@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b5186-izgXf2S86K9u.png" width="180" /></p>
 
+> What's the point of magic to begin with... if I can't use it to protect my friends?
 
-> Trunks, I never hugged you as a baby... let me hug you.
-
-**— Vegeta**  
-*Dragon Ball*
+**— Lucy Heartfilia**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24509-5PH1LI0pluva.jpg" width="180" /></p>
 
-> He can't dance in my world right now. Don't let me cry!
 
-**— TK**  
-*Angel Beats!*
+> Stop meddling in Team Rocket's affairs!
+
+**— Rocket Grunt**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

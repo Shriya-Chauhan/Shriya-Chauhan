@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg" width="180" /></p>
 
-> What the fuck is going on?!
 
-**— Takashi Komuro**  
-*Highschool Of The Dead*
+> Sins you've committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don't get forgiven until you die.
+
+**— Koichiro Marito**  
+*Aldnoah.Zero*
 
 <!--END_ANIME_QUOTE-->
 

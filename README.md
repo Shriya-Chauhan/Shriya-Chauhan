@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b425-khK03T5n9Umq.png" width="180" /></p>
 
-> The sun rises today and sets again. A flower that bloomed in the morning, falls from its stem. The sun sets today and rises again. Flowers bloom to fill the land, but not the flowers of yesterday...
 
-**— Ginko**  
-*Mushi-Shi*
+> If you gaze long into an abyss, the abyss also gazes into you.
+
+**— Kang Taeshik**  
+*Solo Leveling*
 
 <!--END_ANIME_QUOTE-->
 

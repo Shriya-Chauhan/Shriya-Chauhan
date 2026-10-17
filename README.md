@@ -53,10 +53,10 @@
 
 
 
-> Sins you've committed cling to your soul and then continue to haunt you forever.The sins that have gone unpunished don't get forgiven until you die.
+> Why did you run away, Chitoge-chan? No... I don't want this... I won't be happy with you just giving up... To end up liking the same person. It's painful, for sure but Chitoge-chan, you like him enough to not be able to face him again after that, don't you? Regardless of who ends up with him, I want to be satisfied when it happens. I thought for sure that you think the same way. Is there a reason why that can't happen? Tell me Chitoge-chan...
 
-**— Koichiro Marito**  
-*Aldnoah.Zero*
+**— Onodera Kosaki**  
+*Nisekoi: False Love*
 
 <!--END_ANIME_QUOTE-->
 

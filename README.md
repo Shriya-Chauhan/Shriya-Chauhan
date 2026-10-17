@@ -53,10 +53,10 @@
 
 
 
-> Stop meddling in Team Rocket's affairs!
+> When you someday find a way of life that you can truly be proud of, you'll be forced into your own battle whether you like it or not.
 
-**— Rocket Grunt**  
-*Pokémon*
+**— Rider**  
+*Fate/Zero*
 
 <!--END_ANIME_QUOTE-->
 

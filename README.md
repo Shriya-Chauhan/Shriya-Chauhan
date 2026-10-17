@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/6045-uXrSnt8CwMFz.jpg" width="180" /></p>
 
+> What the fuck is going on?!
 
-> When you someday find a way of life that you can truly be proud of, you'll be forced into your own battle whether you like it or not.
-
-**— Rider**  
-*Fate/Zero*
+**— Takashi Komuro**  
+*Highschool Of The Dead*
 
 <!--END_ANIME_QUOTE-->
 

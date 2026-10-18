@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png" width="180" /></p>
 
-> A world where everyone is equal and receives the same treatment. No such place exists. If there was a world of equality, where talent and aptitude didn’t matter, we would all be equally snubbed there.
 
-**— Tatsuya Shiba**  
-*The Irregular at Magic High School*
+> There’s no such thing as parents who don’t think about their children. But there are few children who understand their parents feelings.
+
+**— Ichi Terakado**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

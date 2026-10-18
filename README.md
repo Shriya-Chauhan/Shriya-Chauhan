@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b7374-XeKVCsoW129T.png" width="180" /></p>
 
-> A traveler does not leave regret behind in a village, but good memories.
 
-**— Kraft Lawrence**  
-*Spice and Wolf*
+> [to Kyo after they trip] What can I learn from a stupid cat like you? You didn't even know that Jason isn't really a bear! He's a character from a horror film!
+
+**— Sohma Yuki**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

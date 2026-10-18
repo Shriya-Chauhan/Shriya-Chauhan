@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
+> The Devil's finest trick is to persuade you that he does not exist.
 
-> There’s no such thing as parents who don’t think about their children. But there are few children who understand their parents feelings.
-
-**— Ichi Terakado**  
-*Gintama*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

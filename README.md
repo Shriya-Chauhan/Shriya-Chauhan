@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b256-KIpinsCBiZFo.png" width="180" /></p>
 
+> *mockingly* That's amazing, Mikuru! We're counting on you! The Earth is in your-- *breaks into uncontrollable and hysterical laughter*
 
-> If you gaze long into an abyss, the abyss also gazes into you.
-
-**— Kang Taeshik**  
-*Solo Leveling*
+**— Tsuruya**  
+*The Melancholy of Haruhi Suzumiya*
 
 <!--END_ANIME_QUOTE-->
 

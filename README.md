@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b7374-XeKVCsoW129T.png" width="180" /></p>
 
+> A traveler does not leave regret behind in a village, but good memories.
 
-> Even a dim star is sending light somewhere.
-
-**— Imizu Asuhi**  
-*Mikagura School Suite*
+**— Kraft Lawrence**  
+*Spice and Wolf*
 
 <!--END_ANIME_QUOTE-->
 

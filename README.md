@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png" width="180" /></p>
 
+> A world where everyone is equal and receives the same treatment. No such place exists. If there was a world of equality, where talent and aptitude didn’t matter, we would all be equally snubbed there.
 
-> [to Kyo after they trip] What can I learn from a stupid cat like you? You didn't even know that Jason isn't really a bear! He's a character from a horror film!
-
-**— Sohma Yuki**  
-*Fruits Basket*
+**— Tatsuya Shiba**  
+*The Irregular at Magic High School*
 
 <!--END_ANIME_QUOTE-->
 

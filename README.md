@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b913-NIFkKazWM8VO.png" width="180" /></p>
 
-> What’s wrong Frieza? Is your brain another one of your weak and under used muscles?
 
-**— Vegeta**  
-*Dragon Ball Z*
+> For me and Mello, L has been the only person we adore, and the only person who deserves our respect.
+
+**— Near**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

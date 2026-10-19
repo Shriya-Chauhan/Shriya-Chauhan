@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png" width="180" /></p>
 
-> I am a complete opposite of Ryuk.
 
-**— Rem (Death Note)**  
-*Death Note*
+> Toman belongs to me. As long as I’m standing in the background, no one can lose.
+
+**— Mikey**  
+*Tokyo Revengers*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> We could drive them off the entire earth if we had your strength, Gintoki!
+> Humans always pursue things they can’t reach. Doesn’t it single-heartedly symbolize such yearnings?
 
-**— Kotarō Katsura**  
-*Gintama*
+**— Legend of the Galactic Heroes**  
+*Legend of the Galactic Heroes*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> I don't know which is more pathetic; the fool, or those who follow him.
+> Fear isn't evil, it only allows us to learn our own weaknesses. When we learn our weakness, people can grow stronger and kinder.
 
-**— Jirobou**  
-*Naruto*
+**— Gildarts Clive**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

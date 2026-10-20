@@ -53,10 +53,10 @@
 
 
 
-> Fear isn't evil, it only allows us to learn our own weaknesses. When we learn our weakness, people can grow stronger and kinder.
+> We could drive them off the entire earth if we had your strength, Gintoki!
 
-**— Gildarts Clive**  
-*Fairy Tail*
+**— Kotarō Katsura**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

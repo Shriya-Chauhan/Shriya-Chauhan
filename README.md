@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png" width="180" /></p>
 
-> The pain of being alone is completely out of this world, isn't it? I don't know why, but I understand your feelings so much, it actually hurts.
 
-**— Naruto Uzumaki**  
-*Naruto*
+> I started crying. It was the first time in my life that I felt forgiven. Like I was saved. Like the frozen snow that's melted by spring, the tears wouldn't stop.
+
+**— Sohma Hatori**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

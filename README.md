@@ -53,10 +53,10 @@
 
 
 
-> I never ask them to trust me at all. I told them to come with me but I never told them to trust me. And I always tell them not to trust anyone, including myself. But sadly, there are not many strong enough to do that.
+> The last time I let you do my eyebrows it took you a month.
 
-**— Aizen Sousuke**  
-*Bleach*
+**— Elizabeth Thompson**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

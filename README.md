@@ -53,10 +53,10 @@
 
 
 
-> The last time I let you do my eyebrows it took you a month.
+> Don't get too close to him, his stupidity is contagious.
 
-**— Elizabeth Thompson**  
-*Soul Eater*
+**— Hiruma Youichi**  
+*Eyeshield 21*
 
 <!--END_ANIME_QUOTE-->
 

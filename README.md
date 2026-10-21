@@ -53,10 +53,10 @@
 
 
 
-> I started crying. It was the first time in my life that I felt forgiven. Like I was saved. Like the frozen snow that's melted by spring, the tears wouldn't stop.
+> I never ask them to trust me at all. I told them to come with me but I never told them to trust me. And I always tell them not to trust anyone, including myself. But sadly, there are not many strong enough to do that.
 
-**— Sohma Hatori**  
-*Fruits Basket*
+**— Aizen Sousuke**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

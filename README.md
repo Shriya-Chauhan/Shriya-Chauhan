@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b643-nHYwe1Dm7XoR.jpg" width="180" /></p>
 
+> The only thing waiting for you outside is a world of death.
 
-> People who use others are stupid, but people who are used are even more stupid.
-
-**— Aoyagi Ritsuka**  
-*Loveless*
+**— Re-L Mayer**  
+*Ergo Proxy*
 
 <!--END_ANIME_QUOTE-->
 

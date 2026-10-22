@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b643-nHYwe1Dm7XoR.jpg" width="180" /></p>
 
-> The only thing waiting for you outside is a world of death.
 
-**— Re-L Mayer**  
-*Ergo Proxy*
+> [Rangiku steps out of the bath naked to comfort a crying Orihime] There, there! Cry, cry, you poor thing. Drown all of your sorrows in my chest!
+
+**— Matsumoto Rangiku**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

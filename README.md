@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png" width="180" /></p>
 
-> "Checkmate" doesn't mean you've simply cornered the enemy king. It's a declaration that the enemy king is yours. That's why I said it the first time I met you. "Checkmate."
 
-**— Sora**  
-*No Game, No Life*
+> People who use others are stupid, but people who are used are even more stupid.
+
+**— Aoyagi Ritsuka**  
+*Loveless*
 
 <!--END_ANIME_QUOTE-->
 

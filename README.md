@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg" width="180" /></p>
 
-> For the right price, you can buy not only treasures, but dreams, hearts, and even people’s lives.
 
-**— Leorio**  
-*Hunter x Hunter*
+> Even though there's such a thing as an impossible game, there's no such thing as an impossible reality.
+
+**— Kagami Junichirou**  
+*Ultimate Otaku Teacher*
 
 <!--END_ANIME_QUOTE-->
 

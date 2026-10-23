@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/14958.jpg" width="180" /></p>
 
-> Between being eternally unable to wake from a dream, and being eternally unable to dream, which do you think would be more unfortunate? Still, both the dream that we deemed eternal, and this very reality, are destined to end someday.
 
-**— Lau**  
-*Black Butler*
+> Kurosaki-kun... I'm weak, so it's always like I turn back to look to you for help. But now I won't turn back and I'll go forward. The next time we meet I won't look to you for help, Kurosaki-kun, I'll be able to fight on my own.
+
+**— Inoue Orihime**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/14958.jpg" width="180" /></p>
 
+> Between being eternally unable to wake from a dream, and being eternally unable to dream, which do you think would be more unfortunate? Still, both the dream that we deemed eternal, and this very reality, are destined to end someday.
 
-> Even though there's such a thing as an impossible game, there's no such thing as an impossible reality.
-
-**— Kagami Junichirou**  
-*Ultimate Otaku Teacher*
+**— Lau**  
+*Black Butler*
 
 <!--END_ANIME_QUOTE-->
 

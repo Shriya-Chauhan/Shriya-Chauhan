@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg" width="180" /></p>
 
-> Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn.
+> For the right price, you can buy not only treasures, but dreams, hearts, and even people’s lives.
 
-**— Edward Elric**  
-*Fullmetal Alchemist*
+**— Leorio**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

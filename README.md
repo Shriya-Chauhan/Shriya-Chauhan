@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg" width="180" /></p>
 
+> Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn.
 
-> [Rangiku steps out of the bath naked to comfort a crying Orihime] There, there! Cry, cry, you poor thing. Drown all of your sorrows in my chest!
-
-**— Matsumoto Rangiku**  
-*Bleach*
+**— Edward Elric**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

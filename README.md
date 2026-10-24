@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png" width="180" /></p>
 
+> Do you have any idea how terrible the things you did really mean? Do you understand what it means to destroy a human being's sense of good and evil? Can you even begin to comprehend what happens when you awaken the monster inside each us? People should know in their hearts that food tastes good. They should always look forward to having picnics and wonderful places on their weekends. They should think that beer tastes good after a hard day's work. People should know how they should feel, that they're suppose to grieve, from the bottom of their hearts when they have to bury their own child.
 
-> A boy with less than half my strength managed to break my cage!
-
-**— Shoot McMahon**  
-*Hunter x Hunter*
+**— Wolfgang Grimmer**  
+*Monster*
 
 <!--END_ANIME_QUOTE-->
 

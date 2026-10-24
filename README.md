@@ -53,10 +53,10 @@
 
 
 
-> It's not whether you can or not. You just do it.
+> Nanao-chan is last place!
 
-**— Kitahara Haruki**  
-*White Album 2*
+**— Shunsui Kyōraku**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

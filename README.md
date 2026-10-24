@@ -53,10 +53,10 @@
 
 
 
-> Nanao-chan is last place!
+> A boy with less than half my strength managed to break my cage!
 
-**— Shunsui Kyōraku**  
-*Bleach*
+**— Shoot McMahon**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

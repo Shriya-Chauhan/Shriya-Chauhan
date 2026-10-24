@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg" width="180" /></p>
 
-> You can run away, but that’ll just make it worse!
+> If you are lying it will be easy on my mind. I won’t have to show you any mercy. I can defeat you without hesitation.
 
-**— Kurisu Makise**  
-*Steins Gate*
+**— Gon Freecss**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

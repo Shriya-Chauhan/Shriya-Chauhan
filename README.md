@@ -53,10 +53,10 @@
 
 
 
-> Kurosaki-kun... I'm weak, so it's always like I turn back to look to you for help. But now I won't turn back and I'll go forward. The next time we meet I won't look to you for help, Kurosaki-kun, I'll be able to fight on my own.
+> It's not whether you can or not. You just do it.
 
-**— Inoue Orihime**  
-*Bleach*
+**— Kitahara Haruki**  
+*White Album 2*
 
 <!--END_ANIME_QUOTE-->
 

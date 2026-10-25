@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2379-WutNL90IxIgh.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg" width="180" /></p>
 
-> This is straining my heartstrings.
+> Nothing of import is ever accomplished in a day, Miss Forger.
 
-**— Risa Koizumi**  
-*Lovely Complex*
+**— Henry Henderson**  
+*Spy x Family*
 
 <!--END_ANIME_QUOTE-->
 

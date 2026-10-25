@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
 
-> Nothing of import is ever accomplished in a day, Miss Forger.
+> Don't be upset because of what you can't do. Do what you do best, live as carefree and optimistically as you can, because some people aren't able to do that.
 
-**— Henry Henderson**  
-*Spy x Family*
+**— Keima Katsuragi**  
+*The World God Only Knows*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/13468-follPFjSTdME.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png" width="180" /></p>
 
-> Don't be upset because of what you can't do. Do what you do best, live as carefree and optimistically as you can, because some people aren't able to do that.
+> Men who can’t wipe away the tears from a woman’s eyes aren’t real men.
 
-**— Keima Katsuragi**  
-*The World God Only Knows*
+**— Sanji**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2379-WutNL90IxIgh.jpg" width="180" /></p>
 
-> If you are lying it will be easy on my mind. I won’t have to show you any mercy. I can defeat you without hesitation.
+> This is straining my heartstrings.
 
-**— Gon Freecss**  
-*Hunter x Hunter*
+**— Risa Koizumi**  
+*Lovely Complex*
 
 <!--END_ANIME_QUOTE-->
 

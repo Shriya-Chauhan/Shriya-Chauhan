@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png" width="180" /></p>
 
-> Men who can’t wipe away the tears from a woman’s eyes aren’t real men.
+> It's too bad I don't think of you as anything. If you get in my way... I'll kill you.
 
-**— Sanji**  
-*One Piece*
+**— Gaara**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

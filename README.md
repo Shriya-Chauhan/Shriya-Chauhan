@@ -53,10 +53,10 @@
 
 
 
-> People are all evil. In order to falsely believe yourself to be just, you must inevitably falsely believe that someone else is more evil than you.
+> Are you a coward...OR ARE YOU A MAN OF AMERICA?!
 
-**— Inoue Orihime**  
-*Bleach the Movie: Hell Verse*
+**— Tao Len**  
+*Shaman King*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,11 +51,11 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3262-AKmdJOeUr3IJ.png" width="180" /></p>
 
+> It's okay. There's no pain. [something snaps inside Morty] Oops! [grins maniacally at Yoh] I'm sorry.
 
-> Are you a coward...OR ARE YOU A MAN OF AMERICA?!
-
-**— Tao Len**  
+**— Johann Faust VIII**  
 *Shaman King*
 
 <!--END_ANIME_QUOTE-->

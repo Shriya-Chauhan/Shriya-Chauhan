@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png" width="180" /></p>
 
-> It's too bad I don't think of you as anything. If you get in my way... I'll kill you.
 
-**— Gaara**  
-*Naruto*
+> ---Well said. Then you can die first.
+
+**— Lancer**  
+*Fate/stay night*
 
 <!--END_ANIME_QUOTE-->
 

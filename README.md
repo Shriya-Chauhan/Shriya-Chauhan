@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg" width="180" /></p>
 
+> A victory won through dishonesty means it's no victory at all.
 
-> ---Well said. Then you can die first.
-
-**— Lancer**  
-*Fate/stay night*
+**— Suzaku Kururugi**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

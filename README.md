@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b559-KRvTdc6zdCuU.jpg" width="180" /></p>
 
-> A victory won through dishonesty means it's no victory at all.
 
-**— Suzaku Kururugi**  
-*Code Geass: Lelouch of the Rebellion*
+> People are all evil. In order to falsely believe yourself to be just, you must inevitably falsely believe that someone else is more evil than you.
+
+**— Inoue Orihime**  
+*Bleach the Movie: Hell Verse*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
+> I'm a pig, a louse, a useless cow! I destroyed Anubis! Such utter garbage cannot be allowed to live! I deserve to die!
 
-> I already told you...you can't kill me with that sword anymore!
-
-**— Abarai Renji**  
-*Bleach*
+**— Death the Kid**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

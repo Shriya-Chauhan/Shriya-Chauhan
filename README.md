@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3262-AKmdJOeUr3IJ.png" width="180" /></p>
 
-> It's okay. There's no pain. [something snaps inside Morty] Oops! [grins maniacally at Yoh] I'm sorry.
 
-**— Johann Faust VIII**  
-*Shaman King*
+> I already told you...you can't kill me with that sword anymore!
+
+**— Abarai Renji**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

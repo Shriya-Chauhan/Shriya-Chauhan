@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
-> I'm a pig, a louse, a useless cow! I destroyed Anubis! Such utter garbage cannot be allowed to live! I deserve to die!
 
-**— Death the Kid**  
-*Soul Eater*
+> I don't think it's all that bad to be surrounded by people who don't care much about authority or social status. It's good to know that there are various various ways of thinking.
+
+**— Zen Wistalia**  
+*Snow White with the Red Hair*
 
 <!--END_ANIME_QUOTE-->
 

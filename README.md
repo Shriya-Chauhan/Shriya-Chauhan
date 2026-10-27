@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n32724-R6koo4Abd5Jg.png" width="180" /></p>
 
+> Everything eventually faces destruction. Everything eventually disappears.
 
-> I don't think it's all that bad to be surrounded by people who don't care much about authority or social status. It's good to know that there are various various ways of thinking.
-
-**— Zen Wistalia**  
-*Snow White with the Red Hair*
+**— Tatsumi**  
+*Shiki*
 
 <!--END_ANIME_QUOTE-->
 

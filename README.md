@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n32724-R6koo4Abd5Jg.png" width="180" /></p>
 
-> Everything eventually faces destruction. Everything eventually disappears.
 
-**— Tatsumi**  
-*Shiki*
+> They call certain methods of fighting good and others evil, acting as if there were some nobility to the battlefield. Such illusions, perpetrated by heroes throughout history, have led countless young men to their bloody deaths, all for the sake of this valor and glory.
+
+**— Emiya Kiritsugu**  
+*Fate/stay night*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Clean up after yourself. If you want to be accepted, you must accept yourself first.
+> Traditions that don't benefit people today are worthless.
 
-**— Yoshida Haru**  
-*My Little Monster*
+**— Tachibana Chika**  
+*Nisekoi: False Love*
 
 <!--END_ANIME_QUOTE-->
 

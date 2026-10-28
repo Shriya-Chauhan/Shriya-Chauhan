@@ -53,10 +53,10 @@
 
 
 
-> They call certain methods of fighting good and others evil, acting as if there were some nobility to the battlefield. Such illusions, perpetrated by heroes throughout history, have led countless young men to their bloody deaths, all for the sake of this valor and glory.
+> Clean up after yourself. If you want to be accepted, you must accept yourself first.
 
-**— Emiya Kiritsugu**  
-*Fate/stay night*
+**— Yoshida Haru**  
+*My Little Monster*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Traditions that don't benefit people today are worthless.
+> What does it feel like, having your own death right before your eyes? That grand kaleidoscope glimpsed in the moments before death... What could be flashing through that perfect mind of yours?
 
-**— Tachibana Chika**  
-*Nisekoi: False Love*
+**— Korosensei**  
+*Assassination Classroom 2nd Season*
 
 <!--END_ANIME_QUOTE-->
 

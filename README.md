@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png" width="180" /></p>
 
-> You should enjoy the little detours to the fullest. Because that’s where you’ll find the things more important than what you want.
+> I despise you with my last breath. My spirit will not forget that all consuming hatred.  So long that you live, my spirit can not be free. *to Inuyasha*
 
-**— Ging Freecss**  
-*Hunter x Hunter*
+**— Kikyo**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

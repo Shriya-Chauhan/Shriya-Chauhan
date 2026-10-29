@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1359-AFczK1HRd3ub.png" width="180" /></p>
 
-> I despise you with my last breath. My spirit will not forget that all consuming hatred.  So long that you live, my spirit can not be free. *to Inuyasha*
 
-**— Kikyo**  
-*InuYasha*
+> All I ever did was pay attention to myself. And I'm not even sure I saw myself clearly.
+
+**— Luke Fon Fabre**  
+*Tales of the Abyss*
 
 <!--END_ANIME_QUOTE-->
 

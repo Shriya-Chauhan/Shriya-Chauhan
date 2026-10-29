@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg" width="180" /></p>
 
+> You should enjoy the little detours to the fullest. Because that’s where you’ll find the things more important than what you want.
 
-> What does it feel like, having your own death right before your eyes? That grand kaleidoscope glimpsed in the moments before death... What could be flashing through that perfect mind of yours?
-
-**— Korosensei**  
-*Assassination Classroom 2nd Season*
+**— Ging Freecss**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

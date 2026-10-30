@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b738-z0w63Laqb6hW.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png" width="180" /></p>
 
-> I hate these horns.
+> If the ways of this world are based on equivalent exchange, as alchemy says, then in order to allow for a new generation to enjoy good fortune, the price that we must pay, is to carry the bodies of the dead across a river of blood.
 
-**— Lucy**  
-*Elfen Lied*
+**— Riza Hawkeye**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

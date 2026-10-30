@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b81237-9BFr3lgvTZ6V.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png" width="180" /></p>
 
-> I am not a hero. I can't make anyone happy with any result. I can only do what I deem right with me not hating my choice at a later point.
+> As expected, the world is full of nasty egos. You're the best, Kaiser. I'll crush you~
 
-**— Osamu Mikumo**  
-*World Trigger*
+**— Meguru Bachira**  
+*Blue Lock*
 
 <!--END_ANIME_QUOTE-->
 

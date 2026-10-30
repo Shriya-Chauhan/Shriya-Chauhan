@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png" width="180" /></p>
 
-> As expected, the world is full of nasty egos. You're the best, Kaiser. I'll crush you~
 
-**— Meguru Bachira**  
-*Blue Lock*
+> Please, let that iron guard down for a minute. It's only hurting you. I know when you've hit rock bottom, people trying to cheer you up can be really annoying. "What would you know?" "Just leave me alone." But what if someone you're pushing away is really worried about you? That'd be a shame.
+
+**— Kaizaki Arata**  
+*ReLIFE*
 
 <!--END_ANIME_QUOTE-->
 

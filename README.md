@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b81237-9BFr3lgvTZ6V.png" width="180" /></p>
 
+> I am not a hero. I can't make anyone happy with any result. I can only do what I deem right with me not hating my choice at a later point.
 
-> All I ever did was pay attention to myself. And I'm not even sure I saw myself clearly.
-
-**— Luke Fon Fabre**  
-*Tales of the Abyss*
+**— Osamu Mikumo**  
+*World Trigger*
 
 <!--END_ANIME_QUOTE-->
 

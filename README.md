@@ -53,10 +53,10 @@
 
 
 
-> Don't just accept loss or defeat! Accept it after you're dead. If you lose without dying... it means that luck is on your side. If that happens - focus on surviving! Survive and Kill the one who couldn't kill YOU!
+> I was trying to take the easy way out by running away from everything. No matter the pain, I will keep living. So, when I die, I’ll feel I did the best I could.
 
-**— Zaraki Kenpachi**  
-*Bleach*
+**— Koala**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

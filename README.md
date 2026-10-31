@@ -53,10 +53,10 @@
 
 
 
-> I was trying to take the easy way out by running away from everything. No matter the pain, I will keep living. So, when I die, I’ll feel I did the best I could.
+> Dreams. Each man longs to pursue his dream. Each man is tortured by this dream, but the dream gives meaning to his life. Even if the dream ruins his life, man cannot allow himself to leave it behind. In this world, is man ever able to possess anything more solid, than a dream?
 
-**— Koala**  
-*Hunter x Hunter*
+**— Berserk**  
+*Berserk*
 
 <!--END_ANIME_QUOTE-->
 

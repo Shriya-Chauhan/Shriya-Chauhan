@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png" width="180" /></p>
 
-> If the ways of this world are based on equivalent exchange, as alchemy says, then in order to allow for a new generation to enjoy good fortune, the price that we must pay, is to carry the bodies of the dead across a river of blood.
 
-**— Riza Hawkeye**  
-*Fullmetal Alchemist*
+> Deceive your other self. Deceive the world. That is what you must do to reach the Steins Gate. Good Luck. El Psy Congroo.
+
+**— Okabe Rintarou**  
+*Steins;Gate*
 
 <!--END_ANIME_QUOTE-->
 

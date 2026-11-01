@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b36765-BnLbXg0Tzzh9.png" width="180" /></p>
 
+> No one dies alone. When someone dies, the part of them that lives inside someone else also dies. You already live inside me.
 
-> Dreams. Each man longs to pursue his dream. Each man is tortured by this dream, but the dream gives meaning to his life. Even if the dream ruins his life, man cannot allow himself to leave it behind. In this world, is man ever able to possess anything more solid, than a dream?
-
-**— Berserk**  
-*Berserk*
+**— Kazuto Kirigaya**  
+*Sword Art Online II*
 
 <!--END_ANIME_QUOTE-->
 

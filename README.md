@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b10863-DsfonbP2CATa.png" width="180" /></p>
 
-> <About Ciel> He turns his back towards the light without hesitation. That figure that charges into the abyss at a dignified pace. How beautiful and foolish.
 
-**— Sebastian Michaelis**  
-*Black Butler*
+> Love in real life isn’t as smooth as in manga...
+
+**— Shōta Kisa**  
+*Sekai Ichi Hatsukoi - World's Greatest First Love*
 
 <!--END_ANIME_QUOTE-->
 

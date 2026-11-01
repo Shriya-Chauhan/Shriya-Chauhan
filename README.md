@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b23602-Z4MDNYcoAWZu.png" width="180" /></p>
 
-> It's not good to expect too much, but you can't do anything if you're being overly pessimistic. If you just wait thinking it's useless, nothing will come of it.
 
-**— Shinobu Oshino**  
-*Monogatari Series: Second Season*
+> All I ever did was pay attention to myself. And I'm not even sure I saw myself clearly.
+
+**— Luke Fon Fabre**  
+*Tales of the Abyss*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
 
-> What is the resulting amperage when applying 3.0V to a conductor with 20ohm resistance?
 
-**— Yuzuru Otonashi**  
-*Angel Beats!*
+> It's because we don't unterstand! It's because we don't unterstand that we wonder what the other is thinking and try desperately to unterstand every word they say... You end up thinking too much about the other person, and being close to them becomes painful so you try to distance yourself... I believe you become friends with somebody by doing that over and over, and that's how... As much as I hate to admit it, it's how I became friends with these guys.
+
+**— Maki Honoka**  
+*Kiznaiver*
 
 <!--END_ANIME_QUOTE-->
 

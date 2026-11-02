@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14653-F1N1NOAwvUkp.jpg" width="180" /></p>
 
+> God doesn't give us trials we can't surmount. So someday all your wounds will heal and the day will come when you've surmounted all your pain.
 
-> All I ever did was pay attention to myself. And I'm not even sure I saw myself clearly.
-
-**— Luke Fon Fabre**  
-*Tales of the Abyss*
+**— Mikage Celestine**  
+*07-Ghost*
 
 <!--END_ANIME_QUOTE-->
 

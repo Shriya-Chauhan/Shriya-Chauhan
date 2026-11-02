@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14653-F1N1NOAwvUkp.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
 
-> God doesn't give us trials we can't surmount. So someday all your wounds will heal and the day will come when you've surmounted all your pain.
+> What is the resulting amperage when applying 3.0V to a conductor with 20ohm resistance?
 
-**— Mikage Celestine**  
-*07-Ghost*
+**— Yuzuru Otonashi**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

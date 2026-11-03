@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b58681-xgfP9JqWrO4C.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
 
-> Change can only arise from fluctuations, right? That's why going back and forth between confidence and weakness, if you're shifting then you're changing, I think. Like that, little by little, everyone is changing probably.
+> *to Edward* There's something disturbing about having to be in your debt...
 
-**— Touma Kikuchi**  
-*Blue Spring Ride*
+**— Roy Mustang**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

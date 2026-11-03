@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b58681-xgfP9JqWrO4C.jpg" width="180" /></p>
 
-> There are stars and planets floating around me. I don't think I could handle astronomy right now.
+> Change can only arise from fluctuations, right? That's why going back and forth between confidence and weakness, if you're shifting then you're changing, I think. Like that, little by little, everyone is changing probably.
 
-**— Crona**  
-*Soul Eater*
+**— Touma Kikuchi**  
+*Blue Spring Ride*
 
 <!--END_ANIME_QUOTE-->
 

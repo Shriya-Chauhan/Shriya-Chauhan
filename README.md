@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b11919-a7TkrWsP3H1Z.png" width="180" /></p>
 
+> There are stars and planets floating around me. I don't think I could handle astronomy right now.
 
-> It's because we don't unterstand! It's because we don't unterstand that we wonder what the other is thinking and try desperately to unterstand every word they say... You end up thinking too much about the other person, and being close to them becomes painful so you try to distance yourself... I believe you become friends with somebody by doing that over and over, and that's how... As much as I hate to admit it, it's how I became friends with these guys.
-
-**— Maki Honoka**  
-*Kiznaiver*
+**— Crona**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg" width="180" /></p>
 
-> No matter who you were before, how you look right now is who you are.
+> People share only one common fate... death.
 
-**— Sakuta Azusagawa**  
-*Rascal Does Not Dream of Bunny Girl Senpai*
+**— Neji Hyuuga**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

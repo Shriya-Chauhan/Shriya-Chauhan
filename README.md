@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png" width="180" /></p>
 
-> *to Edward* There's something disturbing about having to be in your debt...
+> No matter who you were before, how you look right now is who you are.
 
-**— Roy Mustang**  
-*Fullmetal Alchemist*
+**— Sakuta Azusagawa**  
+*Rascal Does Not Dream of Bunny Girl Senpai*
 
 <!--END_ANIME_QUOTE-->
 

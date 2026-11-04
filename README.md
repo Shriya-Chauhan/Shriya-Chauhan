@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg" width="180" /></p>
 
-> People share only one common fate... death.
 
-**— Neji Hyuuga**  
-*Naruto*
+> I've already decided. Getting good grades and listening to teachers can take me somewhere high and far away, but what if that's not where I want to go? Right here, by your side, Tomoya, is the only place I want to be.
+
+**— Sakagami Tomoyo**  
+*Clannad*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> I've already decided. Getting good grades and listening to teachers can take me somewhere high and far away, but what if that's not where I want to go? Right here, by your side, Tomoya, is the only place I want to be.
+> An eye for an eye, a tooth for a tooth, evil for evil.
 
-**— Sakagami Tomoyo**  
-*Clannad*
+**— Ogami Rei**  
+*Code:Breaker*
 
 <!--END_ANIME_QUOTE-->
 

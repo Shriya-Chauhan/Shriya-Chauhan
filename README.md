@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png" width="180" /></p>
 
-> Even if we forget the faces of our friends, We will never forget the bonds that were carved into our souls.
+> Master Sergeant Fuery, during your last physical it was discovered you have Athletes Foot, and we now believe it is affecting your brain.
 
-**— Yuzuru Otonashi**  
-*Angel Beats!*
+**— Riza Hawkeye**  
+*Fullmetal Alchemist*
 
 <!--END_ANIME_QUOTE-->
 

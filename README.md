@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24509-5PH1LI0pluva.jpg" width="180" /></p>
 
-> Master Sergeant Fuery, during your last physical it was discovered you have Athletes Foot, and we now believe it is affecting your brain.
+> Scrambled it trouble down.
 
-**— Riza Hawkeye**  
-*Fullmetal Alchemist*
+**— TK**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

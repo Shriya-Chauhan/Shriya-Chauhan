@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24502-TJE8JeOERvj0.jpg" width="180" /></p>
 
+> Even if we forget the faces of our friends, We will never forget the bonds that were carved into our souls.
 
-> An eye for an eye, a tooth for a tooth, evil for evil.
-
-**— Ogami Rei**  
-*Code:Breaker*
+**— Yuzuru Otonashi**  
+*Angel Beats!*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/27576.jpg" width="180" /></p>
 
-> Charging from the front isn't the only way to cross a wall. If pushing doesn't work, why not try pulling? Try thinking from the opposite direction, you might be able to find a new way out.
 
-**— Kou Kazamatsuri**  
-*Whistle!*
+> They say "there's always room for dessert", but for me, it's more like "there's always room if someone else is paying".
+
+**— Kasumi Fuu**  
+*Samurai Champloo*
 
 <!--END_ANIME_QUOTE-->
 

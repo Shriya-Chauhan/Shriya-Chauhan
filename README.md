@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b24509-5PH1LI0pluva.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/27576.jpg" width="180" /></p>
 
-> Scrambled it trouble down.
+> Charging from the front isn't the only way to cross a wall. If pushing doesn't work, why not try pulling? Try thinking from the opposite direction, you might be able to find a new way out.
 
-**— TK**  
-*Angel Beats!*
+**— Kou Kazamatsuri**  
+*Whistle!*
 
 <!--END_ANIME_QUOTE-->
 

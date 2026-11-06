@@ -53,10 +53,10 @@
 
 
 
-> They say "there's always room for dessert", but for me, it's more like "there's always room if someone else is paying".
+> The world lies! Thou shalt not commit murder, thou shalt not bear false witness, thou shalt not cheat, thou shalt not steal, thou shalt not covet thy neighbor's wife. All of these are lies! Mere illusions and nothing more! They don't want to be killed, they don't want to be robbed, using the twin lies of justice and morality, the weak are endeavoring to protect themselves. But the first truth is that the strong devour the weak, so let us feed upon people, upon wealth, upon riches and power! We, at Britannia, shall feast upon the raw flesh of the world itself! We will crush this deception and bring forth the truth! All Hail Britannia!
 
-**— Kasumi Fuu**  
-*Samurai Champloo*
+**— Charles Zi Britannia**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

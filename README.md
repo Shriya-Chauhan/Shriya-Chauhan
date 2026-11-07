@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b4839-p2SBgjdTxHxk.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1748-j3PdfbQruuOV.png" width="180" /></p>
 
-> I don't care where I get hurt, as long as my injuries are visible.
+> You're always away during the important times and all you do is call. There are times when you are finally here, but then you disappear unexpectedly. Every time... every time... always, always, leaving me behind alone. What do you think I am? I love you Shinichi!
 
-**— Gray Fullbuster**  
-*Fairy Tail*
+**— Ran Mouri**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

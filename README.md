@@ -53,10 +53,10 @@
 
 
 
-> Idiots should do what idiots can to be quicker.
+> *to Okita* I don't care about that gap you created on your own. I'll jump across it as many times as it takes, and punch some sense into you.
 
-**— Akito Sohma**  
-*Fruits Basket*
+**— Isao Kondō**  
+*Gintama*
 
 <!--END_ANIME_QUOTE-->
 

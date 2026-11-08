@@ -51,12 +51,13 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png" width="180" /></p>
 
+> The present isn't everything, but there are things you can only do now, things you can only find here. 
+It's now or never. Think, Writhe, Struggle and agonize. If not, what you are going through isn’t genuine.
 
-> I must be a pretty pathetic owner for you to have bitten me, Akamaru....
-
-**— Kiba Inuzuka**  
-*Naruto*
+**— Shizuka Hiratsuka**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

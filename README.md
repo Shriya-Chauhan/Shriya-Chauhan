@@ -53,10 +53,10 @@
 
 
 
-> *to Okita* I don't care about that gap you created on your own. I'll jump across it as many times as it takes, and punch some sense into you.
+> I must be a pretty pathetic owner for you to have bitten me, Akamaru....
 
-**— Isao Kondō**  
-*Gintama*
+**— Kiba Inuzuka**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> Not one wish ever gets granted in this world.
+> Idiots should do what idiots can to be quicker.
 
-**— Tobi**  
-*Naruto*
+**— Akito Sohma**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,13 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67077-NaBvItxCYPon.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png" width="180" /></p>
 
-> The present isn't everything, but there are things you can only do now, things you can only find here. 
-It's now or never. Think, Writhe, Struggle and agonize. If not, what you are going through isn’t genuine.
+> In this world, you either burn or get burned. Go ahead and pray to the God of salvation you favor so much.
 
-**— Shizuka Hiratsuka**  
-*My Teen Romantic Comedy SNAFU TOO!*
+**— Hibana**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

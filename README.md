@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png" width="180" /></p>
 
-> In this world, you either burn or get burned. Go ahead and pray to the God of salvation you favor so much.
 
-**— Hibana**  
-*Fire Force*
+> It's okay to live, even if there's no greater point to living.
+
+**— Konno Yuuki**  
+*Sword Art Online II*
 
 <!--END_ANIME_QUOTE-->
 

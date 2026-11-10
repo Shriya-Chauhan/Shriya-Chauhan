@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png" width="180" /></p>
 
-> I lost all of what you could call feelings of love. They weren't sealed, so they can't be released. They weren't broken, so they can't be fixed. That which is lost, cannot be recovered.
 
-**— Tatsuya Shiba**  
-*The Irregular at Magic High School*
+> I'll drive you into a corner and make you remember that attack.
+
+**— Urahara Kisuke**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

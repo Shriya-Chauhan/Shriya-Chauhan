@@ -53,10 +53,10 @@
 
 
 
-> It's okay to live, even if there's no greater point to living.
+> If you guys are hunters, I'm saying you should be ready to become hunted.
 
-**— Konno Yuuki**  
-*Sword Art Online II*
+**— Sung Jinwoo**  
+*Solo Leveling*
 
 <!--END_ANIME_QUOTE-->
 

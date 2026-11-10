@@ -53,10 +53,10 @@
 
 
 
-> If you guys are hunters, I'm saying you should be ready to become hunted.
+> High school girls, high school girls, all for me, high school girls!
 
-**— Sung Jinwoo**  
-*Solo Leveling*
+**— Sohma Shigure**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

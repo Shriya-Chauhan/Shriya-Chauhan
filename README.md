@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b135859-AfUesBGI8aUN.png" width="180" /></p>
 
-> Looking back on the past is a dangerous thing. It's nothing more than an attachment.
 
-**— Fukase**  
-*Haven't You Heard? I'm Sakamoto*
+> We shouldn’t worry about being able to achieve ourdreams, as long as we have the desire to do it.
+
+**— Coby**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

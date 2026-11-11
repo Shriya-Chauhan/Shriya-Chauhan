@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b135859-AfUesBGI8aUN.png" width="180" /></p>
 
+> Looking back on the past is a dangerous thing. It's nothing more than an attachment.
 
-> I'll drive you into a corner and make you remember that attack.
-
-**— Urahara Kisuke**  
-*Bleach*
+**— Fukase**  
+*Haven't You Heard? I'm Sakamoto*
 
 <!--END_ANIME_QUOTE-->
 

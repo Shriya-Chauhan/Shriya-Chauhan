@@ -53,10 +53,10 @@
 
 
 
-> We shouldn’t worry about being able to achieve ourdreams, as long as we have the desire to do it.
+> Oh? What are you surprised about!? Do you think that I'm someone who would give up after being rejected just once!? Hospitalized or not, I shall continue to polish myself and become even moooore of a spectacular lady, and return to you!!
 
-**— Coby**  
-*One Piece*
+**— Tachibana Marika**  
+*Nisekoi: False Love*
 
 <!--END_ANIME_QUOTE-->
 

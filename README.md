@@ -53,10 +53,10 @@
 
 
 
-> Oh? What are you surprised about!? Do you think that I'm someone who would give up after being rejected just once!? Hospitalized or not, I shall continue to polish myself and become even moooore of a spectacular lady, and return to you!!
+> Everyone! Even though I’ve been good for nothing my whole life, even though I have the blood of a demon within me… You guys still loved me! Thank you so much!
 
-**— Tachibana Marika**  
-*Nisekoi: False Love*
+**— Portgas D. Ace**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

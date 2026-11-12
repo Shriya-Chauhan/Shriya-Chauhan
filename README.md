@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b14552-l5hN8i6wFfTl.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png" width="180" /></p>
 
-> If I follow my dream and it shatters - I can accept having to regret that. But I don't want to regret not pursuing it in the first place.
+> Friends are important. Cherish them.
 
-**— Akito Takagi**  
-*Bakuman.*
+**— Loid Forger**  
+*Spy x Family*
 
 <!--END_ANIME_QUOTE-->
 

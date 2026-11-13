@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13835-1H8HQb47woJH.png" width="180" /></p>
 
-> That's pretty bad when you can even give a half demon the creeps. *to Kagome*
+> I don't really like people who go around brandishing the banner of justice. No matter the reason, where human's are involved, there is no black or white, no justice or evil. There is only our will.
 
-**— Inuyasha**  
-*InuYasha*
+**— Oz Vessalius**  
+*Pandora Hearts*
 
 <!--END_ANIME_QUOTE-->
 

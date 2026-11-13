@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b49699-clLWMEdcIFQC.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png" width="180" /></p>
 
-> Keeping all the wealth for yourself may make your rich, but it won’t make you prosperous. You give people money, and they spend it. True prosperity comes from a free flow of wealth and goods.
+> That's pretty bad when you can even give a half demon the creeps. *to Kagome*
 
-**— Maou**  
-*Maoyu*
+**— Inuyasha**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

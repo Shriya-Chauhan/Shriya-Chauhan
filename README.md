@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b49699-clLWMEdcIFQC.jpg" width="180" /></p>
 
-> Friends are important. Cherish them.
+> Keeping all the wealth for yourself may make your rich, but it won’t make you prosperous. You give people money, and they spend it. True prosperity comes from a free flow of wealth and goods.
 
-**— Loid Forger**  
-*Spy x Family*
+**— Maou**  
+*Maoyu*
 
 <!--END_ANIME_QUOTE-->
 

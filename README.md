@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b13835-1H8HQb47woJH.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png" width="180" /></p>
 
-> I don't really like people who go around brandishing the banner of justice. No matter the reason, where human's are involved, there is no black or white, no justice or evil. There is only our will.
+> Food is a gift from god. Spices are a gift from the devil. It looks like it was a bit too spicy for you.
 
-**— Oz Vessalius**  
-*Pandora Hearts*
+**— Sanji**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

@@ -53,10 +53,10 @@
 
 
 
-> True beauty lies in things that last forever, never rotting or fading.
+> Hatred is born when people gather together.
 
-**— Sasori**  
-*Naruto*
+**— Johann Liebert**  
+*Monster*
 
 <!--END_ANIME_QUOTE-->
 

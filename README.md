@@ -53,10 +53,10 @@
 
 
 
-> Hatred is born when people gather together.
+> The only one who should decide which path to follow is yourself.
 
-**— Johann Liebert**  
-*Monster*
+**— Zen Wistalia**  
+*Snow White with the Red Hair*
 
 <!--END_ANIME_QUOTE-->
 

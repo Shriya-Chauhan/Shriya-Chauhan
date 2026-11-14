@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png" width="180" /></p>
 
-> Food is a gift from god. Spices are a gift from the devil. It looks like it was a bit too spicy for you.
 
-**— Sanji**  
-*One Piece*
+> True beauty lies in things that last forever, never rotting or fading.
+
+**— Sasori**  
+*Naruto*
 
 <!--END_ANIME_QUOTE-->
 

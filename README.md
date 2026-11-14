@@ -53,10 +53,10 @@
 
 
 
-> The only one who should decide which path to follow is yourself.
+> Have you ever heard in the world, there are things best not to ask?
 
-**— Zen Wistalia**  
-*Snow White with the Red Hair*
+**— Aokiji**  
+*One Piece*
 
 <!--END_ANIME_QUOTE-->
 

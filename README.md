@@ -53,10 +53,10 @@
 
 
 
-> Have you ever heard in the world, there are things best not to ask?
+> It's over between Kana and me. We're not going to get back together. Even if we were together, I would only miss her... (To Shigure and Ayame)
 
-**— Aokiji**  
-*One Piece*
+**— Sohma Hatori**  
+*Fruits Basket*
 
 <!--END_ANIME_QUOTE-->
 

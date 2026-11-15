@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder.
+> I want to reply with a long message, but if it's too long, that might be kind of revolting. But if it's too short, then I might come off as cold instead. Feeling apprehensive of what to do, I decided to reply back with a similar word count instead. This was what they called "mirroring" in psychology. By emulating the actions of the other party, your affection levels would increase!
 
-**— Ai Haibara**  
-*Case Closed*
+**— Hachiman Hikigaya**  
+*My Teen Romantic Comedy SNAFU TOO!*
 
 <!--END_ANIME_QUOTE-->
 

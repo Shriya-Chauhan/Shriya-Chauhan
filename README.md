@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1743-yw1FloPUI7jO.png" width="180" /></p>
 
+> People have emotions. A troublesome attribute that's not only invisible, but also changes easily. If it's friendship or love, then that's fine. But if by some trigger it changes to malice and vengeance, then that could bring forth thoughts of murder.
 
-> It's over between Kana and me. We're not going to get back together. Even if we were together, I would only miss her... (To Shigure and Ayame)
-
-**— Sohma Hatori**  
-*Fruits Basket*
+**— Ai Haibara**  
+*Case Closed*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b67065-Dhec6tE2yWA9.png" width="180" /></p>
 
-> I want to reply with a long message, but if it's too long, that might be kind of revolting. But if it's too short, then I might come off as cold instead. Feeling apprehensive of what to do, I decided to reply back with a similar word count instead. This was what they called "mirroring" in psychology. By emulating the actions of the other party, your affection levels would increase!
 
-**— Hachiman Hikigaya**  
-*My Teen Romantic Comedy SNAFU TOO!*
+> I'm Black Star. I'm on a whole different level than you. I'm a big man! I beat death! Who else can say that?!
+
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

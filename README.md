@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
 
-> Surpass your limit. Right here, right now.
+> Do you value your life? Do you think that your family and friends are important to you? If they are, then you should never think of changing yourself. Otherwise, you will lose everything that is precious to you.
 
-**— Yami Sukehiro**  
-*Black Clover*
+**— Homura Akemi**  
+*Puella Magi Madoka Magica*
 
 <!--END_ANIME_QUOTE-->
 

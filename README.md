@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png" width="180" /></p>
 
+> The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does?
 
-> I'm Black Star. I'm on a whole different level than you. I'm a big man! I beat death! Who else can say that?!
-
-**— Black Star**  
-*Soul Eater*
+**— Faye Valentine**  
+*Cowboy Bebop*
 
 <!--END_ANIME_QUOTE-->
 

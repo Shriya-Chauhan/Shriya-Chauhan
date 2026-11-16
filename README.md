@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b124440-Lpdo6y8cljV6.png" width="180" /></p>
 
-> The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does?
+> Surpass your limit. Right here, right now.
 
-**— Faye Valentine**  
-*Cowboy Bebop*
+**— Yami Sukehiro**  
+*Black Clover*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> In this world, nobody is free. Even the flying birds are chained to the sky.
+> People don't give damn about reasons, but nobody can resist miracles.
 
-**— Yuu Otosaka**  
-*Charlotte*
+**— Lelouch Lamperouge**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b38005-T3NR8p2f021x.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png" width="180" /></p>
 
-> Do you value your life? Do you think that your family and friends are important to you? If they are, then you should never think of changing yourself. Otherwise, you will lose everything that is precious to you.
+> In this world, nobody is free. Even the flying birds are chained to the sky.
 
-**— Homura Akemi**  
-*Puella Magi Madoka Magica*
+**— Yuu Otosaka**  
+*Charlotte*
 
 <!--END_ANIME_QUOTE-->
 

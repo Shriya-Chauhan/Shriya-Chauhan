@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
-> People don't give damn about reasons, but nobody can resist miracles.
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+> Kindness is not a crime. But sometimes it awakens the weakness and greed in others.
+
+**— Su-won**  
+*Yona of the Dawn*
 
 <!--END_ANIME_QUOTE-->
 

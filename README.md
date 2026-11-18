@@ -53,10 +53,10 @@
 
 
 
-> We're all the same. No one really remembers the day he was born. We all have to trust another's word on the matter. It doesn't matter if it's true or not. Just having a birthday makes one happy I think.
+> Without love, people could exist without knowing truth and falsehood. By knowing it, they cry and grief and get lost. I was the same back then.
 
-**— Aizen Sousuke**  
-*Bleach*
+**— Furudo Erika**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

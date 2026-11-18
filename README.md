@@ -53,10 +53,10 @@
 
 
 
-> Kindness is not a crime. But sometimes it awakens the weakness and greed in others.
+> We're all the same. No one really remembers the day he was born. We all have to trust another's word on the matter. It doesn't matter if it's true or not. Just having a birthday makes one happy I think.
 
-**— Su-won**  
-*Yona of the Dawn*
+**— Aizen Sousuke**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

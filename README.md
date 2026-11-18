@@ -53,10 +53,10 @@
 
 
 
-> Without love, people could exist without knowing truth and falsehood. By knowing it, they cry and grief and get lost. I was the same back then.
+> When you want to scream or cry, I’ll be there. I’ll share your feelings and stay with you.
 
-**— Furudo Erika**  
-*Umineko: When They Cry*
+**— Tada Banri**  
+*Golden Time*
 
 <!--END_ANIME_QUOTE-->
 

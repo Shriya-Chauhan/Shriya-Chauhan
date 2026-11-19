@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
-> If you want to get to know someone, find out what makes them angry.
+> We're hunting after a legendary sword. Finding a fairy or two shouldn't be surprising.
 
-**— Gon Freecss**  
-*Hunter x Hunter*
+**— Death the Kid**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

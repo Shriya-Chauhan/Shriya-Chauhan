@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg" width="180" /></p>
 
+> If you want to get to know someone, find out what makes them angry.
 
-> When you want to scream or cry, I’ll be there. I’ll share your feelings and stay with you.
-
-**— Tada Banri**  
-*Golden Time*
+**— Gon Freecss**  
+*Hunter x Hunter*
 
 <!--END_ANIME_QUOTE-->
 

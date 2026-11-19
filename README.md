@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b8455-0Ztel4ew5bNd.png" width="180" /></p>
 
-> We're hunting after a legendary sword. Finding a fairy or two shouldn't be surprising.
 
-**— Death the Kid**  
-*Soul Eater*
+> ...Without love, it cannot be seen? ...Hah. That's backwards... Because of love, you end up seeing things that don't even exist.
+
+**— Furudo Erika**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

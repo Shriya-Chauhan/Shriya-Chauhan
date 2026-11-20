@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
+> Don't mistake borrowed power for your own ability!
 
-> [to Chad and Orihime] Your transformation is not a disease. You were just given the key to the door in front of you. There's no need to know the cause. No need for sorrow or sadness. What comes next is up to you. You can use your keys to open the door...or lock it tight. And if you do choose to open it... You can still decide not to pass through.
-
-**— Urahara Kisuke**  
-*Bleach*
+**— Lelouch Lamperouge**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

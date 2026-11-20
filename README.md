@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png" width="180" /></p>
 
-> Don't mistake borrowed power for your own ability!
+> Life really is a mysterious thing. Each and every life spins its own, totally separate tale, yet they become intricately entwined in each other. And no one knows how they will end up.
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+**— Decim**  
+*Death Parade*
 
 <!--END_ANIME_QUOTE-->
 

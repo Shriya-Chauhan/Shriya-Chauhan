@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
 
+> You can't change the world without getting your hands dirty.
 
-> Don't just blame yourself. You're not tough enough to withstand everything. Split the load, to my shoulders, and to Ichigo's. Just stack it little by little. That's why we've become stronger. Believe in him, Rukia.
-
-**— Abarai Renji**  
-*Bleach*
+**— Lelouch Lamperouge**  
+*Code Geass: Lelouch of the Rebellion*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b417-gVLmIJu9phcK.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/85153-1qeDfjAGSsgA.png" width="180" /></p>
 
-> You can't change the world without getting your hands dirty.
+> It's scary to decide, isn't it? But we have to decide something. If we make a decision, things might change.
 
-**— Lelouch Lamperouge**  
-*Code Geass: Lelouch of the Rebellion*
+**— Hajime Ichinose**  
+*Gatchaman Crowds*
 
 <!--END_ANIME_QUOTE-->
 

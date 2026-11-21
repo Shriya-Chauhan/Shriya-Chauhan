@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/85153-1qeDfjAGSsgA.png" width="180" /></p>
 
-> It's scary to decide, isn't it? But we have to decide something. If we make a decision, things might change.
 
-**— Hajime Ichinose**  
-*Gatchaman Crowds*
+> Why are you punching? What are you chasing? You should already know the answer to that. To become strong.
+
+**— Coach Kamogawa**  
+*Hajime no Ippo*
 
 <!--END_ANIME_QUOTE-->
 

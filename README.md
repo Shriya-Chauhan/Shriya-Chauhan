@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b81853-CY99xwoziDG4.png" width="180" /></p>
 
-> Life really is a mysterious thing. Each and every life spins its own, totally separate tale, yet they become intricately entwined in each other. And no one knows how they will end up.
 
-**— Decim**  
-*Death Parade*
+> Don't just blame yourself. You're not tough enough to withstand everything. Split the load, to my shoulders, and to Ichigo's. Just stack it little by little. That's why we've become stronger. Believe in him, Rukia.
+
+**— Abarai Renji**  
+*Bleach*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
 
-> I haven't said anything about letting them commit murder...yet.
 
-**— L Lawliet**  
-*Death Note*
+> Quite worthy of being an instructor at U.A. Ain’t that right, hero? Is it cuz your students are so precious? Hope you got what it takes to protect them… See ya later.
+
+**— Dabi**  
+*My Hero Academia*
 
 <!--END_ANIME_QUOTE-->
 

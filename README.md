@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b65229-hYOZtUlIpd5G.png" width="180" /></p>
 
+> Only I can help myself, and in the future, I can make up for all my misfortunes and change the world into a place where there's no irrational discrimination and that's why there's no way in hell that I can die here!
 
-> Quite worthy of being an instructor at U.A. Ain’t that right, hero? Is it cuz your students are so precious? Hope you got what it takes to protect them… See ya later.
-
-**— Dabi**  
-*My Hero Academia*
+**— Mine**  
+*Akame ga Kill!*
 
 <!--END_ANIME_QUOTE-->
 

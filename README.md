@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png" width="180" /></p>
 
+> I haven't said anything about letting them commit murder...yet.
 
-> Why are you punching? What are you chasing? You should already know the answer to that. To become strong.
-
-**— Coach Kamogawa**  
-*Hajime no Ippo*
+**— L Lawliet**  
+*Death Note*
 
 <!--END_ANIME_QUOTE-->
 

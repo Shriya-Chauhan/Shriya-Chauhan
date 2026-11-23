@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png" width="180" /></p>
 
-> Well excuse me for making you sleep in the wild all the time.
 
-**— Inuyasha**  
-*InuYasha*
+> When you entrust so much of your everyday life to those electronic devices, the argument that you aren't a cyborg isn't very convincing. To you, those portable terminals are already your second brain. Isn't that right? It can be said that the history of science is a history of the expansion of the human body's functionality, in other words, the history of man's cyberization. That's why it's a matter of degree.
+
+**— Toyohisa Senguji**  
+*Psycho-Pass*
 
 <!--END_ANIME_QUOTE-->
 

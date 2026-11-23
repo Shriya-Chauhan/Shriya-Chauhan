@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b1353-xsZhvfi7IFzT.png" width="180" /></p>
 
+> Well excuse me for making you sleep in the wild all the time.
 
-> Kindness can sometime translate to hostility.
-
-**— Senjougahara Hitagi**  
-*Bakemonogatari*
+**— Inuyasha**  
+*InuYasha*
 
 <!--END_ANIME_QUOTE-->
 

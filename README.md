@@ -53,10 +53,10 @@
 
 
 
-> Don't deny your dreams, ok? There is no point at all in taking a first step, if your eyes are closed and you don't gaze at the future.
+> It's Me with a capital M! I'm the only one big enough to capitalize Me!
 
-**— Gaap**  
-*Umineko: When They Cry*
+**— Black Star**  
+*Soul Eater*
 
 <!--END_ANIME_QUOTE-->
 

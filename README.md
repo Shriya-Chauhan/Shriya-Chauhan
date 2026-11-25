@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png" width="180" /></p>
 
-> Heroes always arrive from the skies.
 
-**— Shinra Kusakabe**  
-*Fire Force*
+> Don't deny your dreams, ok? There is no point at all in taking a first step, if your eyes are closed and you don't gaze at the future.
+
+**— Gaap**  
+*Umineko: When They Cry*
 
 <!--END_ANIME_QUOTE-->
 

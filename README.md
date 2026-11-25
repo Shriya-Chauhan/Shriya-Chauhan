@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b88412-sIOJUnIkyFRe.png" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png" width="180" /></p>
 
-> Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?
+> Heroes always arrive from the skies.
 
-**— Juuzou Suzuya**  
-*Tokyo Ghoul*
+**— Shinra Kusakabe**  
+*Fire Force*
 
 <!--END_ANIME_QUOTE-->
 

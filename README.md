@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg" width="180" /></p>
 
-> Pika Pika!
 
-**— Pikachu**  
-*Pokémon*
+> People can't live for the future without accepting reality.
+
+**— Kurokawa Mari**  
+*GATE*
 
 <!--END_ANIME_QUOTE-->
 

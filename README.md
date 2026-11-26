@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b3891-edgrZOgCJ9do.jpg" width="180" /></p>
 
+> Pika Pika!
 
-> It's Me with a capital M! I'm the only one big enough to capitalize Me!
-
-**— Black Star**  
-*Soul Eater*
+**— Pikachu**  
+*Pokémon*
 
 <!--END_ANIME_QUOTE-->
 

@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png" width="180" /></p>
 
+> I'm Willing to Die to Keep Living Like This.
 
-> People can't live for the future without accepting reality.
-
-**— Kurokawa Mari**  
-*GATE*
+**— Denji**  
+*Chainsaw Man*
 
 <!--END_ANIME_QUOTE-->
 

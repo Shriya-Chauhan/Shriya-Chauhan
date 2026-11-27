@@ -53,10 +53,10 @@
 
 
 
-> Unwavering Faith and Resilient Bonds will bring even miracles to your side.
+> I will save everyone! You guys just have to remember who saved everyone here!
 
-**— Mavis Vermillion**  
-*Fairy Tail*
+**— Yuri Orlov**  
+*Solo Leveling*
 
 <!--END_ANIME_QUOTE-->
 

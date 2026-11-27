@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/b130102-FO1VHNnEnLlB.png" width="180" /></p>
 
-> I'm Willing to Die to Keep Living Like This.
 
-**— Denji**  
-*Chainsaw Man*
+> Unwavering Faith and Resilient Bonds will bring even miracles to your side.
+
+**— Mavis Vermillion**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 

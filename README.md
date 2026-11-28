@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
-<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg" width="180" /></p>
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/3085.jpg" width="180" /></p>
 
-> It is love that can make us strong, but it is also love that can make us weak.
+> You cannot go into battle believing you will lose.
 
-**— Makarov Dreyar**  
-*Fairy Tail*
+**— Akisame Koetsuji**  
+*KenIchi: The Mightiest Disciple*
 
 <!--END_ANIME_QUOTE-->
 

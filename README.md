@@ -51,12 +51,12 @@
 
 <!--START_ANIME_QUOTE-->
 
+<p align="center"><img src="https://s4.anilist.co/file/anilistcdn/character/large/5333.jpg" width="180" /></p>
 
+> It is love that can make us strong, but it is also love that can make us weak.
 
-> I will save everyone! You guys just have to remember who saved everyone here!
-
-**— Yuri Orlov**  
-*Solo Leveling*
+**— Makarov Dreyar**  
+*Fairy Tail*
 
 <!--END_ANIME_QUOTE-->
 
